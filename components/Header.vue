@@ -1,0 +1,3467 @@
+<template>
+  <div>
+    <header
+      id="t-header"
+      class="t-records"
+      data-hook="blocks-collection-content-node"
+      data-tilda-project-id="10949551"
+      data-tilda-page-id="56967663"
+      data-tilda-formskey="15b163b05ae351781d93030a10949551"
+      data-tilda-cookie="no"
+      data-tilda-lazy="yes"
+      data-tilda-root-zone="com"
+    >
+      <div
+        id="rec815323087"
+        class="r t-rec t-screenmin-1200px"
+        style="background-color: #dcf0ff"
+        data-record-type="396"
+        data-screen-min="1200px"
+        data-bg-color="#dcf0ff"
+      >
+        <style>
+          #rec815323087 .t396__artboard {
+            position: fixed;
+            width: 100%;
+            left: 0;
+            top: 0;
+            transform: translateY(-100%);
+            transition: transform 0.15s;
+            z-index: 990;
+          }
+
+          #rec815323087 .t396__artboard {
+            height: 105px;
+            overflow: visible;
+          }
+
+          #rec815323087 .t396__filter {
+            height: 105px;
+          }
+
+          #rec815323087 .t396__carrier {
+            height: 105px;
+            background-position: center center;
+            background-attachment: scroll;
+            background-size: cover;
+            background-repeat: no-repeat;
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .t396__artboard,
+            #rec815323087 .t396__filter,
+            #rec815323087 .t396__carrier {
+            }
+
+            #rec815323087 .t396__filter {
+            }
+
+            #rec815323087 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815323087 .t396__artboard,
+            #rec815323087 .t396__filter,
+            #rec815323087 .t396__carrier {
+            }
+
+            #rec815323087 .t396__filter {
+            }
+
+            #rec815323087 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .t396__artboard,
+            #rec815323087 .t396__filter,
+            #rec815323087 .t396__carrier {
+              height: 135px;
+            }
+
+            #rec815323087 .t396__filter {
+            }
+
+            #rec815323087 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815323087 .t396__artboard,
+            #rec815323087 .t396__filter,
+            #rec815323087 .t396__carrier {
+            }
+
+            #rec815323087 .t396__filter {
+            }
+
+            #rec815323087 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+            #rec815323087 .t396__artboard,
+            #rec815323087 .t396__filter,
+            #rec815323087 .t396__carrier {
+              height: 254px;
+            }
+
+            #rec815323087 .t396__filter {
+            }
+
+            #rec815323087 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 639px) {
+            #rec815323087 .t396__artboard,
+            #rec815323087 .t396__filter,
+            #rec815323087 .t396__carrier {
+            }
+
+            #rec815323087 .t396__filter {
+            }
+
+            #rec815323087 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 479px) {
+            #rec815323087 .t396__artboard,
+            #rec815323087 .t396__filter,
+            #rec815323087 .t396__carrier {
+              height: 254px;
+            }
+
+            #rec815323087 .t396__filter {
+            }
+
+            #rec815323087 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1682335500868"] {
+            z-index: 2;
+            top: -43px;
+            left: calc(50% - 960px + 10px);
+            width: 1900px;
+            height: 145px;
+            -webkit-backdrop-filter: blur(8px);
+            backdrop-filter: blur(8px);
+            border-radius: 25px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+            border-width: 1px;
+            border-radius: 25px;
+            opacity: 0.85;
+            background-color: #ffffff;
+            background-position: center center;
+            background-attachment: scroll;
+            border-color: #0179ff;
+            border-style: solid;
+            box-shadow: 0px 8px 12px 0px rgba(33, 26, 161, 0.1);
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] {
+              left: calc(50% - 840px + 9px);
+              width: 99%;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+              background-position: center center;
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] {
+              left: calc(50% - 700px + -7px);
+              width: 101%;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+              background-position: center center;
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] {
+              top: -27px;
+              left: calc(50% - 600px + 0px);
+              width: 100px;
+              height: 145px;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] {
+              left: calc(50% - 480px + 10px);
+              width: 940px;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] {
+              top: 0px;
+              left: calc(50% - 320px + 0px);
+              width: 100%;
+              height: 254px;
+              border-radius: 0px;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+              border-radius: 0px;
+            }
+          }
+
+          @media screen and (max-width: 639px) {
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+            }
+          }
+
+          @media screen and (max-width: 479px) {
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] {
+              top: 0px;
+              left: calc(50% - 160px + 0px);
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+            }
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1681820298248"] {
+            color: #000000;
+            z-index: 3;
+            top: 42px;
+            left: calc(50% - 960px + 88px);
+            width: 130px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1681820298248"] .tn-atom {
+            color: #000000;
+            font-size: 46px;
+            font-family: "Arial", Arial, sans-serif;
+            line-height: 1.15;
+            font-weight: 600;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .tn-elem[data-elem-id="1681820298248"] {
+              top: 50px;
+              left: calc(50% - 840px + 63px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1681820298248"] {
+              top: 53px;
+              left: calc(50% - 600px + 41px);
+              width: 223px;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1681820298248"] .tn-atom {
+              font-size: 26px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815323087 .tn-elem[data-elem-id="1681820298248"] {
+              top: 23px;
+              left: calc(50% - 480px + 30px);
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+            #rec815323087 .tn-elem[data-elem-id="1681820298248"] {
+              top: 40px;
+              left: calc(50% - 320px + 0px);
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1681820298248"] {
+              text-align: center;
+            }
+          }
+
+          @media screen and (max-width: 639px) {
+            #rec815323087 .tn-elem[data-elem-id="1681820298248"] {
+              top: 40px;
+              left: calc(50% - 240px + 0px);
+            }
+          }
+
+          @media screen and (max-width: 479px) {
+            #rec815323087 .tn-elem[data-elem-id="1681820298248"] {
+              top: 40px;
+              left: calc(50% - 160px + 0px);
+            }
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729504294018"] {
+            color: #000000;
+            text-align: center;
+            z-index: 4;
+            top: 37px;
+            left: calc(50% - 960px + 640px);
+            width: 81px;
+            height: 30px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729504294018"] .tn-atom {
+            color: #000000;
+            font-size: 18px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 600;
+            border-width: 0px;
+            border-radius: 0px;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+            transition: background-color 0.2s ease-in-out,
+              color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+          }
+
+          @media (hover), (min-width: 0\0) {
+            #rec815323087
+              .tn-elem[data-elem-id="1729504294018"]
+              .tn-atom:hover {
+            }
+
+            #rec815323087
+              .tn-elem[data-elem-id="1729504294018"]
+              .tn-atom:hover {
+              color: #0179ff;
+            }
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .tn-elem[data-elem-id="1729504294018"] {
+              top: 37px;
+              left: calc(50% - 840px + 550px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815323087 .tn-elem[data-elem-id="1729504294018"] {
+              top: 37px;
+              left: calc(50% - 700px + 454px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1729504294018"] {
+              top: 52px;
+              left: calc(50% - 600px + 304px);
+              width: 81px;
+              height: 30px;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1729504294018"] .tn-atom {
+              font-size: 18px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729603500304"] {
+            color: #000000;
+            text-align: center;
+            z-index: 5;
+            top: 37px;
+            left: calc(50% - 960px + 740px);
+            width: 81px;
+            height: 30px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729603500304"] .tn-atom {
+            color: #000000;
+            font-size: 18px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 600;
+            border-width: 0px;
+            border-radius: 0px;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+            transition: background-color 0.2s ease-in-out,
+              color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+          }
+
+          @media (hover), (min-width: 0\0) {
+            #rec815323087
+              .tn-elem[data-elem-id="1729603500304"]
+              .tn-atom:hover {
+            }
+
+            #rec815323087
+              .tn-elem[data-elem-id="1729603500304"]
+              .tn-atom:hover {
+              color: #0179ff;
+            }
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .tn-elem[data-elem-id="1729603500304"] {
+              top: 37px;
+              left: calc(50% - 840px + 650px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815323087 .tn-elem[data-elem-id="1729603500304"] {
+              top: 37px;
+              left: calc(50% - 700px + 554px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1729603500304"] {
+              top: 52px;
+              left: calc(50% - 600px + 404px);
+              width: 81px;
+              height: 30px;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1729603500304"] .tn-atom {
+              font-size: 18px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729504021575"] {
+            z-index: 6;
+            top: 73px;
+            left: calc(50% - 960px + 955px);
+            width: 50px;
+            height: 2px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729504021575"] .tn-atom {
+            border-radius: 25px;
+            background-color: #0179ff;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          @media screen and (max-width: 1919px) {
+          }
+
+          @media screen and (max-width: 1679px) {
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1729504021575"] {
+              top: 73px;
+              left: calc(50% - 600px + 955px);
+              width: 50px;
+              height: 2px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729678394528"] {
+            color: #000000;
+            text-align: center;
+            z-index: 7;
+            top: 37px;
+            left: calc(50% - 960px + 840px);
+            width: 81px;
+            height: 30px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729678394528"] .tn-atom {
+            color: #000000;
+            font-size: 18px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 600;
+            border-width: 0px;
+            border-radius: 0px;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+            transition: background-color 0.2s ease-in-out,
+              color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+          }
+
+          @media (hover), (min-width: 0\0) {
+            #rec815323087
+              .tn-elem[data-elem-id="1729678394528"]
+              .tn-atom:hover {
+            }
+
+            #rec815323087
+              .tn-elem[data-elem-id="1729678394528"]
+              .tn-atom:hover {
+              color: #0179ff;
+            }
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .tn-elem[data-elem-id="1729678394528"] {
+              top: 37px;
+              left: calc(50% - 840px + 750px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815323087 .tn-elem[data-elem-id="1729678394528"] {
+              top: 37px;
+              left: calc(50% - 700px + 654px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1729678394528"] {
+              top: 52px;
+              left: calc(50% - 600px + 504px);
+              width: 81px;
+              height: 30px;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1729678394528"] .tn-atom {
+              font-size: 18px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729839690340"] {
+            color: #000000;
+            text-align: center;
+            z-index: 8;
+            top: 17px;
+            left: calc(50% - 960px + 1415px);
+            width: 216px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729839690340"] .tn-atom {
+            color: #000000;
+            font-size: 24px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 400;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .tn-elem[data-elem-id="1729839690340"] {
+              top: 17px;
+              left: calc(50% - 840px + 1210px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815323087 .tn-elem[data-elem-id="1729839690340"] {
+              top: 17px;
+              left: calc(50% - 700px + 921px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1729839690340"] {
+              top: 32px;
+              left: calc(50% - 600px + 739px);
+              width: 216px;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1729839690340"] .tn-atom {
+              font-size: 24px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729839726876"] {
+            color: #000000;
+            text-align: center;
+            z-index: 9;
+            top: 51px;
+            left: calc(50% - 960px + 1415px);
+            width: 216px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1729839726876"] .tn-atom {
+            color: #000000;
+            font-size: 24px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 400;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .tn-elem[data-elem-id="1729839726876"] {
+              top: 51px;
+              left: calc(50% - 840px + 1210px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815323087 .tn-elem[data-elem-id="1729839726876"] {
+              top: 51px;
+              left: calc(50% - 700px + 921px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1729839726876"] {
+              top: 66px;
+              left: calc(50% - 600px + 739px);
+              width: 216px;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1729839726876"] .tn-atom {
+              font-size: 24px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1730093066084"] {
+            color: #000000;
+            text-align: center;
+            z-index: 10;
+            top: 38px;
+            left: calc(50% - 960px + 947px);
+            width: 81px;
+            height: 30px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1730093066084"] .tn-atom {
+            color: #000000;
+            font-size: 18px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 600;
+            border-width: 0px;
+            border-radius: 0px;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+            transition: background-color 0.2s ease-in-out,
+              color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+          }
+
+          @media (hover), (min-width: 0\0) {
+            #rec815323087
+              .tn-elem[data-elem-id="1730093066084"]
+              .tn-atom:hover {
+            }
+
+            #rec815323087
+              .tn-elem[data-elem-id="1730093066084"]
+              .tn-atom:hover {
+              color: #0179ff;
+            }
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .tn-elem[data-elem-id="1730093066084"] {
+              top: 38px;
+              left: calc(50% - 840px + 857px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815323087 .tn-elem[data-elem-id="1730093066084"] {
+              top: 38px;
+              left: calc(50% - 700px + 761px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1730093066084"] {
+              top: 53px;
+              left: calc(50% - 600px + 611px);
+              width: 81px;
+              height: 30px;
+            }
+
+            #rec815323087 .tn-elem[data-elem-id="1730093066084"] .tn-atom {
+              font-size: 18px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1730093116707"] {
+            z-index: 11;
+            top: 22px;
+            left: calc(50% - 960px + 1660px);
+            width: 203px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1730093116707"] .tn-atom {
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          #rec815323087
+            .tn-elem[data-elem-id="1730093116707"]
+            .tn-atom__vector
+            svg {
+            display: block;
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .tn-elem[data-elem-id="1730093116707"] {
+              top: 22px;
+              left: calc(50% - 840px + 1442px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815323087 .tn-elem[data-elem-id="1730093116707"] {
+              top: 22px;
+              left: calc(50% - 700px + 1166px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1730093116707"] {
+              top: 37px;
+              left: calc(50% - 600px + 965px);
+              width: 203px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1730529501866"] {
+            z-index: 12;
+            top: 10px;
+            left: calc(50% - 960px + 80px);
+            width: 294px;
+          }
+
+          #rec815323087 .tn-elem[data-elem-id="1730529501866"] .tn-atom {
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          #rec815323087
+            .tn-elem[data-elem-id="1730529501866"]
+            .tn-atom__vector
+            svg {
+            display: block;
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815323087 .tn-elem[data-elem-id="1730529501866"] {
+              top: 7px;
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815323087 .tn-elem[data-elem-id="1730529501866"] {
+              top: 38px;
+              left: calc(50% - 600px + 41px);
+              width: 205px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+        </style>
+        <div class="t396">
+          <div
+            class="t396__artboard"
+            data-artboard-recid="815323087"
+            data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
+            data-artboard-height="105"
+            data-artboard-valign="center"
+            data-artboard-upscale="grid"
+            data-artboard-ovrflw="visible"
+            data-artboard-pos="fixed"
+            data-artboard-fixed-trigger="150"
+            data-artboard-appear-anim="fixslide"
+            data-artboard-fixed-need-js="y"
+            data-artboard-height-res-320="254"
+            data-artboard-height-res-640="254"
+            data-artboard-height-res-1200="135"
+          >
+            <div class="t396__carrier" data-artboard-recid="815323087"></div>
+            <div class="t396__filter" data-artboard-recid="815323087"></div>
+            <div
+              class="t396__elem tn-elem tn-elem__8153230871682335500868"
+              data-elem-id="1682335500868"
+              data-elem-type="shape"
+              data-field-top-value="-43"
+              data-field-left-value="10"
+              data-field-height-value="145"
+              data-field-width-value="1900"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value="px"
+              data-field-widthunits-value="px"
+              data-field-top-res-320-value="0"
+              data-field-left-res-320-value="0"
+              data-field-top-res-640-value="0"
+              data-field-left-res-640-value="0"
+              data-field-height-res-640-value="254"
+              data-field-width-res-640-value="100"
+              data-field-axisx-res-640-value="center"
+              data-field-container-res-640-value="window"
+              data-field-widthunits-res-640-value="%"
+              data-field-left-res-960-value="10"
+              data-field-width-res-960-value="940"
+              data-field-top-res-1200-value="-27"
+              data-field-left-res-1200-value="0"
+              data-field-height-res-1200-value="145"
+              data-field-width-res-1200-value="100"
+              data-field-left-res-1400-value="-7"
+              data-field-width-res-1400-value="101"
+              data-field-widthunits-res-1400-value="%"
+              data-field-left-res-1680-value="9"
+              data-field-width-res-1680-value="99"
+              data-field-widthunits-res-1680-value="%"
+            >
+              <div class="tn-atom"></div>
+            </div>
+            <div
+              class="t396__elem tn-elem menu tn-elem__8153230871729504294018"
+              data-elem-id="1729504294018"
+              data-elem-type="button"
+              data-field-top-value="37"
+              data-field-left-value="640"
+              data-field-height-value="30"
+              data-field-width-value="81"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value="px"
+              data-field-widthunits-value="px"
+              data-field-top-res-1200-value="52"
+              data-field-left-res-1200-value="304"
+              data-field-height-res-1200-value="30"
+              data-field-width-res-1200-value="81"
+              data-field-top-res-1400-value="37"
+              data-field-left-res-1400-value="454"
+              data-field-top-res-1680-value="37"
+              data-field-left-res-1680-value="550"
+            >
+              <a class="tn-atom" href="index.html">Главная</a>
+            </div>
+            <div
+              class="t396__elem tn-elem menu tn-elem__8153230871729603500304"
+              data-elem-id="1729603500304"
+              data-elem-type="button"
+              data-field-top-value="37"
+              data-field-left-value="740"
+              data-field-height-value="30"
+              data-field-width-value="81"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value="px"
+              data-field-widthunits-value="px"
+              data-field-top-res-1200-value="52"
+              data-field-left-res-1200-value="404"
+              data-field-height-res-1200-value="30"
+              data-field-width-res-1200-value="81"
+              data-field-top-res-1400-value="37"
+              data-field-left-res-1400-value="554"
+              data-field-top-res-1680-value="37"
+              data-field-left-res-1680-value="650"
+            >
+              <a class="tn-atom" href="https://itis.dev/service">Услуги</a>
+            </div>
+            <div
+              class="t396__elem tn-elem menu tn-elem__8153230871729678394528"
+              data-elem-id="1729678394528"
+              data-elem-type="button"
+              data-field-top-value="37"
+              data-field-left-value="840"
+              data-field-height-value="30"
+              data-field-width-value="81"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value="px"
+              data-field-widthunits-value="px"
+              data-field-top-res-1200-value="52"
+              data-field-left-res-1200-value="504"
+              data-field-height-res-1200-value="30"
+              data-field-width-res-1200-value="81"
+              data-field-top-res-1400-value="37"
+              data-field-left-res-1400-value="654"
+              data-field-top-res-1680-value="37"
+              data-field-left-res-1680-value="750"
+            >
+              <a class="tn-atom" href="https://itis.dev/news">Новости</a>
+            </div>
+            <div
+              class="t396__elem tn-elem tn-elem__8153230871729839690340"
+              data-elem-id="1729839690340"
+              data-elem-type="text"
+              data-field-top-value="17"
+              data-field-left-value="1415"
+              data-field-width-value="216"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value=""
+              data-field-widthunits-value="px"
+              data-field-top-res-1200-value="32"
+              data-field-left-res-1200-value="739"
+              data-field-width-res-1200-value="216"
+              data-field-top-res-1400-value="17"
+              data-field-left-res-1400-value="921"
+              data-field-top-res-1680-value="17"
+              data-field-left-res-1680-value="1210"
+            >
+              <div class="tn-atom">
+                <a href="tel:88005555555" style="color: inherit"
+                  >+7 (922) 123-09-65</a
+                >
+              </div>
+            </div>
+            <div
+              class="t396__elem tn-elem tn-elem__8153230871729839726876"
+              data-elem-id="1729839726876"
+              data-elem-type="text"
+              data-field-top-value="51"
+              data-field-left-value="1415"
+              data-field-width-value="216"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value=""
+              data-field-widthunits-value="px"
+              data-field-top-res-1200-value="66"
+              data-field-left-res-1200-value="739"
+              data-field-width-res-1200-value="216"
+              data-field-top-res-1400-value="51"
+              data-field-left-res-1400-value="921"
+              data-field-top-res-1680-value="51"
+              data-field-left-res-1680-value="1210"
+            >
+              <div class="tn-atom">
+                <a href="tel:88003333333" style="color: inherit"
+                  >+7 (963) 034-61-78</a
+                >
+              </div>
+            </div>
+            <div
+              class="t396__elem tn-elem menu tn-elem__8153230871730093066084"
+              data-elem-id="1730093066084"
+              data-elem-type="button"
+              data-field-top-value="38"
+              data-field-left-value="947"
+              data-field-height-value="30"
+              data-field-width-value="81"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value="px"
+              data-field-widthunits-value="px"
+              data-field-top-res-1200-value="53"
+              data-field-left-res-1200-value="611"
+              data-field-height-res-1200-value="30"
+              data-field-width-res-1200-value="81"
+              data-field-top-res-1400-value="38"
+              data-field-left-res-1400-value="761"
+              data-field-top-res-1680-value="38"
+              data-field-left-res-1680-value="857"
+            >
+              <a class="tn-atom" href="https://itis.dev/contacts">Контакты</a>
+            </div>
+            <div
+              class="t396__elem tn-elem btn-callphone tn-elem__8153230871730093116707"
+              data-elem-id="1730093116707"
+              data-elem-type="vector"
+              data-field-top-value="22"
+              data-field-left-value="1660"
+              data-field-width-value="203"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value=""
+              data-field-widthunits-value="px"
+              data-field-filewidth-value="203"
+              data-field-fileheight-value="63"
+              data-field-top-res-1200-value="37"
+              data-field-left-res-1200-value="965"
+              data-field-width-res-1200-value="203"
+              data-field-top-res-1400-value="22"
+              data-field-left-res-1400-value="1166"
+              data-field-top-res-1680-value="22"
+              data-field-left-res-1680-value="1442"
+            >
+              <a class="tn-atom tn-atom__vector" href="index.html#new_client">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="6715.5 4978.5 203 63"
+                >
+                  <path
+                    fill="white"
+                    font-size-adjust="none"
+                    stroke="#0179FF"
+                    x="0.5"
+                    y="0.5"
+                    width="199"
+                    height="59"
+                    rx="14.5"
+                    id="tSvg162ff273891"
+                    title="Rectangle 1"
+                    fill-opacity="1"
+                    stroke-opacity="1"
+                    d="M 6717.5 4992.862006664101 A 12.362006664100369 12.362006664100369 0 0 1 6729.862006664101 4980.5L 6904.137993335899 4980.5 A 12.362006664100369 12.362006664100369 0 0 1 6916.5 4992.862006664101L 6916.5 5027.137993335899 A 12.362006664100369 12.362006664100369 0 0 1 6904.137993335899 5039.5L 6729.862006664101 5039.5 A 12.362006664100369 12.362006664100369 0 0 1 6717.5 5027.137993335899Z"
+                    style="transform: rotate(0deg)"
+                    stroke-width="2"
+                  ></path>
+                  <path
+                    fill="black"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    font-size-adjust="none"
+                    id="tSvgd69b43de99"
+                    title="Path 2"
+                    d="M 6778.4013 5015.24 C 6775.2973 5015.24 6773.2813 5013.384 6773.2813 5010.84 C 6774.374633333333 5010.84 6775.467966666667 5010.84 6776.5613 5010.84 C 6776.5613 5011.784 6777.2333 5012.472 6778.2893 5012.472 C 6779.2173 5012.472 6779.9373 5011.976 6779.9373 5011.24 C 6779.9373 5010.568 6779.2973 5010.088 6778.4013 5010.088 C 6778.0973 5010.088 6777.7933 5010.088 6777.4893 5010.088 C 6777.4893 5009.464 6777.4893 5008.84 6777.4893 5008.216 C 6777.803966666666 5008.216 6778.1186333333335 5008.216 6778.4333 5008.216 C 6779.2493 5008.216 6779.8413 5007.784 6779.8413 5007.16 C 6779.8413 5006.52 6779.2333 5006.072 6778.3213 5006.072 C 6777.3133 5006.072 6776.7213 5006.632 6776.7213 5007.496 C 6775.638633333333 5007.496 6774.555966666667 5007.496 6773.4733 5007.496 C 6773.4733 5005.064 6775.4093 5003.32 6778.3693 5003.32 C 6780.9613 5003.32 6782.9933 5004.648 6782.9933 5006.696 C 6782.9933 5007.912 6782.2733 5008.68 6781.2653 5008.968 C 6781.2653 5009.021333333333 6781.2653 5009.074666666666 6781.2653 5009.128 C 6782.4813 5009.32 6783.3613 5010.408 6783.3613 5011.704C 6783.3613 5013.768 6781.1853 5015.24 6778.4013 5015.24Z M 6786.7041 5015.192 C 6785.0721 5015.192 6783.9521 5014.328 6783.9521 5012.824 C 6783.9521 5011.224 6785.2481 5010.376 6787.9521 5010.008 C 6788.4321 5009.949333333333 6788.9121 5009.890666666666 6789.3921 5009.832 C 6789.3921 5009.709333333333 6789.3921 5009.586666666667 6789.3921 5009.464 C 6789.3921 5008.856 6788.9921 5008.44 6788.3041 5008.44 C 6787.6481 5008.44 6787.1841 5008.856 6787.1841 5009.56 C 6786.218766666667 5009.56 6785.253433333333 5009.56 6784.2881 5009.56 C 6784.2881 5007.72 6785.8721 5006.536 6788.3361 5006.536 C 6790.7841 5006.536 6792.4001 5007.72 6792.4001 5009.576 C 6792.4001 5011.384 6792.4001 5013.192 6792.4001 5015 C 6791.3974333333335 5015 6790.394766666666 5015 6789.3921 5015 C 6789.3921 5014.674666666667 6789.3921 5014.349333333334 6789.3921 5014.024 C 6789.338766666667 5014.024 6789.2854333333335 5014.024 6789.2321 5014.024C 6788.7681 5014.792 6787.7761 5015.192 6786.7041 5015.192Z M 6787.8721 5013.384 C 6788.7681 5013.384 6789.3921 5012.76 6789.3921 5011.912 C 6789.3921 5011.746666666667 6789.3921 5011.5813333333335 6789.3921 5011.416 C 6788.949433333333 5011.48 6788.506766666666 5011.544 6788.0641 5011.608 C 6787.1841 5011.72 6786.8321 5012.056 6786.8321 5012.536C 6786.8321 5013.048 6787.2161 5013.384 6787.8721 5013.384Z M 6793.7118 5015 C 6793.7118 5012.248 6793.7118 5009.496 6793.7118 5006.744 C 6794.709133333334 5006.744 6795.7064666666665 5006.744 6796.7038 5006.744 C 6796.7038 5007.752 6796.7038 5008.76 6796.7038 5009.768 C 6796.7571333333335 5009.768 6796.810466666667 5009.768 6796.8638 5009.768 C 6797.578466666667 5008.76 6798.293133333334 5007.752 6799.0078 5006.744 C 6800.1811333333335 5006.744 6801.354466666667 5006.744 6802.5278 5006.744 C 6801.5038 5008.066666666667 6800.4798 5009.3893333333335 6799.4558 5010.712 C 6800.4958 5012.141333333333 6801.5358 5013.5706666666665 6802.5758 5015 C 6801.3918 5015 6800.2078 5015 6799.0238 5015 C 6798.3038 5013.896 6797.5838 5012.792 6796.8638 5011.688 C 6796.810466666667 5011.688 6796.7571333333335 5011.688 6796.7038 5011.688 C 6796.7038 5012.792 6796.7038 5013.896 6796.7038 5015C 6795.7064666666665 5015 6794.709133333334 5015 6793.7118 5015Z M 6805.5009 5015.192 C 6803.8689 5015.192 6802.7489 5014.328 6802.7489 5012.824 C 6802.7489 5011.224 6804.0449 5010.376 6806.7489 5010.008 C 6807.2289 5009.949333333333 6807.7089 5009.890666666666 6808.1889 5009.832 C 6808.1889 5009.709333333333 6808.1889 5009.586666666667 6808.1889 5009.464 C 6808.1889 5008.856 6807.7889 5008.44 6807.1009 5008.44 C 6806.4449 5008.44 6805.9809 5008.856 6805.9809 5009.56 C 6805.015566666667 5009.56 6804.050233333333 5009.56 6803.0849 5009.56 C 6803.0849 5007.72 6804.6689 5006.536 6807.1329 5006.536 C 6809.5809 5006.536 6811.1969 5007.72 6811.1969 5009.576 C 6811.1969 5011.384 6811.1969 5013.192 6811.1969 5015 C 6810.194233333334 5015 6809.191566666666 5015 6808.1889 5015 C 6808.1889 5014.674666666667 6808.1889 5014.349333333334 6808.1889 5014.024 C 6808.135566666667 5014.024 6808.0822333333335 5014.024 6808.0289 5014.024C 6807.5649 5014.792 6806.5729 5015.192 6805.5009 5015.192Z M 6806.6689 5013.384 C 6807.5649 5013.384 6808.1889 5012.76 6808.1889 5011.912 C 6808.1889 5011.746666666667 6808.1889 5011.5813333333335 6808.1889 5011.416 C 6807.746233333333 5011.48 6807.3035666666665 5011.544 6806.8609 5011.608 C 6805.9809 5011.72 6805.6289 5012.056 6805.6289 5012.536C 6805.6289 5013.048 6806.0129 5013.384 6806.6689 5013.384Z M 6816.4287 5015.208 C 6813.8207 5015.208 6812.1567 5013.976 6812.1567 5011.896 C 6813.0847 5011.896 6814.0127 5011.896 6814.9407 5011.896 C 6814.9407 5012.664 6815.4687 5013.144 6816.2527 5013.144 C 6816.9247 5013.144 6817.373 5012.808 6817.373 5012.328 C 6817.373 5011.864 6816.9247 5011.592 6816.3327 5011.592 C 6816.0927 5011.592 6815.8527 5011.592 6815.6127 5011.592 C 6815.6127 5011.053333333333 6815.6127 5010.514666666667 6815.6127 5009.976 C 6815.8527 5009.976 6816.0927 5009.976 6816.3327 5009.976 C 6816.9087 5009.976 6817.325 5009.704 6817.325 5009.304 C 6817.325 5008.888 6816.8767 5008.6 6816.2367 5008.6 C 6815.5167 5008.6 6815.0687 5008.984 6815.0687 5009.608 C 6814.178033333334 5009.608 6813.2873666666665 5009.608 6812.3967 5009.608 C 6812.3967 5007.704 6813.9807 5006.536 6816.3647 5006.536 C 6818.525 5006.536 6820.093 5007.496 6820.093 5009 C 6820.093 5009.848 6819.597 5010.424 6818.829 5010.664 C 6818.829 5010.717333333333 6818.829 5010.770666666666 6818.829 5010.824 C 6819.725 5011.064 6820.333 5011.816 6820.333 5012.744C 6820.333 5014.248 6818.701 5015.208 6816.4287 5015.208Z M 6823.61 5015.192 C 6821.978 5015.192 6820.858 5014.328 6820.858 5012.824 C 6820.858 5011.224 6822.154 5010.376 6824.858 5010.008 C 6825.338 5009.949333333333 6825.818 5009.890666666666 6826.298 5009.832 C 6826.298 5009.709333333333 6826.298 5009.586666666667 6826.298 5009.464 C 6826.298 5008.856 6825.898 5008.44 6825.21 5008.44 C 6824.554 5008.44 6824.09 5008.856 6824.09 5009.56 C 6823.124666666667 5009.56 6822.159333333333 5009.56 6821.194 5009.56 C 6821.194 5007.72 6822.778 5006.536 6825.242 5006.536 C 6827.69 5006.536 6829.306 5007.72 6829.306 5009.576 C 6829.306 5011.384 6829.306 5013.192 6829.306 5015 C 6828.303333333333 5015 6827.300666666667 5015 6826.298 5015 C 6826.298 5014.674666666667 6826.298 5014.349333333334 6826.298 5014.024 C 6826.2446666666665 5014.024 6826.191333333333 5014.024 6826.138 5014.024C 6825.674 5014.792 6824.682 5015.192 6823.61 5015.192Z M 6824.778 5013.384 C 6825.674 5013.384 6826.298 5012.76 6826.298 5011.912 C 6826.298 5011.746666666667 6826.298 5011.5813333333335 6826.298 5011.416 C 6825.855333333333 5011.48 6825.412666666667 5011.544 6824.97 5011.608 C 6824.09 5011.72 6823.738 5012.056 6823.738 5012.536C 6823.738 5013.048 6824.122 5013.384 6824.778 5013.384Z M 6832.73 5015 C 6832.73 5013.048 6832.73 5011.096 6832.73 5009.144 C 6831.8606666666665 5009.144 6830.991333333333 5009.144 6830.122 5009.144 C 6830.122 5008.344 6830.122 5007.544 6830.122 5006.744 C 6832.858 5006.744 6835.594 5006.744 6838.33 5006.744 C 6838.33 5007.544 6838.33 5008.344 6838.33 5009.144 C 6837.466 5009.144 6836.602 5009.144 6835.738 5009.144 C 6835.738 5011.096 6835.738 5013.048 6835.738 5015C 6834.735333333333 5015 6833.732666666667 5015 6832.73 5015Z M 6839.243 5015 C 6839.243 5012.248 6839.243 5009.496 6839.243 5006.744 C 6840.240333333333 5006.744 6841.237666666667 5006.744 6842.235 5006.744 C 6842.235 5007.426666666666 6842.235 5008.109333333334 6842.235 5008.792 C 6842.757666666666 5008.792 6843.280333333333 5008.792 6843.803 5008.792 C 6846.139 5008.792 6847.371 5010.216 6847.371 5011.848 C 6847.371 5013.496 6846.139 5015 6843.803 5015C 6842.283 5015 6840.763 5015 6839.243 5015Z M 6842.235 5012.744 C 6842.613666666667 5012.744 6842.992333333334 5012.744 6843.371 5012.744 C 6843.979 5012.744 6844.379 5012.408 6844.379 5011.912 C 6844.379 5011.384 6843.979 5011.032 6843.371 5011.032 C 6842.992333333334 5011.032 6842.613666666667 5011.032 6842.235 5011.032C 6842.235 5011.602666666667 6842.235 5012.173333333333 6842.235 5012.744Z M 6856.147 5015.208 C 6853.539 5015.208 6851.875 5013.976 6851.875 5011.896 C 6852.803 5011.896 6853.731 5011.896 6854.659 5011.896 C 6854.659 5012.664 6855.187 5013.144 6855.971 5013.144 C 6856.643 5013.144 6857.091 5012.808 6857.091 5012.328 C 6857.091 5011.864 6856.643 5011.592 6856.051 5011.592 C 6855.811 5011.592 6855.571 5011.592 6855.331 5011.592 C 6855.331 5011.053333333333 6855.331 5010.514666666667 6855.331 5009.976 C 6855.571 5009.976 6855.811 5009.976 6856.051 5009.976 C 6856.627 5009.976 6857.043 5009.704 6857.043 5009.304 C 6857.043 5008.888 6856.595 5008.6 6855.955 5008.6 C 6855.235 5008.6 6854.787 5008.984 6854.787 5009.608 C 6853.896333333333 5009.608 6853.005666666667 5009.608 6852.115 5009.608 C 6852.115 5007.704 6853.699 5006.536 6856.083 5006.536 C 6858.243 5006.536 6859.811 5007.496 6859.811 5009 C 6859.811 5009.848 6859.315 5010.424 6858.547 5010.664 C 6858.547 5010.717333333333 6858.547 5010.770666666666 6858.547 5010.824 C 6859.443 5011.064 6860.051 5011.816 6860.051 5012.744C 6860.051 5014.248 6858.419 5015.208 6856.147 5015.208Z M 6860.993 5015 C 6860.993 5012.248 6860.993 5009.496 6860.993 5006.744 C 6862.571666666667 5006.744 6864.150333333333 5006.744 6865.729 5006.744 C 6867.585 5006.744 6868.737 5007.672 6868.737 5008.92 C 6868.737 5009.752 6868.225 5010.456 6867.537 5010.68 C 6867.537 5010.733333333334 6867.537 5010.786666666667 6867.537 5010.84 C 6868.513 5011.096 6869.089 5011.72 6869.089 5012.664 C 6869.089 5014.088 6867.825 5015 6865.937 5015C 6864.289 5015 6862.641 5015 6860.993 5015Z M 6863.761 5009.96 C 6864.203666666666 5009.96 6864.646333333333 5009.96 6865.089 5009.96 C 6865.601 5009.96 6865.953 5009.672 6865.953 5009.272 C 6865.953 5008.872 6865.601 5008.568 6865.089 5008.568 C 6864.646333333333 5008.568 6864.203666666666 5008.568 6863.761 5008.568C 6863.761 5009.032 6863.761 5009.496 6863.761 5009.96Z M 6863.761 5013.176 C 6864.203666666666 5013.176 6864.646333333333 5013.176 6865.089 5013.176 C 6865.649 5013.176 6866.017 5012.856 6866.017 5012.408 C 6866.017 5011.976 6865.649 5011.672 6865.089 5011.672 C 6864.646333333333 5011.672 6864.203666666666 5011.672 6863.761 5011.672C 6863.761 5012.173333333333 6863.761 5012.674666666667 6863.761 5013.176Z M 6874.422 5015.208 C 6871.574 5015.208 6869.75 5013.56 6869.75 5010.872 C 6869.75 5008.168 6871.558 5006.536 6874.422 5006.536 C 6877.254 5006.536 6879.078 5008.184 6879.078 5010.872C 6879.078 5013.576 6877.254 5015.208 6874.422 5015.208Z M 6874.422 5012.696 C 6875.398 5012.696 6876.086 5011.944 6876.086 5010.872 C 6876.086 5009.8 6875.398 5009.048 6874.422 5009.048 C 6873.43 5009.048 6872.758 5009.8 6872.758 5010.872C 6872.758 5011.944 6873.43 5012.696 6874.422 5012.696Z M 6880.134 5015 C 6880.134 5012.253333333333 6880.134 5009.506666666667 6880.134 5006.76 C 6881.131333333334 5006.76 6882.1286666666665 5006.76 6883.126 5006.76 C 6883.126 5007.725333333334 6883.126 5008.690666666666 6883.126 5009.656 C 6883.920666666667 5009.656 6884.715333333334 5009.656 6885.51 5009.656 C 6885.51 5008.690666666666 6885.51 5007.725333333334 6885.51 5006.76 C 6886.5126666666665 5006.76 6887.515333333334 5006.76 6888.518 5006.76 C 6888.518 5009.506666666667 6888.518 5012.253333333333 6888.518 5015 C 6887.515333333334 5015 6886.5126666666665 5015 6885.51 5015 C 6885.51 5014.018666666667 6885.51 5013.037333333334 6885.51 5012.056 C 6884.715333333334 5012.056 6883.920666666667 5012.056 6883.126 5012.056 C 6883.126 5013.037333333334 6883.126 5014.018666666667 6883.126 5015C 6882.1286666666665 5015 6881.131333333334 5015 6880.134 5015Z M 6894.251 5015.208 C 6891.403 5015.208 6889.579 5013.56 6889.579 5010.872 C 6889.579 5008.168 6891.387 5006.536 6894.251 5006.536 C 6897.083 5006.536 6898.907 5008.184 6898.907 5010.872C 6898.907 5013.576 6897.083 5015.208 6894.251 5015.208Z M 6894.251 5012.696 C 6895.227 5012.696 6895.915 5011.944 6895.915 5010.872 C 6895.915 5009.8 6895.227 5009.048 6894.251 5009.048 C 6893.259 5009.048 6892.5869999999995 5009.8 6892.5869999999995 5010.872C 6892.5869999999995 5011.944 6893.259 5012.696 6894.251 5012.696Z M 6899.9619999999995 5015 C 6899.9619999999995 5012.248 6899.9619999999995 5009.496 6899.9619999999995 5006.744 C 6900.959333333333 5006.744 6901.956666666667 5006.744 6902.954 5006.744 C 6902.954 5007.752 6902.954 5008.76 6902.954 5009.768 C 6903.007333333333 5009.768 6903.060666666666 5009.768 6903.114 5009.768 C 6903.828666666666 5008.76 6904.543333333333 5007.752 6905.258 5006.744 C 6906.431333333333 5006.744 6907.604666666667 5006.744 6908.778 5006.744 C 6907.754 5008.066666666667 6906.73 5009.3893333333335 6905.706 5010.712 C 6906.746 5012.141333333333 6907.786 5013.5706666666665 6908.826 5015 C 6907.642 5015 6906.458 5015 6905.274 5015 C 6904.554 5013.896 6903.834 5012.792 6903.114 5011.688 C 6903.060666666666 5011.688 6903.007333333333 5011.688 6902.954 5011.688 C 6902.954 5012.792 6902.954 5013.896 6902.954 5015C 6901.956666666667 5015 6900.959333333333 5015 6899.9619999999995 5015Z"
+                  ></path>
+                  <path
+                    fill="#0078FF"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    font-size-adjust="none"
+                    id="tSvg2c92559f29"
+                    title="Path 3"
+                    d="M 6751.1124 5016.5954 C 6750.808733333333 5016.9150666666665 6750.505066666667 5017.234733333334 6750.2014 5017.5544 C 6750.2014 5017.5544 6748.0362 5019.834 6742.1262 5013.6118 C 6736.2162 5007.3897 6738.3814 5005.1101 6738.3814 5005.1101 C 6738.5726 5004.9088 6738.7638 5004.7075 6738.955 5004.5062 C 6740.3682 5003.0185 6740.5014 5000.6299 6739.2685 4998.8862 C 6738.427833333333 4997.6972 6737.587166666666 4996.5082 6736.7465 4995.3192 C 6735.2206 4993.161 6732.2719 4992.8759 6730.5229 4994.7173 C 6729.4765 4995.818966666667 6728.4301 4996.920633333333 6727.3837 4998.0223 C 6726.51646 4998.9353 6725.9353 5000.1189 6726.00578 5001.4319 C 6726.18608 5004.7909 6727.6214 5012.018 6735.6307 5020.4504 C 6744.1242 5029.3924 6752.0936 5029.7478 6755.3526 5029.4262 C 6756.3834 5029.3244 6757.2798 5028.7686 6758.0022 5028.008 C 6758.9492666666665 5027.010933333333 6759.896333333333 5026.013866666666 6760.8434 5025.0168 C 6762.7612 5022.9978 6762.2204 5019.5364 6759.7666 5018.124 C 6758.492933333333 5017.390866666667 6757.219266666667 5016.657733333333 6755.9456 5015.9246C 6754.3344 5014.9972 6752.3716 5015.2696 6751.1124 5016.5954Z"
+                  ></path>
+                  <path
+                    fill="#314EC6"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    font-size-adjust="none"
+                    id="tSvg12423db4628"
+                    title="Path 4"
+                    d="M 6746.519 4991.2597 C 6746.6514 4990.4419 6747.4244 4989.88715 6748.2422 4990.0195 C 6748.2928 4990.0292 6748.4558 4990.0597 6748.541 4990.0787 C 6748.7118 4990.1167 6748.9498 4990.1752 6749.2466 4990.2616 C 6749.8402 4990.4345 6750.6694 4990.7193 6751.6646 4991.1756 C 6753.6572 4992.0891 6756.3088 4993.6871 6759.0604 4996.4387 C 6761.812 4999.1903 6763.41 5001.8419 6764.3234 5003.8345 C 6764.7798 5004.8297 6765.0646 5005.6589 6765.2374 5006.2525 C 6765.3238 5006.5493 6765.3824 5006.7874 6765.4204 5006.958 C 6765.4394 5007.0434 6765.4534 5007.1119 6765.463 5007.1625 C 6765.466866666667 5007.1833 6765.470733333334 5007.2041 6765.4746 5007.2249 C 6765.6068 5008.0426 6765.0572 5008.8478 6764.2394 5008.9802 C 6763.424 5009.1122 6762.6558 5008.56 6762.5202 5007.7462 C 6762.516 5007.7242 6762.5044 5007.6656 6762.4922 5007.6102 C 6762.4673999999995 5007.4994 6762.4248 5007.3238 6762.3572 5007.0914 C 6762.2218 5006.6268 6761.9868 5005.9361 6761.5964 5005.0848 C 6760.8168 5003.3841 6759.4148 5001.0358 6756.939 4998.56 C 6754.4634 4996.0843 6752.115 4994.6823 6750.4144 4993.9027 C 6749.563 4993.5124 6748.8724 4993.2773 6748.4076 4993.1419 C 6748.1754 4993.0743 6747.8834 4993.0073 6747.7726 4992.9826C 6746.9586 4992.8469 6746.387 4992.0751 6746.519 4991.2597Z"
+                  ></path>
+                  <path
+                    fill="#314EC6"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    clip-rule="evenodd"
+                    fill-rule="evenodd"
+                    font-size-adjust="none"
+                    id="tSvgfb26efeb12"
+                    title="Path 5"
+                    d="M 6746.9714 4998.1586 C 6747.199 4997.3621 6748.0292 4996.9008 6748.8258 4997.1284 C 6748.6884666666665 4997.609166666667 6748.551133333333 4998.089933333334 6748.4138 4998.5707 C 6748.8258 4997.1284 6748.8258 4997.1284 6748.8258 4997.1284 C 6748.8268 4997.1286666666665 6748.8278 4997.128933333333 6748.8288 4997.1292 C 6748.8298 4997.1295 6748.8308 4997.1298 6748.8318 4997.1301 C 6748.834 4997.130766666667 6748.8362 4997.131433333333 6748.8384 4997.1321 C 6748.8436 4997.133633333333 6748.8488 4997.135166666667 6748.854 4997.1367 C 6748.8672 4997.1408 6748.8804 4997.1449 6748.8936 4997.149 C 6748.9236 4997.1587 6748.9614 4997.1712 6749.0062 4997.1872 C 6749.096 4997.2191 6749.2148 4997.2644 6749.3604 4997.3268 C 6749.6518 4997.4517 6750.0498 4997.6445 6750.539 4997.9339 C 6751.5178 4998.5133 6752.8542 4999.4756 6754.4242 5001.0456 C 6755.9942 5002.6155 6756.9564 5003.9519 6757.5358 5004.9308 C 6757.8252 5005.4198 6758.018 5005.818 6758.143 5006.1093 C 6758.2054 5006.2549 6758.2508 5006.3737 6758.2826000000005 5006.4635 C 6758.2986 5006.5084 6758.311 5006.546 6758.3208 5006.5762 C 6758.324866666667 5006.5894 6758.328933333333 5006.6026 6758.333 5006.6158 C 6758.334533333334 5006.620966666666 6758.336066666667 5006.626133333333 6758.3376 5006.6313 C 6758.338266666667 5006.6335 6758.338933333333 5006.6357 6758.3396 5006.6379 C 6758.339866666666 5006.638933333334 6758.340133333333 5006.639966666667 6758.3404 5006.641 C 6758.3404 5006.641 6758.3414 5006.6439 6756.899 5007.056 C 6757.3798 5006.918633333334 6757.8606 5006.781266666667 6758.3414 5006.6439 C 6758.569 5007.4405 6758.1076 5008.2706 6757.3112 5008.4982 C 6756.5214 5008.7238 6755.6984 5008.2724 6755.4626 5007.4883 C 6755.460133333333 5007.4811 6755.457666666666 5007.4739 6755.4552 5007.4667 C 6755.4446 5007.4367 6755.4226 5007.3775 6755.3856 5007.2911 C 6755.3116 5007.1184 6755.1774 5006.836 6754.9542 5006.4588 C 6754.5082 5005.7053 6753.7028 5004.5668 6752.3028 5003.1669 C 6750.903 5001.767 6749.7644 5000.9616 6749.011 5000.5157 C 6748.6338 5000.2924 6748.3514 5000.1582 6748.1786 5000.0842 C 6748.0922 5000.0472 6748.033 5000.0251 6748.003 5000.0144 C 6747.9958 5000.011966666667 6747.9886 5000.009533333333 6747.9814 5000.0071C 6747.1974 4999.7713 6746.7458 4998.9484 6746.9714 4998.1586Z"
+                  ></path>
+                  <defs></defs>
+                </svg>
+              </a>
+            </div>
+            <div
+              class="t396__elem tn-elem tn-elem__8153230871730529501866"
+              data-elem-id="1730529501866"
+              data-elem-type="vector"
+              data-field-top-value="10"
+              data-field-left-value="80"
+              data-field-width-value="294"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value=""
+              data-field-widthunits-value="px"
+              data-field-filewidth-value="2169"
+              data-field-fileheight-value="642"
+              data-field-top-res-1200-value="38"
+              data-field-left-res-1200-value="41"
+              data-field-width-res-1200-value="205"
+              data-field-top-res-1680-value="7"
+            >
+              <a class="tn-atom tn-atom__vector" href="index.html">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="5382 4956 2168.93017578125 642"
+                >
+                  <path
+                    fill="#0179FF"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    font-size-adjust="none"
+                    id="tSvga2cc4d54aa"
+                    title="Path 7"
+                    d="M 5402 5128 C 5552 5128 5702 5128 5852 5128 C 5852 5278 5852 5428 5852 5578 C 5702 5578 5552 5578 5402 5578C 5402 5428 5402 5278 5402 5128Z"
+                  ></path>
+                  <path
+                    fill="none"
+                    stroke="#0179FF"
+                    fill-opacity="1"
+                    stroke-width="20"
+                    stroke-opacity="1"
+                    font-size-adjust="none"
+                    id="tSvg124d97459fa"
+                    title="Path 8"
+                    d="M 5402 5128 C 5552 5128 5702 5128 5852 5128 C 5852 5278 5852 5428 5852 5578 M 5402 5128 C 5402 5278 5402 5428 5402 5578 C 5552 5578 5702 5578 5852 5578 M 5402 5128 C 5457.166666666667 5077.333333333333 5512.333333333333 5026.666666666667 5567.5 4976 C 5700.333333333333 4976 5833.166666666667 4976 5966 4976 C 5966 5124 5966 5272 5966 5420 C 5928 5472.666666666667 5890 5525.333333333333 5852 5578"
+                  ></path>
+                  <path
+                    fill="#0179FF"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    font-size-adjust="none"
+                    id="tSvg107ab1203"
+                    title="Path 9"
+                    d="M 6177.2970000000005 5446 C 6177.2970000000005 5331.416666666667 6177.2970000000005 5216.833333333333 6177.2970000000005 5102.25 C 6199.432333333333 5102.25 6221.567666666667 5102.25 6243.7029999999995 5102.25 C 6243.7029999999995 5216.833333333333 6243.7029999999995 5331.416666666667 6243.7029999999995 5446C 6221.567666666667 5446 6199.432333333333 5446 6177.2970000000005 5446Z M 6332.539 5446 C 6332.539 5353.4220000000005 6332.539 5260.844 6332.539 5168.266 C 6318.932333333333 5168.266 6305.325666666667 5168.266 6291.719 5168.266 C 6291.719 5146.260666666667 6291.719 5124.2553333333335 6291.719 5102.25 C 6341.849333333334 5102.25 6391.979666666666 5102.25 6442.11 5102.25 C 6442.11 5124.2553333333335 6442.11 5146.260666666667 6442.11 5168.266 C 6428.503333333333 5168.266 6414.8966666666665 5168.266 6401.29 5168.266 C 6401.29 5260.844 6401.29 5353.4220000000005 6401.29 5446C 6378.373 5446 6355.456 5446 6332.539 5446Z M 6490.12 5446 C 6490.12 5331.416666666667 6490.12 5216.833333333333 6490.12 5102.25 C 6512.256666666666 5102.25 6534.393333333333 5102.25 6556.53 5102.25 C 6556.53 5216.833333333333 6556.53 5331.416666666667 6556.53 5446C 6534.393333333333 5446 6512.256666666666 5446 6490.12 5446Z M 6697.52 5449.125 C 6666.14 5449.125 6643.48 5441.312 6629.55 5425.688 C 6615.74 5410.062 6608.84 5385.193 6608.84 5351.0779999999995 C 6608.84 5339.88 6608.84 5328.682 6608.84 5317.484 C 6631.496666666667 5317.484 6654.153333333334 5317.484 6676.8099999999995 5317.484 C 6676.8099999999995 5331.807 6676.8099999999995 5346.13 6676.8099999999995 5360.4529999999995 C 6676.8099999999995 5368.396 6677.98 5374.646 6680.33 5379.2029999999995 C 6682.8 5383.63 6687.03 5385.844 6693.02 5385.844 C 6699.27 5385.844 6703.57 5384.021 6705.91 5380.375 C 6708.39 5376.729 6709.62 5370.74 6709.62 5362.406 C 6709.62 5351.859 6708.58 5343.07 6706.5 5336.039 C 6704.42 5328.878 6700.77 5322.107 6695.5599999999995 5315.727 C 6690.48 5309.216 6683.39 5301.664 6674.27 5293.07 C 6663.983333333334 5283.3043333333335 6653.696666666667 5273.538666666666 6643.41 5263.773 C 6620.37 5242.029 6608.84 5217.159 6608.84 5189.164 C 6608.84 5159.867 6615.61 5137.536 6629.16 5122.172 C 6642.83 5106.807 6662.55 5099.125 6688.34 5099.125 C 6719.85 5099.125 6742.18 5107.523 6755.33 5124.32 C 6768.61 5141.117 6775.25 5166.638 6775.25 5200.883 C 6751.943333333334 5200.883 6728.636666666666 5200.883 6705.33 5200.883 C 6705.33 5193.0053333333335 6705.33 5185.127666666666 6705.33 5177.25 C 6705.33 5172.562 6703.96 5168.917 6701.23 5166.312 C 6698.62 5163.708 6695.04 5162.406 6690.48 5162.406 C 6685.02 5162.406 6680.98 5163.969 6678.38 5167.094 C 6675.9 5170.089 6674.66 5173.995 6674.66 5178.812 C 6674.66 5183.63 6675.97 5188.839 6678.57 5194.438 C 6681.17 5200.036 6686.32 5206.482 6694 5213.773 C 6707.216666666667 5226.468333333333 6720.433333333333 5239.163666666666 6733.65 5251.859 C 6741.59 5259.411 6748.88 5267.419 6755.52 5275.883 C 6762.16 5284.216 6767.5 5293.982 6771.54 5305.18 C 6775.58 5316.247 6777.59 5329.789 6777.59 5345.805 C 6777.59 5378.096 6771.6 5403.4220000000005 6759.62 5421.781C 6747.78 5440.01 6727.07 5449.125 6697.52 5449.125Z M 6828.15 5445.805 C 6828.15 5426.404 6828.15 5407.003 6828.15 5387.602 C 6851.456666666667 5387.602 6874.763333333333 5387.602 6898.07 5387.602 C 6898.07 5407.003 6898.07 5426.404 6898.07 5445.805C 6874.763333333333 5445.805 6851.456666666667 5445.805 6828.15 5445.805Z M 6956.05 5446 C 6956.05 5331.416666666667 6956.05 5216.833333333333 6956.05 5102.25 C 6987.5599999999995 5102.25 7019.07 5102.25 7050.58 5102.25 C 7075.32 5102.25 7093.9400000000005 5109.151 7106.4400000000005 5122.953 C 7118.9400000000005 5136.625 7125.1900000000005 5156.677 7125.1900000000005 5183.109 C 7125.1900000000005 5236.755 7125.1900000000005 5290.401 7125.1900000000005 5344.0470000000005 C 7125.1900000000005 5376.599 7119.46 5401.729 7108 5419.438 C 7096.67 5437.146 7076.75 5446 7048.23 5446C 7017.503333333333 5446 6986.776666666667 5446 6956.05 5446Z M 7025.1900000000005 5385.258 C 7029.16 5385.258 7033.13 5385.258 7037.1 5385.258 C 7049.73 5385.258 7056.05 5379.138 7056.05 5366.898 C 7056.05 5307.783666666666 7056.05 5248.669333333333 7056.05 5189.555 C 7056.05 5178.096 7054.48 5170.74 7051.36 5167.484 C 7048.36 5164.099 7042.18 5162.406 7032.8 5162.406 C 7030.263333333333 5162.406 7027.7266666666665 5162.406 7025.1900000000005 5162.406C 7025.1900000000005 5236.69 7025.1900000000005 5310.974 7025.1900000000005 5385.258Z M 7185.3099999999995 5446 C 7185.3099999999995 5331.416666666667 7185.3099999999995 5216.833333333333 7185.3099999999995 5102.25 C 7231.143333333333 5102.25 7276.9766666666665 5102.25 7322.8099999999995 5102.25 C 7322.8099999999995 5124.385333333334 7322.8099999999995 5146.520666666666 7322.8099999999995 5168.656 C 7300.283333333333 5168.656 7277.756666666666 5168.656 7255.23 5168.656 C 7255.23 5190.986666666667 7255.23 5213.317333333333 7255.23 5235.648 C 7276.846666666666 5235.648 7298.463333333333 5235.648 7320.08 5235.648 C 7320.08 5257.197666666667 7320.08 5278.747333333334 7320.08 5300.2970000000005 C 7298.463333333333 5300.2970000000005 7276.846666666666 5300.2970000000005 7255.23 5300.2970000000005 C 7255.23 5326.534 7255.23 5352.771 7255.23 5379.008 C 7279.253333333333 5379.008 7303.276666666667 5379.008 7327.3 5379.008 C 7327.3 5401.3386666666665 7327.3 5423.669333333333 7327.3 5446C 7279.97 5446 7232.639999999999 5446 7185.3099999999995 5446Z M 7413.8 5446 C 7399.67 5331.3516666666665 7385.54 5216.703333333333 7371.41 5102.055 C 7393.22 5102.055 7415.030000000001 5102.055 7436.84 5102.055 C 7445.24 5180.049666666667 7453.639999999999 5258.044333333333 7462.04 5336.039 C 7469.526666666667 5258.044333333333 7477.013333333333 5180.049666666667 7484.5 5102.055 C 7506.3099999999995 5102.055 7528.12 5102.055 7549.93 5102.055 C 7535.803333333333 5216.703333333333 7521.676666666666 5331.3516666666665 7507.55 5446C 7476.3 5446 7445.05 5446 7413.8 5446Z"
+                  ></path>
+                  <defs></defs>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        id="rec815225856"
+        class="r t-rec t-screenmin-1200px uc-menu"
+        style="background-color: #dcf0ff"
+        data-record-type="396"
+        data-screen-min="1200px"
+        data-bg-color="#dcf0ff"
+      >
+        <style>
+          #rec815225856 .t396__artboard {
+            position: absolute;
+            width: 100%;
+            z-index: 100;
+          }
+
+          #rec815225856 .t396__artboard {
+            height: 205px;
+          }
+
+          #rec815225856 .t396__filter {
+            height: 205px;
+          }
+
+          #rec815225856 .t396__carrier {
+            height: 205px;
+            background-position: center center;
+            background-attachment: fixed;
+            transform: translate3d(0, 0, 0);
+            -moz-transform: unset;
+            background-size: cover;
+            background-repeat: no-repeat;
+          }
+
+          @media screen and (min-width: 1199px) {
+            #rec815225856 .t396__carrier-wrapper {
+              position: absolute;
+              width: 100%;
+              height: 100%;
+              top: 0;
+              left: 0;
+              -webkit-clip-path: inset(0 0 0 0);
+              clip-path: inset(0 0 0 0);
+            }
+
+            #rec815225856 .t396__carrier {
+              position: fixed;
+              display: block;
+              width: 100%;
+              height: 100%;
+              top: 0;
+              left: 0;
+              background-size: cover;
+              background-position: center center;
+              transform: translateZ(0);
+              will-change: transform;
+              pointer-events: none;
+            }
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815225856 .t396__artboard,
+            #rec815225856 .t396__filter,
+            #rec815225856 .t396__carrier {
+            }
+
+            #rec815225856 .t396__filter {
+            }
+
+            #rec815225856 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .t396__artboard,
+            #rec815225856 .t396__filter,
+            #rec815225856 .t396__carrier {
+            }
+
+            #rec815225856 .t396__filter {
+            }
+
+            #rec815225856 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .t396__artboard,
+            #rec815225856 .t396__filter,
+            #rec815225856 .t396__carrier {
+              height: 185px;
+            }
+
+            #rec815225856 .t396__filter {
+            }
+
+            #rec815225856 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815225856 .t396__artboard,
+            #rec815225856 .t396__filter,
+            #rec815225856 .t396__carrier {
+            }
+
+            #rec815225856 .t396__filter {
+            }
+
+            #rec815225856 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+            #rec815225856 .t396__artboard,
+            #rec815225856 .t396__filter,
+            #rec815225856 .t396__carrier {
+              height: 254px;
+            }
+
+            #rec815225856 .t396__filter {
+            }
+
+            #rec815225856 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 639px) {
+            #rec815225856 .t396__artboard,
+            #rec815225856 .t396__filter,
+            #rec815225856 .t396__carrier {
+            }
+
+            #rec815225856 .t396__filter {
+            }
+
+            #rec815225856 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 479px) {
+            #rec815225856 .t396__artboard,
+            #rec815225856 .t396__filter,
+            #rec815225856 .t396__carrier {
+              height: 254px;
+            }
+
+            #rec815225856 .t396__filter {
+            }
+
+            #rec815225856 .t396__carrier {
+              background-attachment: scroll;
+            }
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1682335500868"] {
+            z-index: 2;
+            top: 24px;
+            left: calc(50% - 960px + 110px);
+            width: 1700px;
+            height: 150px;
+            -webkit-backdrop-filter: blur(10px);
+            backdrop-filter: blur(10px);
+            border-radius: 25px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+            border-width: 1px;
+            border-radius: 25px;
+            background-color: #ffffff;
+            background-position: center center;
+            background-attachment: scroll;
+            border-color: #0179ff;
+            border-style: solid;
+            box-shadow: 0px 8px 14px 0px rgba(33, 26, 161, 0.1);
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] {
+              left: calc(50% - 840px + 84px);
+              width: 90%;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+              background-position: center center;
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] {
+              left: calc(50% - 700px + 70px);
+              width: 90%;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+              background-position: center center;
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] {
+              top: 28px;
+              left: calc(50% - 600px + 60px);
+              width: 90px;
+              height: 130px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] {
+              left: calc(50% - 480px + 10px);
+              width: 99px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+              background-attachment: scroll;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] {
+              top: 0px;
+              left: calc(50% - 320px + 0px);
+              width: 100%;
+              height: 254px;
+              border-radius: 0px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+              border-radius: 0px;
+            }
+          }
+
+          @media screen and (max-width: 639px) {
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+            }
+          }
+
+          @media screen and (max-width: 479px) {
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] {
+              top: 0px;
+              left: calc(50% - 160px + 0px);
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1682335500868"] .tn-atom {
+            }
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1681820298248"] {
+            color: #000000;
+            z-index: 3;
+            top: 77px;
+            left: calc(50% - 960px + 171px);
+            width: 295px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1681820298248"] .tn-atom {
+            color: #000000;
+            font-size: 46px;
+            font-family: "Arial", Arial, sans-serif;
+            line-height: 1.15;
+            font-weight: 600;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          @media screen and (max-width: 1919px) {
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .tn-elem[data-elem-id="1681820298248"] {
+              left: calc(50% - 700px + 117px);
+              width: 273px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1681820298248"] .tn-atom {
+              font-size: 32px;
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1681820298248"] {
+              top: 74px;
+              left: calc(50% - 600px + 97px);
+              width: 76px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1681820298248"] .tn-atom {
+              font-size: 42px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815225856 .tn-elem[data-elem-id="1681820298248"] {
+              top: 76px;
+              left: calc(50% - 480px + 30px);
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1681820298248"] .tn-atom {
+              font-size: 38px;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+            #rec815225856 .tn-elem[data-elem-id="1681820298248"] {
+              top: 40px;
+              left: calc(50% - 320px + 0px);
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1681820298248"] {
+              text-align: center;
+            }
+          }
+
+          @media screen and (max-width: 639px) {
+            #rec815225856 .tn-elem[data-elem-id="1681820298248"] {
+              top: 40px;
+              left: calc(50% - 240px + 0px);
+            }
+          }
+
+          @media screen and (max-width: 479px) {
+            #rec815225856 .tn-elem[data-elem-id="1681820298248"] {
+              top: 40px;
+              left: calc(50% - 160px + 0px);
+            }
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729504021575"] {
+            z-index: 4;
+            top: 113px;
+            left: calc(50% - 960px + 1055px);
+            width: 50px;
+            height: 2px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729504021575"] .tn-atom {
+            border-radius: 25px;
+            background-color: #0179ff;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          @media screen and (max-width: 1919px) {
+          }
+
+          @media screen and (max-width: 1679px) {
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1729504021575"] {
+              top: 113px;
+              left: calc(50% - 600px + 1055px);
+              width: 50px;
+              height: 2px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729504294018"] {
+            color: #000000;
+            text-align: center;
+            z-index: 5;
+            top: 88px;
+            left: calc(50% - 960px + 640px);
+            width: 70px;
+            height: 30px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729504294018"] .tn-atom {
+            color: #000000;
+            font-size: 18px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 600;
+            border-width: 0px;
+            border-radius: 0px;
+            background-color: #ffffff;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+            transition: background-color 0.2s ease-in-out,
+              color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+          }
+
+          @media (hover), (min-width: 0\0) {
+            #rec815225856
+              .tn-elem[data-elem-id="1729504294018"]
+              .tn-atom:hover {
+            }
+
+            #rec815225856
+              .tn-elem[data-elem-id="1729504294018"]
+              .tn-atom:hover {
+              color: #0179ff;
+            }
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815225856 .tn-elem[data-elem-id="1729504294018"] {
+              top: 90px;
+              left: calc(50% - 840px + 604px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .tn-elem[data-elem-id="1729504294018"] {
+              top: 88px;
+              left: calc(50% - 700px + 440px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1729504294018"] {
+              top: 79px;
+              left: calc(50% - 600px + 305px);
+              width: 70px;
+              height: 30px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729504294018"] .tn-atom {
+              font-size: 18px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815225856 .tn-elem[data-elem-id="1729504294018"] {
+              top: 83px;
+              left: calc(50% - 480px + 170px);
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729504294018"] .tn-atom {
+              font-size: 16px;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729667635145"] {
+            color: #000000;
+            text-align: center;
+            z-index: 6;
+            top: 88px;
+            left: calc(50% - 960px + 732px);
+            width: 57px;
+            height: 30px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729667635145"] .tn-atom {
+            color: #000000;
+            font-size: 18px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 600;
+            border-width: 0px;
+            border-radius: 0px;
+            background-color: #ffffff;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+            transition: background-color 0.2s ease-in-out,
+              color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+          }
+
+          @media (hover), (min-width: 0\0) {
+            #rec815225856
+              .tn-elem[data-elem-id="1729667635145"]
+              .tn-atom:hover {
+            }
+
+            #rec815225856
+              .tn-elem[data-elem-id="1729667635145"]
+              .tn-atom:hover {
+              color: #0179ff;
+            }
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815225856 .tn-elem[data-elem-id="1729667635145"] {
+              top: 90px;
+              left: calc(50% - 840px + 696px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .tn-elem[data-elem-id="1729667635145"] {
+              top: 88px;
+              left: calc(50% - 700px + 532px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1729667635145"] {
+              top: 79px;
+              left: calc(50% - 600px + 397px);
+              width: 57px;
+              height: 30px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729667635145"] .tn-atom {
+              font-size: 18px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815225856 .tn-elem[data-elem-id="1729667635145"] {
+              top: 83px;
+              left: calc(50% - 480px + 262px);
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729667635145"] .tn-atom {
+              font-size: 16px;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729667646836"] {
+            color: #000000;
+            text-align: center;
+            z-index: 7;
+            top: 88px;
+            left: calc(50% - 960px + 812px);
+            width: 74px;
+            height: 30px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729667646836"] .tn-atom {
+            color: #000000;
+            font-size: 18px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 600;
+            border-width: 0px;
+            border-radius: 0px;
+            background-color: #ffffff;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+            transition: background-color 0.2s ease-in-out,
+              color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+          }
+
+          @media (hover), (min-width: 0\0) {
+            #rec815225856
+              .tn-elem[data-elem-id="1729667646836"]
+              .tn-atom:hover {
+            }
+
+            #rec815225856
+              .tn-elem[data-elem-id="1729667646836"]
+              .tn-atom:hover {
+              color: #0179ff;
+            }
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815225856 .tn-elem[data-elem-id="1729667646836"] {
+              top: 90px;
+              left: calc(50% - 840px + 776px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .tn-elem[data-elem-id="1729667646836"] {
+              top: 88px;
+              left: calc(50% - 700px + 612px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1729667646836"] {
+              top: 79px;
+              left: calc(50% - 600px + 477px);
+              width: 74px;
+              height: 30px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729667646836"] .tn-atom {
+              font-size: 18px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815225856 .tn-elem[data-elem-id="1729667646836"] {
+              top: 83px;
+              left: calc(50% - 480px + 342px);
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729667646836"] .tn-atom {
+              font-size: 16px;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729839220590"] {
+            color: #000000;
+            text-align: center;
+            z-index: 8;
+            top: 63px;
+            left: calc(50% - 960px + 1305px);
+            width: 233px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729839220590"] .tn-atom {
+            color: #000000;
+            font-size: 26px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 400;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815225856 .tn-elem[data-elem-id="1729839220590"] {
+              top: 64px;
+              left: calc(50% - 840px + 1113px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .tn-elem[data-elem-id="1729839220590"] {
+              top: 65px;
+              left: calc(50% - 700px + 865px);
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729839220590"] .tn-atom {
+              font-size: 24px;
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1729839220590"] {
+              top: 58px;
+              left: calc(50% - 600px + 680px);
+              width: 216px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729839220590"] .tn-atom {
+              font-size: 22px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815225856 .tn-elem[data-elem-id="1729839220590"] {
+              top: 63px;
+              left: calc(50% - 480px + 542px);
+              width: 183px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729839220590"] .tn-atom {
+              font-size: 20px;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729839290414"] {
+            color: #0179ff;
+            text-align: center;
+            z-index: 9;
+            top: 86px;
+            left: calc(50% - 960px + 1105px);
+            width: 200px;
+            height: 35px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729839290414"] .tn-atom {
+            color: #0179ff;
+            font-size: 16px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 600;
+            border-radius: 30px;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+            transition: background-color 0.2s ease-in-out,
+              color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+          }
+
+          @media (hover), (min-width: 0\0) {
+            #rec815225856
+              .tn-elem[data-elem-id="1729839290414"]
+              .tn-atom:hover {
+            }
+
+            #rec815225856
+              .tn-elem[data-elem-id="1729839290414"]
+              .tn-atom:hover {
+              color: #1976dd;
+            }
+          }
+
+          @media screen and (max-width: 1919px) {
+          }
+
+          @media screen and (max-width: 1679px) {
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1729839290414"] {
+              top: 86px;
+              left: calc(50% - 600px + 1105px);
+              width: 200px;
+              height: 35px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729839290414"] .tn-atom {
+              font-size: 16px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729839442032"] {
+            color: #000000;
+            text-align: center;
+            z-index: 10;
+            top: 101px;
+            left: calc(50% - 960px + 1305px);
+            width: 235px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729839442032"] .tn-atom {
+            color: #000000;
+            font-size: 26px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 400;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815225856 .tn-elem[data-elem-id="1729839442032"] {
+              top: 102px;
+              left: calc(50% - 840px + 1115px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .tn-elem[data-elem-id="1729839442032"] {
+              top: 103px;
+              left: calc(50% - 700px + 867px);
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729839442032"] .tn-atom {
+              font-size: 24px;
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1729839442032"] {
+              top: 96px;
+              left: calc(50% - 600px + 682px);
+              width: 216px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729839442032"] .tn-atom {
+              font-size: 22px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815225856 .tn-elem[data-elem-id="1729839442032"] {
+              top: 101px;
+              left: calc(50% - 480px + 544px);
+              width: 183px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1729839442032"] .tn-atom {
+              font-size: 20px;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729865288091"] {
+            z-index: 11;
+            top: 70px;
+            left: calc(50% - 960px + 1571px);
+            width: 203px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1729865288091"] .tn-atom {
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          #rec815225856
+            .tn-elem[data-elem-id="1729865288091"]
+            .tn-atom__vector
+            svg {
+            display: block;
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815225856 .tn-elem[data-elem-id="1729865288091"] {
+              top: 71px;
+              left: calc(50% - 840px + 1362px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .tn-elem[data-elem-id="1729865288091"] {
+              top: 69px;
+              left: calc(50% - 700px + 1097px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1729865288091"] {
+              top: 63px;
+              left: calc(50% - 600px + 917px);
+              width: 203px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815225856 .tn-elem[data-elem-id="1729865288091"] {
+              top: 67px;
+              left: calc(50% - 480px + 733px);
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1730092791587"] {
+            color: #000000;
+            text-align: center;
+            z-index: 12;
+            top: 88px;
+            left: calc(50% - 960px + 908px);
+            width: 74px;
+            height: 30px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1730092791587"] .tn-atom {
+            color: #000000;
+            font-size: 18px;
+            font-family: "Manrope", Arial, sans-serif;
+            line-height: 1.55;
+            font-weight: 600;
+            border-width: 0px;
+            border-radius: 0px;
+            background-color: #ffffff;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+            transition: background-color 0.2s ease-in-out,
+              color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+          }
+
+          @media (hover), (min-width: 0\0) {
+            #rec815225856
+              .tn-elem[data-elem-id="1730092791587"]
+              .tn-atom:hover {
+            }
+
+            #rec815225856
+              .tn-elem[data-elem-id="1730092791587"]
+              .tn-atom:hover {
+              color: #0179ff;
+            }
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815225856 .tn-elem[data-elem-id="1730092791587"] {
+              top: 90px;
+              left: calc(50% - 840px + 872px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .tn-elem[data-elem-id="1730092791587"] {
+              top: 88px;
+              left: calc(50% - 700px + 708px);
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1730092791587"] {
+              top: 79px;
+              left: calc(50% - 600px + 573px);
+              width: 74px;
+              height: 30px;
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1730092791587"] .tn-atom {
+              font-size: 18px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+            #rec815225856 .tn-elem[data-elem-id="1730092791587"] {
+              top: 83px;
+              left: calc(50% - 480px + 438px);
+            }
+
+            #rec815225856 .tn-elem[data-elem-id="1730092791587"] .tn-atom {
+              font-size: 16px;
+            }
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1730527981398"] {
+            z-index: 13;
+            top: 59px;
+            left: calc(50% - 960px + 180px);
+            width: 298px;
+          }
+
+          #rec815225856 .tn-elem[data-elem-id="1730527981398"] .tn-atom {
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+          }
+
+          #rec815225856
+            .tn-elem[data-elem-id="1730527981398"]
+            .tn-atom__vector
+            svg {
+            display: block;
+          }
+
+          @media screen and (max-width: 1919px) {
+            #rec815225856 .tn-elem[data-elem-id="1730527981398"] {
+              left: calc(50% - 840px + 178px);
+            }
+          }
+
+          @media screen and (max-width: 1679px) {
+            #rec815225856 .tn-elem[data-elem-id="1730527981398"] {
+              top: 64px;
+              left: calc(50% - 700px + 100px);
+              width: 264px;
+            }
+          }
+
+          @media screen and (max-width: 1399px) {
+            #rec815225856 .tn-elem[data-elem-id="1730527981398"] {
+              top: 70px;
+              left: calc(50% - 600px + 99px);
+              width: 157px;
+            }
+          }
+
+          @media screen and (max-width: 1199px) {
+          }
+
+          @media screen and (max-width: 959px) {
+          }
+
+          @media screen and (max-width: 639px) {
+          }
+
+          @media screen and (max-width: 479px) {
+          }
+        </style>
+        <div class="t396">
+          <div
+            class="t396__artboard"
+            data-artboard-recid="815225856"
+            data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
+            data-artboard-height="205"
+            data-artboard-valign="center"
+            data-artboard-upscale="grid"
+            data-artboard-pos="absolute"
+            data-artboard-fixed-need-js="y"
+            data-artboard-height-res-320="254"
+            data-artboard-height-res-640="254"
+            data-artboard-height-res-1200="185"
+          >
+            <div class="t396__carrier-wrapper">
+              <div class="t396__carrier" data-artboard-recid="815225856"></div>
+            </div>
+            <div class="t396__filter" data-artboard-recid="815225856"></div>
+            <div
+              class="t396__elem tn-elem tn-elem__8152258561682335500868"
+              data-elem-id="1682335500868"
+              data-elem-type="shape"
+              data-field-top-value="24"
+              data-field-left-value="110"
+              data-field-height-value="150"
+              data-field-width-value="1700"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value="px"
+              data-field-widthunits-value="px"
+              data-field-top-res-320-value="0"
+              data-field-left-res-320-value="0"
+              data-field-top-res-640-value="0"
+              data-field-left-res-640-value="0"
+              data-field-height-res-640-value="254"
+              data-field-width-res-640-value="100"
+              data-field-axisx-res-640-value="center"
+              data-field-container-res-640-value="window"
+              data-field-widthunits-res-640-value="%"
+              data-field-left-res-960-value="10"
+              data-field-width-res-960-value="99"
+              data-field-top-res-1200-value="28"
+              data-field-left-res-1200-value="60"
+              data-field-height-res-1200-value="130"
+              data-field-width-res-1200-value="90"
+              data-field-left-res-1400-value="70"
+              data-field-width-res-1400-value="90"
+              data-field-widthunits-res-1400-value="%"
+              data-field-left-res-1680-value="84"
+              data-field-width-res-1680-value="90"
+              data-field-widthunits-res-1680-value="%"
+            >
+              <div class="tn-atom"></div>
+            </div>
+            <div
+              class="t396__elem tn-elem menu tn-elem__8152258561729504294018"
+              data-elem-id="1729504294018"
+              data-elem-type="button"
+              data-field-top-value="88"
+              data-field-left-value="640"
+              data-field-height-value="30"
+              data-field-width-value="70"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value="px"
+              data-field-widthunits-value="px"
+              data-field-top-res-960-value="83"
+              data-field-left-res-960-value="170"
+              data-field-top-res-1200-value="79"
+              data-field-left-res-1200-value="305"
+              data-field-height-res-1200-value="30"
+              data-field-width-res-1200-value="70"
+              data-field-top-res-1400-value="88"
+              data-field-left-res-1400-value="440"
+              data-field-top-res-1680-value="90"
+              data-field-left-res-1680-value="604"
+            >
+              <a class="tn-atom" href="index.html">Главная</a>
+            </div>
+            <div
+              class="t396__elem tn-elem menu tn-elem__8152258561729667635145"
+              data-elem-id="1729667635145"
+              data-elem-type="button"
+              data-field-top-value="88"
+              data-field-left-value="732"
+              data-field-height-value="30"
+              data-field-width-value="57"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value="px"
+              data-field-widthunits-value="px"
+              data-field-top-res-960-value="83"
+              data-field-left-res-960-value="262"
+              data-field-top-res-1200-value="79"
+              data-field-left-res-1200-value="397"
+              data-field-height-res-1200-value="30"
+              data-field-width-res-1200-value="57"
+              data-field-top-res-1400-value="88"
+              data-field-left-res-1400-value="532"
+              data-field-top-res-1680-value="90"
+              data-field-left-res-1680-value="696"
+            >
+              <a class="tn-atom" href="https://itis.dev/service">Услуги</a>
+            </div>
+            <div
+              class="t396__elem tn-elem menu tn-elem__8152258561729667646836"
+              data-elem-id="1729667646836"
+              data-elem-type="button"
+              data-field-top-value="88"
+              data-field-left-value="812"
+              data-field-height-value="30"
+              data-field-width-value="74"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value="px"
+              data-field-widthunits-value="px"
+              data-field-top-res-960-value="83"
+              data-field-left-res-960-value="342"
+              data-field-top-res-1200-value="79"
+              data-field-left-res-1200-value="477"
+              data-field-height-res-1200-value="30"
+              data-field-width-res-1200-value="74"
+              data-field-top-res-1400-value="88"
+              data-field-left-res-1400-value="612"
+              data-field-top-res-1680-value="90"
+              data-field-left-res-1680-value="776"
+            >
+              <a class="tn-atom" href="https://itis.dev/news">Новости</a>
+            </div>
+            <div
+              class="t396__elem tn-elem tn-elem__8152258561729839220590"
+              data-elem-id="1729839220590"
+              data-elem-type="text"
+              data-field-top-value="63"
+              data-field-left-value="1305"
+              data-field-width-value="233"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value=""
+              data-field-widthunits-value="px"
+              data-field-top-res-960-value="63"
+              data-field-left-res-960-value="542"
+              data-field-width-res-960-value="183"
+              data-field-top-res-1200-value="58"
+              data-field-left-res-1200-value="680"
+              data-field-width-res-1200-value="216"
+              data-field-top-res-1400-value="65"
+              data-field-left-res-1400-value="865"
+              data-field-top-res-1680-value="64"
+              data-field-left-res-1680-value="1113"
+            >
+              <div class="tn-atom">
+                <a href="tel:89221230965" target="_blank" style="color: inherit"
+                  >+7 (922) 123-09-65</a
+                >
+              </div>
+            </div>
+            <div
+              class="t396__elem tn-elem tn-elem__8152258561729839442032"
+              data-elem-id="1729839442032"
+              data-elem-type="text"
+              data-field-top-value="101"
+              data-field-left-value="1305"
+              data-field-width-value="235"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value=""
+              data-field-widthunits-value="px"
+              data-field-top-res-960-value="101"
+              data-field-left-res-960-value="544"
+              data-field-width-res-960-value="183"
+              data-field-top-res-1200-value="96"
+              data-field-left-res-1200-value="682"
+              data-field-width-res-1200-value="216"
+              data-field-top-res-1400-value="103"
+              data-field-left-res-1400-value="867"
+              data-field-top-res-1680-value="102"
+              data-field-left-res-1680-value="1115"
+            >
+              <div class="tn-atom">
+                <a href="tel:89630346178" target="_blank" style="color: inherit"
+                  >+7 (963) 034-61-78</a
+                >
+              </div>
+            </div>
+            <div
+              class="t396__elem tn-elem btn-callphone tn-elem__8152258561729865288091"
+              data-elem-id="1729865288091"
+              data-elem-type="vector"
+              data-field-top-value="70"
+              data-field-left-value="1571"
+              data-field-width-value="203"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value=""
+              data-field-widthunits-value="px"
+              data-field-filewidth-value="203"
+              data-field-fileheight-value="63"
+              data-field-top-res-960-value="67"
+              data-field-left-res-960-value="733"
+              data-field-top-res-1200-value="63"
+              data-field-left-res-1200-value="917"
+              data-field-width-res-1200-value="203"
+              data-field-top-res-1400-value="69"
+              data-field-left-res-1400-value="1097"
+              data-field-top-res-1680-value="71"
+              data-field-left-res-1680-value="1362"
+            >
+              <a class="tn-atom tn-atom__vector" href="index.html#new_client">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="6611.00048828125 4968.00048828125 203 63"
+                >
+                  <path
+                    fill="white"
+                    fill-opacity="1"
+                    stroke="#0179FF"
+                    stroke-opacity="1"
+                    stroke-width="2"
+                    fill-rule="evenodd"
+                    display="undefined"
+                    stroke-linecap="undefined"
+                    stroke-linejoin="round"
+                    stroke-dasharray="undefined"
+                    paint-order="undefined"
+                    id="tSvg99259d4e78"
+                    title="Rectangle 2"
+                    d="M 6613.00048828125 4983.60048828125 A 13.6 13.6 0 0 1 6626.60048828125 4970.00048828125L 6798.40048828125 4970.00048828125 A 13.6 13.6 0 0 1 6812.00048828125 4983.60048828125L 6812.00048828125 5015.40048828125 A 13.6 13.6 0 0 1 6798.40048828125 5029.00048828125L 6626.60048828125 5029.00048828125 A 13.6 13.6 0 0 1 6613.00048828125 5015.40048828125Z"
+                    style="transform: rotate(0deg)"
+                    rx="13.6"
+                    ry="13.6"
+                  ></path>
+                  <path
+                    fill="black"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    fill-rule="evenodd"
+                    display="undefined"
+                    stroke-linecap="undefined"
+                    stroke-linejoin="undefined"
+                    stroke-dasharray="undefined"
+                    paint-order="undefined"
+                    id="tSvg52b103d235"
+                    title="Path 44"
+                    d="M 6673.90178828125 5004.74048828125 C 6670.79778828125 5004.74048828125 6668.78178828125 5002.88448828125 6668.78178828125 5000.34048828125 C 6669.87508828125 5000.34048828125 6670.96848828125 5000.34048828125 6672.06178828125 5000.34048828125 C 6672.06178828125 5001.28448828125 6672.73378828125 5001.97248828125 6673.78978828125 5001.97248828125 C 6674.71778828125 5001.97248828125 6675.43778828125 5001.47648828125 6675.43778828125 5000.74048828125 C 6675.43778828125 5000.06848828125 6674.79778828125 4999.58848828125 6673.90178828125 4999.58848828125 C 6673.59778828125 4999.58848828125 6673.29378828125 4999.58848828125 6672.98978828125 4999.58848828125 C 6672.98978828125 4998.96448828125 6672.98978828125 4998.34048828125 6672.98978828125 4997.71648828125 C 6673.30448828125 4997.71648828125 6673.61908828125 4997.71648828125 6673.93378828125 4997.71648828125 C 6674.74978828125 4997.71648828125 6675.34178828125 4997.28448828125 6675.34178828125 4996.66048828125 C 6675.34178828125 4996.02048828125 6674.73378828125 4995.57248828125 6673.82178828125 4995.57248828125 C 6672.81378828125 4995.57248828125 6672.22178828125 4996.13248828125 6672.22178828125 4996.99648828125 C 6671.13908828125 4996.99648828125 6670.05648828125 4996.99648828125 6668.97378828125 4996.99648828125 C 6668.97378828125 4994.56448828125 6670.90978828125 4992.82048828125 6673.86978828125 4992.82048828125 C 6676.46178828125 4992.82048828125 6678.49378828125 4994.14848828125 6678.49378828125 4996.19648828125 C 6678.49378828125 4997.41248828125 6677.77378828125 4998.18048828125 6676.76578828125 4998.46848828125 C 6676.76578828125 4998.52178828125 6676.76578828125 4998.57518828125 6676.76578828125 4998.62848828125 C 6677.98178828125 4998.82048828125 6678.86178828125 4999.90848828125 6678.86178828125 5001.20448828125C 6678.86178828125 5003.26848828125 6676.68578828125 5004.74048828125 6673.90178828125 5004.74048828125Z M 6682.20458828125 5004.69248828125 C 6680.57258828125 5004.69248828125 6679.45258828125 5003.82848828125 6679.45258828125 5002.32448828125 C 6679.45258828125 5000.72448828125 6680.74858828125 4999.87648828125 6683.45258828125 4999.50848828125 C 6683.93258828125 4999.44978828125 6684.41258828125 4999.39118828125 6684.89258828125 4999.33248828125 C 6684.89258828125 4999.20978828125 6684.89258828125 4999.08718828125 6684.89258828125 4998.96448828125 C 6684.89258828125 4998.35648828125 6684.49258828125 4997.94048828125 6683.80458828125 4997.94048828125 C 6683.14858828125 4997.94048828125 6682.68458828125 4998.35648828125 6682.68458828125 4999.06048828125 C 6681.71928828125 4999.06048828125 6680.75388828125 4999.06048828125 6679.78858828125 4999.06048828125 C 6679.78858828125 4997.22048828125 6681.37258828125 4996.03648828125 6683.83658828125 4996.03648828125 C 6686.28458828125 4996.03648828125 6687.90058828125 4997.22048828125 6687.90058828125 4999.07648828125 C 6687.90058828125 5000.88448828125 6687.90058828125 5002.69248828125 6687.90058828125 5004.50048828125 C 6686.89788828125 5004.50048828125 6685.89528828125 5004.50048828125 6684.89258828125 5004.50048828125 C 6684.89258828125 5004.17518828125 6684.89258828125 5003.84978828125 6684.89258828125 5003.52448828125 C 6684.83928828125 5003.52448828125 6684.78588828125 5003.52448828125 6684.73258828125 5003.52448828125C 6684.26858828125 5004.29248828125 6683.27658828125 5004.69248828125 6682.20458828125 5004.69248828125Z M 6683.37258828125 5002.88448828125 C 6684.26858828125 5002.88448828125 6684.89258828125 5002.26048828125 6684.89258828125 5001.41248828125 C 6684.89258828125 5001.24718828125 6684.89258828125 5001.08178828125 6684.89258828125 5000.91648828125 C 6684.44988828125 5000.98048828125 6684.00728828125 5001.04448828125 6683.56458828125 5001.10848828125 C 6682.68458828125 5001.22048828125 6682.33258828125 5001.55648828125 6682.33258828125 5002.03648828125C 6682.33258828125 5002.54848828125 6682.71658828125 5002.88448828125 6683.37258828125 5002.88448828125Z M 6689.21228828125 5004.50048828125 C 6689.21228828125 5001.74848828125 6689.21228828125 4998.99648828125 6689.21228828125 4996.24448828125 C 6690.20958828125 4996.24448828125 6691.20698828125 4996.24448828125 6692.20428828125 4996.24448828125 C 6692.20428828125 4997.25248828125 6692.20428828125 4998.26048828125 6692.20428828125 4999.26848828125 C 6692.25758828125 4999.26848828125 6692.31098828125 4999.26848828125 6692.36428828125 4999.26848828125 C 6693.07898828125 4998.26048828125 6693.79358828125 4997.25248828125 6694.50828828125 4996.24448828125 C 6695.68158828125 4996.24448828125 6696.85498828125 4996.24448828125 6698.02828828125 4996.24448828125 C 6697.00428828125 4997.56718828125 6695.98028828125 4998.88978828125 6694.95628828125 5000.21248828125 C 6695.99628828125 5001.64178828125 6697.03628828125 5003.07118828125 6698.07628828125 5004.50048828125 C 6696.89228828125 5004.50048828125 6695.70828828125 5004.50048828125 6694.52428828125 5004.50048828125 C 6693.80428828125 5003.39648828125 6693.08428828125 5002.29248828125 6692.36428828125 5001.18848828125 C 6692.31098828125 5001.18848828125 6692.25758828125 5001.18848828125 6692.20428828125 5001.18848828125 C 6692.20428828125 5002.29248828125 6692.20428828125 5003.39648828125 6692.20428828125 5004.50048828125C 6691.20698828125 5004.50048828125 6690.20958828125 5004.50048828125 6689.21228828125 5004.50048828125Z M 6701.00138828125 5004.69248828125 C 6699.36938828125 5004.69248828125 6698.24938828125 5003.82848828125 6698.24938828125 5002.32448828125 C 6698.24938828125 5000.72448828125 6699.54538828125 4999.87648828125 6702.24938828125 4999.50848828125 C 6702.72938828125 4999.44978828125 6703.20938828125 4999.39118828125 6703.68938828125 4999.33248828125 C 6703.68938828125 4999.20978828125 6703.68938828125 4999.08718828125 6703.68938828125 4998.96448828125 C 6703.68938828125 4998.35648828125 6703.28938828125 4997.94048828125 6702.60138828125 4997.94048828125 C 6701.94538828125 4997.94048828125 6701.48138828125 4998.35648828125 6701.48138828125 4999.06048828125 C 6700.51608828125 4999.06048828125 6699.55068828125 4999.06048828125 6698.58538828125 4999.06048828125 C 6698.58538828125 4997.22048828125 6700.16938828125 4996.03648828125 6702.63338828125 4996.03648828125 C 6705.08138828125 4996.03648828125 6706.69738828125 4997.22048828125 6706.69738828125 4999.07648828125 C 6706.69738828125 5000.88448828125 6706.69738828125 5002.69248828125 6706.69738828125 5004.50048828125 C 6705.69468828125 5004.50048828125 6704.69208828125 5004.50048828125 6703.68938828125 5004.50048828125 C 6703.68938828125 5004.17518828125 6703.68938828125 5003.84978828125 6703.68938828125 5003.52448828125 C 6703.63608828125 5003.52448828125 6703.58268828125 5003.52448828125 6703.52938828125 5003.52448828125C 6703.06538828125 5004.29248828125 6702.07338828125 5004.69248828125 6701.00138828125 5004.69248828125Z M 6702.16938828125 5002.88448828125 C 6703.06538828125 5002.88448828125 6703.68938828125 5002.26048828125 6703.68938828125 5001.41248828125 C 6703.68938828125 5001.24718828125 6703.68938828125 5001.08178828125 6703.68938828125 5000.91648828125 C 6703.24668828125 5000.98048828125 6702.80408828125 5001.04448828125 6702.36138828125 5001.10848828125 C 6701.48138828125 5001.22048828125 6701.12938828125 5001.55648828125 6701.12938828125 5002.03648828125C 6701.12938828125 5002.54848828125 6701.51338828125 5002.88448828125 6702.16938828125 5002.88448828125Z M 6711.92918828125 5004.70848828125 C 6709.32118828125 5004.70848828125 6707.65718828125 5003.47648828125 6707.65718828125 5001.39648828125 C 6708.58518828125 5001.39648828125 6709.51318828125 5001.39648828125 6710.44118828125 5001.39648828125 C 6710.44118828125 5002.16448828125 6710.96918828125 5002.64448828125 6711.75318828125 5002.64448828125 C 6712.42518828125 5002.64448828125 6712.87348828125 5002.30848828125 6712.87348828125 5001.82848828125 C 6712.87348828125 5001.36448828125 6712.42518828125 5001.09248828125 6711.83318828125 5001.09248828125 C 6711.59318828125 5001.09248828125 6711.35318828125 5001.09248828125 6711.11318828125 5001.09248828125 C 6711.11318828125 5000.55378828125 6711.11318828125 5000.01518828125 6711.11318828125 4999.47648828125 C 6711.35318828125 4999.47648828125 6711.59318828125 4999.47648828125 6711.83318828125 4999.47648828125 C 6712.40918828125 4999.47648828125 6712.82548828125 4999.20448828125 6712.82548828125 4998.80448828125 C 6712.82548828125 4998.38848828125 6712.37718828125 4998.10048828125 6711.73718828125 4998.10048828125 C 6711.01718828125 4998.10048828125 6710.56918828125 4998.48448828125 6710.56918828125 4999.10848828125 C 6709.67848828125 4999.10848828125 6708.78788828125 4999.10848828125 6707.89718828125 4999.10848828125 C 6707.89718828125 4997.20448828125 6709.48118828125 4996.03648828125 6711.86518828125 4996.03648828125 C 6714.02548828125 4996.03648828125 6715.59348828125 4996.99648828125 6715.59348828125 4998.50048828125 C 6715.59348828125 4999.34848828125 6715.09748828125 4999.92448828125 6714.32948828125 5000.16448828125 C 6714.32948828125 5000.21778828125 6714.32948828125 5000.27118828125 6714.32948828125 5000.32448828125 C 6715.22548828125 5000.56448828125 6715.83348828125 5001.31648828125 6715.83348828125 5002.24448828125C 6715.83348828125 5003.74848828125 6714.20148828125 5004.70848828125 6711.92918828125 5004.70848828125Z M 6719.11048828125 5004.69248828125 C 6717.47848828125 5004.69248828125 6716.35848828125 5003.82848828125 6716.35848828125 5002.32448828125 C 6716.35848828125 5000.72448828125 6717.65448828125 4999.87648828125 6720.35848828125 4999.50848828125 C 6720.83848828125 4999.44978828125 6721.31848828125 4999.39118828125 6721.79848828125 4999.33248828125 C 6721.79848828125 4999.20978828125 6721.79848828125 4999.08718828125 6721.79848828125 4998.96448828125 C 6721.79848828125 4998.35648828125 6721.39848828125 4997.94048828125 6720.71048828125 4997.94048828125 C 6720.05448828125 4997.94048828125 6719.59048828125 4998.35648828125 6719.59048828125 4999.06048828125 C 6718.62518828125 4999.06048828125 6717.65978828125 4999.06048828125 6716.69448828125 4999.06048828125 C 6716.69448828125 4997.22048828125 6718.27848828125 4996.03648828125 6720.74248828125 4996.03648828125 C 6723.19048828125 4996.03648828125 6724.80648828125 4997.22048828125 6724.80648828125 4999.07648828125 C 6724.80648828125 5000.88448828125 6724.80648828125 5002.69248828125 6724.80648828125 5004.50048828125 C 6723.80378828125 5004.50048828125 6722.80118828125 5004.50048828125 6721.79848828125 5004.50048828125 C 6721.79848828125 5004.17518828125 6721.79848828125 5003.84978828125 6721.79848828125 5003.52448828125 C 6721.74518828125 5003.52448828125 6721.69178828125 5003.52448828125 6721.63848828125 5003.52448828125C 6721.17448828125 5004.29248828125 6720.18248828125 5004.69248828125 6719.11048828125 5004.69248828125Z M 6720.27848828125 5002.88448828125 C 6721.17448828125 5002.88448828125 6721.79848828125 5002.26048828125 6721.79848828125 5001.41248828125 C 6721.79848828125 5001.24718828125 6721.79848828125 5001.08178828125 6721.79848828125 5000.91648828125 C 6721.35578828125 5000.98048828125 6720.91318828125 5001.04448828125 6720.47048828125 5001.10848828125 C 6719.59048828125 5001.22048828125 6719.23848828125 5001.55648828125 6719.23848828125 5002.03648828125C 6719.23848828125 5002.54848828125 6719.62248828125 5002.88448828125 6720.27848828125 5002.88448828125Z M 6728.23048828125 5004.50048828125 C 6728.23048828125 5002.54848828125 6728.23048828125 5000.59648828125 6728.23048828125 4998.64448828125 C 6727.36118828125 4998.64448828125 6726.49178828125 4998.64448828125 6725.62248828125 4998.64448828125 C 6725.62248828125 4997.84448828125 6725.62248828125 4997.04448828125 6725.62248828125 4996.24448828125 C 6728.35848828125 4996.24448828125 6731.09448828125 4996.24448828125 6733.83048828125 4996.24448828125 C 6733.83048828125 4997.04448828125 6733.83048828125 4997.84448828125 6733.83048828125 4998.64448828125 C 6732.96648828125 4998.64448828125 6732.10248828125 4998.64448828125 6731.23848828125 4998.64448828125 C 6731.23848828125 5000.59648828125 6731.23848828125 5002.54848828125 6731.23848828125 5004.50048828125C 6730.23578828125 5004.50048828125 6729.23318828125 5004.50048828125 6728.23048828125 5004.50048828125Z M 6734.74348828125 5004.50048828125 C 6734.74348828125 5001.74848828125 6734.74348828125 4998.99648828125 6734.74348828125 4996.24448828125 C 6735.74078828125 4996.24448828125 6736.73818828125 4996.24448828125 6737.73548828125 4996.24448828125 C 6737.73548828125 4996.92718828125 6737.73548828125 4997.60978828125 6737.73548828125 4998.29248828125 C 6738.25818828125 4998.29248828125 6738.78078828125 4998.29248828125 6739.30348828125 4998.29248828125 C 6741.63948828125 4998.29248828125 6742.87148828125 4999.71648828125 6742.87148828125 5001.34848828125 C 6742.87148828125 5002.99648828125 6741.63948828125 5004.50048828125 6739.30348828125 5004.50048828125C 6737.78348828125 5004.50048828125 6736.26348828125 5004.50048828125 6734.74348828125 5004.50048828125Z M 6737.73548828125 5002.24448828125 C 6738.11418828125 5002.24448828125 6738.49278828125 5002.24448828125 6738.87148828125 5002.24448828125 C 6739.47948828125 5002.24448828125 6739.87948828125 5001.90848828125 6739.87948828125 5001.41248828125 C 6739.87948828125 5000.88448828125 6739.47948828125 5000.53248828125 6738.87148828125 5000.53248828125 C 6738.49278828125 5000.53248828125 6738.11418828125 5000.53248828125 6737.73548828125 5000.53248828125C 6737.73548828125 5001.10318828125 6737.73548828125 5001.67378828125 6737.73548828125 5002.24448828125Z M 6751.64748828125 5004.70848828125 C 6749.03948828125 5004.70848828125 6747.37548828125 5003.47648828125 6747.37548828125 5001.39648828125 C 6748.30348828125 5001.39648828125 6749.23148828125 5001.39648828125 6750.15948828125 5001.39648828125 C 6750.15948828125 5002.16448828125 6750.68748828125 5002.64448828125 6751.47148828125 5002.64448828125 C 6752.14348828125 5002.64448828125 6752.59148828125 5002.30848828125 6752.59148828125 5001.82848828125 C 6752.59148828125 5001.36448828125 6752.14348828125 5001.09248828125 6751.55148828125 5001.09248828125 C 6751.31148828125 5001.09248828125 6751.07148828125 5001.09248828125 6750.83148828125 5001.09248828125 C 6750.83148828125 5000.55378828125 6750.83148828125 5000.01518828125 6750.83148828125 4999.47648828125 C 6751.07148828125 4999.47648828125 6751.31148828125 4999.47648828125 6751.55148828125 4999.47648828125 C 6752.12748828125 4999.47648828125 6752.54348828125 4999.20448828125 6752.54348828125 4998.80448828125 C 6752.54348828125 4998.38848828125 6752.09548828125 4998.10048828125 6751.45548828125 4998.10048828125 C 6750.73548828125 4998.10048828125 6750.28748828125 4998.48448828125 6750.28748828125 4999.10848828125 C 6749.39678828125 4999.10848828125 6748.50618828125 4999.10848828125 6747.61548828125 4999.10848828125 C 6747.61548828125 4997.20448828125 6749.19948828125 4996.03648828125 6751.58348828125 4996.03648828125 C 6753.74348828125 4996.03648828125 6755.31148828125 4996.99648828125 6755.31148828125 4998.50048828125 C 6755.31148828125 4999.34848828125 6754.81548828125 4999.92448828125 6754.04748828125 5000.16448828125 C 6754.04748828125 5000.21778828125 6754.04748828125 5000.27118828125 6754.04748828125 5000.32448828125 C 6754.94348828125 5000.56448828125 6755.55148828125 5001.31648828125 6755.55148828125 5002.24448828125C 6755.55148828125 5003.74848828125 6753.91948828125 5004.70848828125 6751.64748828125 5004.70848828125Z M 6756.49348828125 5004.50048828125 C 6756.49348828125 5001.74848828125 6756.49348828125 4998.99648828125 6756.49348828125 4996.24448828125 C 6758.07218828125 4996.24448828125 6759.65078828125 4996.24448828125 6761.22948828125 4996.24448828125 C 6763.08548828125 4996.24448828125 6764.23748828125 4997.17248828125 6764.23748828125 4998.42048828125 C 6764.23748828125 4999.25248828125 6763.72548828125 4999.95648828125 6763.03748828125 5000.18048828125 C 6763.03748828125 5000.23378828125 6763.03748828125 5000.28718828125 6763.03748828125 5000.34048828125 C 6764.01348828125 5000.59648828125 6764.58948828125 5001.22048828125 6764.58948828125 5002.16448828125 C 6764.58948828125 5003.58848828125 6763.32548828125 5004.50048828125 6761.43748828125 5004.50048828125C 6759.78948828125 5004.50048828125 6758.14148828125 5004.50048828125 6756.49348828125 5004.50048828125Z M 6759.26148828125 4999.46048828125 C 6759.70418828125 4999.46048828125 6760.14678828125 4999.46048828125 6760.58948828125 4999.46048828125 C 6761.10148828125 4999.46048828125 6761.45348828125 4999.17248828125 6761.45348828125 4998.77248828125 C 6761.45348828125 4998.37248828125 6761.10148828125 4998.06848828125 6760.58948828125 4998.06848828125 C 6760.14678828125 4998.06848828125 6759.70418828125 4998.06848828125 6759.26148828125 4998.06848828125C 6759.26148828125 4998.53248828125 6759.26148828125 4998.99648828125 6759.26148828125 4999.46048828125Z M 6759.26148828125 5002.67648828125 C 6759.70418828125 5002.67648828125 6760.14678828125 5002.67648828125 6760.58948828125 5002.67648828125 C 6761.14948828125 5002.67648828125 6761.51748828125 5002.35648828125 6761.51748828125 5001.90848828125 C 6761.51748828125 5001.47648828125 6761.14948828125 5001.17248828125 6760.58948828125 5001.17248828125 C 6760.14678828125 5001.17248828125 6759.70418828125 5001.17248828125 6759.26148828125 5001.17248828125C 6759.26148828125 5001.67378828125 6759.26148828125 5002.17518828125 6759.26148828125 5002.67648828125Z M 6769.92248828125 5004.70848828125 C 6767.07448828125 5004.70848828125 6765.25048828125 5003.06048828125 6765.25048828125 5000.37248828125 C 6765.25048828125 4997.66848828125 6767.05848828125 4996.03648828125 6769.92248828125 4996.03648828125 C 6772.75448828125 4996.03648828125 6774.57848828125 4997.68448828125 6774.57848828125 5000.37248828125C 6774.57848828125 5003.07648828125 6772.75448828125 5004.70848828125 6769.92248828125 5004.70848828125Z M 6769.92248828125 5002.19648828125 C 6770.89848828125 5002.19648828125 6771.58648828125 5001.44448828125 6771.58648828125 5000.37248828125 C 6771.58648828125 4999.30048828125 6770.89848828125 4998.54848828125 6769.92248828125 4998.54848828125 C 6768.93048828125 4998.54848828125 6768.25848828125 4999.30048828125 6768.25848828125 5000.37248828125C 6768.25848828125 5001.44448828125 6768.93048828125 5002.19648828125 6769.92248828125 5002.19648828125Z M 6775.63448828125 5004.50048828125 C 6775.63448828125 5001.75378828125 6775.63448828125 4999.00718828125 6775.63448828125 4996.26048828125 C 6776.63178828125 4996.26048828125 6777.62918828125 4996.26048828125 6778.62648828125 4996.26048828125 C 6778.62648828125 4997.22578828125 6778.62648828125 4998.19118828125 6778.62648828125 4999.15648828125 C 6779.42118828125 4999.15648828125 6780.21578828125 4999.15648828125 6781.01048828125 4999.15648828125 C 6781.01048828125 4998.19118828125 6781.01048828125 4997.22578828125 6781.01048828125 4996.26048828125 C 6782.01318828125 4996.26048828125 6783.01578828125 4996.26048828125 6784.01848828125 4996.26048828125 C 6784.01848828125 4999.00718828125 6784.01848828125 5001.75378828125 6784.01848828125 5004.50048828125 C 6783.01578828125 5004.50048828125 6782.01318828125 5004.50048828125 6781.01048828125 5004.50048828125 C 6781.01048828125 5003.51918828125 6781.01048828125 5002.53778828125 6781.01048828125 5001.55648828125 C 6780.21578828125 5001.55648828125 6779.42118828125 5001.55648828125 6778.62648828125 5001.55648828125 C 6778.62648828125 5002.53778828125 6778.62648828125 5003.51918828125 6778.62648828125 5004.50048828125C 6777.62918828125 5004.50048828125 6776.63178828125 5004.50048828125 6775.63448828125 5004.50048828125Z M 6789.75148828125 5004.70848828125 C 6786.90348828125 5004.70848828125 6785.07948828125 5003.06048828125 6785.07948828125 5000.37248828125 C 6785.07948828125 4997.66848828125 6786.88748828125 4996.03648828125 6789.75148828125 4996.03648828125 C 6792.58348828125 4996.03648828125 6794.40748828125 4997.68448828125 6794.40748828125 5000.37248828125C 6794.40748828125 5003.07648828125 6792.58348828125 5004.70848828125 6789.75148828125 5004.70848828125Z M 6789.75148828125 5002.19648828125 C 6790.72748828125 5002.19648828125 6791.41548828125 5001.44448828125 6791.41548828125 5000.37248828125 C 6791.41548828125 4999.30048828125 6790.72748828125 4998.54848828125 6789.75148828125 4998.54848828125 C 6788.75948828125 4998.54848828125 6788.08748828125 4999.30048828125 6788.08748828125 5000.37248828125C 6788.08748828125 5001.44448828125 6788.75948828125 5002.19648828125 6789.75148828125 5002.19648828125Z M 6795.46248828125 5004.50048828125 C 6795.46248828125 5001.74848828125 6795.46248828125 4998.99648828125 6795.46248828125 4996.24448828125 C 6796.45978828125 4996.24448828125 6797.45718828125 4996.24448828125 6798.45448828125 4996.24448828125 C 6798.45448828125 4997.25248828125 6798.45448828125 4998.26048828125 6798.45448828125 4999.26848828125 C 6798.50778828125 4999.26848828125 6798.56118828125 4999.26848828125 6798.61448828125 4999.26848828125 C 6799.32918828125 4998.26048828125 6800.04378828125 4997.25248828125 6800.75848828125 4996.24448828125 C 6801.93178828125 4996.24448828125 6803.10518828125 4996.24448828125 6804.27848828125 4996.24448828125 C 6803.25448828125 4997.56718828125 6802.23048828125 4998.88978828125 6801.20648828125 5000.21248828125 C 6802.24648828125 5001.64178828125 6803.28648828125 5003.07118828125 6804.32648828125 5004.50048828125 C 6803.14248828125 5004.50048828125 6801.95848828125 5004.50048828125 6800.77448828125 5004.50048828125 C 6800.05448828125 5003.39648828125 6799.33448828125 5002.29248828125 6798.61448828125 5001.18848828125 C 6798.56118828125 5001.18848828125 6798.50778828125 5001.18848828125 6798.45448828125 5001.18848828125 C 6798.45448828125 5002.29248828125 6798.45448828125 5003.39648828125 6798.45448828125 5004.50048828125C 6797.45718828125 5004.50048828125 6796.45978828125 5004.50048828125 6795.46248828125 5004.50048828125Z"
+                  ></path>
+                  <path
+                    fill="#0078FF"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    fill-rule="evenodd"
+                    display="undefined"
+                    stroke-linecap="undefined"
+                    stroke-linejoin="undefined"
+                    stroke-dasharray="undefined"
+                    paint-order="undefined"
+                    id="tSvg1c8846d9f8"
+                    title="Path 45"
+                    d="M 6646.61288828125 5006.09588828125 C 6646.30918828125 5006.41558828125 6646.00558828125 5006.73518828125 6645.70188828125 5007.05488828125 C 6645.70188828125 5007.05488828125 6643.53668828125 5009.33448828125 6637.62668828125 5003.11228828125 C 6631.71668828125 4996.89018828125 6633.88188828125 4994.61058828125 6633.88188828125 4994.61058828125 C 6634.07308828125 4994.40928828125 6634.26428828125 4994.20798828125 6634.45548828125 4994.00668828125 C 6635.86868828125 4992.51898828125 6636.00188828125 4990.13038828125 6634.76898828125 4988.38668828125 C 6633.92828828125 4987.19768828125 6633.08768828125 4986.00868828125 6632.24698828125 4984.81968828125 C 6630.72108828125 4982.66148828125 6627.77238828125 4982.37638828125 6626.02338828125 4984.21778828125 C 6624.97698828125 4985.31948828125 6623.93058828125 4986.42108828125 6622.88418828125 4987.52278828125 C 6622.01698828125 4988.43578828125 6621.43578828125 4989.61938828125 6621.50628828125 4990.93238828125 C 6621.68658828125 4994.29138828125 6623.12188828125 5001.51848828125 6631.13118828125 5009.95088828125 C 6639.62468828125 5018.89288828125 6647.59408828125 5019.24828828125 6650.85308828125 5018.92668828125 C 6651.88388828125 5018.82488828125 6652.78028828125 5018.26908828125 6653.50268828125 5017.50848828125 C 6654.44978828125 5016.51138828125 6655.39678828125 5015.51438828125 6656.34388828125 5014.51728828125 C 6658.26168828125 5012.49828828125 6657.72088828125 5009.03688828125 6655.26708828125 5007.62448828125 C 6653.99338828125 5006.89138828125 6652.71978828125 5006.15818828125 6651.44608828125 5005.42508828125C 6649.83488828125 5004.49768828125 6647.87208828125 5004.77008828125 6646.61288828125 5006.09588828125Z"
+                  ></path>
+                  <path
+                    fill="#314EC6"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    fill-rule="evenodd"
+                    display="undefined"
+                    stroke-linecap="undefined"
+                    stroke-linejoin="undefined"
+                    stroke-dasharray="undefined"
+                    paint-order="undefined"
+                    id="tSvg12ad5ac884"
+                    title="Path 46"
+                    d="M 6642.01948828125 4980.76018828125 C 6642.15188828125 4979.94238828125 6642.92488828125 4979.38758828125 6643.74268828125 4979.51998828125 C 6643.79328828125 4979.52968828125 6643.95628828125 4979.56018828125 6644.04148828125 4979.57918828125 C 6644.21228828125 4979.61718828125 6644.45028828125 4979.67568828125 6644.74708828125 4979.76208828125 C 6645.34068828125 4979.93498828125 6646.16988828125 4980.21978828125 6647.16508828125 4980.67608828125 C 6649.15768828125 4981.58958828125 6651.80928828125 4983.18758828125 6654.56088828125 4985.93918828125 C 6657.31248828125 4988.69078828125 6658.91048828125 4991.34238828125 6659.82388828125 4993.33498828125 C 6660.28028828125 4994.33018828125 6660.56508828125 4995.15938828125 6660.73788828125 4995.75298828125 C 6660.82428828125 4996.04978828125 6660.88288828125 4996.28788828125 6660.92088828125 4996.45848828125 C 6660.93988828125 4996.54388828125 6660.95388828125 4996.61238828125 6660.96348828125 4996.66298828125 C 6660.96738828125 4996.68378828125 6660.97118828125 4996.70458828125 6660.97508828125 4996.72538828125 C 6661.10728828125 4997.54308828125 6660.55768828125 4998.34828828125 6659.73988828125 4998.48068828125 C 6658.92448828125 4998.61268828125 6658.15628828125 4998.06048828125 6658.02068828125 4997.24668828125 C 6658.01648828125 4997.22468828125 6658.00488828125 4997.16608828125 6657.99268828125 4997.11068828125 C 6657.96788828125 4996.99988828125 6657.92528828125 4996.82428828125 6657.85768828125 4996.59188828125 C 6657.72228828125 4996.12728828125 6657.48728828125 4995.43658828125 6657.09688828125 4994.58528828125 C 6656.31728828125 4992.88458828125 6654.91528828125 4990.53628828125 6652.43948828125 4988.06048828125 C 6649.96388828125 4985.58478828125 6647.61548828125 4984.18278828125 6645.91488828125 4983.40318828125 C 6645.06348828125 4983.01288828125 6644.37288828125 4982.77778828125 6643.90808828125 4982.64238828125 C 6643.67588828125 4982.57478828125 6643.38388828125 4982.50778828125 6643.27308828125 4982.48308828125C 6642.45908828125 4982.34738828125 6641.88748828125 4981.57558828125 6642.01948828125 4980.76018828125Z"
+                  ></path>
+                  <path
+                    fill="#314EC6"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    fill-rule="evenodd"
+                    display="undefined"
+                    stroke-linecap="undefined"
+                    stroke-linejoin="undefined"
+                    stroke-dasharray="undefined"
+                    paint-order="undefined"
+                    id="tSvgc5a4e30006"
+                    title="Path 47"
+                    d="M 6642.47188828125 4987.65908828125 C 6642.69948828125 4986.86258828125 6643.52968828125 4986.40128828125 6644.32628828125 4986.62888828125 C 6644.18898828125 4987.10968828125 6644.05158828125 4987.59038828125 6643.91428828125 4988.07118828125 C 6644.32628828125 4986.62888828125 6644.32628828125 4986.62888828125 6644.32628828125 4986.62888828125 C 6644.32728828125 4986.62918828125 6644.32828828125 4986.62938828125 6644.32928828125 4986.62968828125 C 6644.33028828125 4986.62998828125 6644.33128828125 4986.63028828125 6644.33228828125 4986.63058828125 C 6644.33448828125 4986.63128828125 6644.33668828125 4986.63188828125 6644.33888828125 4986.63258828125 C 6644.34408828125 4986.63408828125 6644.34928828125 4986.63568828125 6644.35448828125 4986.63718828125 C 6644.36768828125 4986.64128828125 6644.38088828125 4986.64538828125 6644.39408828125 4986.64948828125 C 6644.42408828125 4986.65918828125 6644.46188828125 4986.67168828125 6644.50668828125 4986.68768828125 C 6644.59648828125 4986.71958828125 6644.71528828125 4986.76488828125 6644.86088828125 4986.82728828125 C 6645.15228828125 4986.95218828125 6645.55028828125 4987.14498828125 6646.03948828125 4987.43438828125 C 6647.01828828125 4988.01378828125 6648.35468828125 4988.97608828125 6649.92468828125 4990.54608828125 C 6651.49468828125 4992.11598828125 6652.45688828125 4993.45238828125 6653.03628828125 4994.43128828125 C 6653.32568828125 4994.92028828125 6653.51848828125 4995.31848828125 6653.64348828125 4995.60978828125 C 6653.70588828125 4995.75538828125 6653.75128828125 4995.87418828125 6653.78308828125 4995.96398828125 C 6653.79908828125 4996.00888828125 6653.81148828125 4996.04648828125 6653.82128828125 4996.07668828125 C 6653.82538828125 4996.08988828125 6653.82938828125 4996.10308828125 6653.83348828125 4996.11628828125 C 6653.83498828125 4996.12148828125 6653.83658828125 4996.12658828125 6653.83808828125 4996.13178828125 C 6653.83878828125 4996.13398828125 6653.83938828125 4996.13618828125 6653.84008828125 4996.13838828125 C 6653.84038828125 4996.13938828125 6653.84058828125 4996.14048828125 6653.84088828125 4996.14148828125 C 6653.84088828125 4996.14148828125 6653.84188828125 4996.14438828125 6652.39948828125 4996.55648828125 C 6652.88028828125 4996.41908828125 6653.36108828125 4996.28178828125 6653.84188828125 4996.14438828125 C 6654.06948828125 4996.94098828125 6653.60808828125 4997.77108828125 6652.81168828125 4997.99868828125 C 6652.02188828125 4998.22428828125 6651.19888828125 4997.77288828125 6650.96308828125 4996.98878828125 C 6650.96058828125 4996.98158828125 6650.95818828125 4996.97438828125 6650.95568828125 4996.96718828125 C 6650.94508828125 4996.93718828125 6650.92308828125 4996.87798828125 6650.88608828125 4996.79158828125 C 6650.81208828125 4996.61888828125 6650.67788828125 4996.33648828125 6650.45468828125 4995.95928828125 C 6650.00868828125 4995.20578828125 6649.20328828125 4994.06728828125 6647.80328828125 4992.66738828125 C 6646.40348828125 4991.26748828125 6645.26488828125 4990.46208828125 6644.51148828125 4990.01618828125 C 6644.13428828125 4989.79288828125 6643.85188828125 4989.65868828125 6643.67908828125 4989.58468828125 C 6643.59268828125 4989.54768828125 6643.53348828125 4989.52558828125 6643.50348828125 4989.51488828125 C 6643.49628828125 4989.51248828125 6643.48908828125 4989.50998828125 6643.48188828125 4989.50758828125C 6642.69788828125 4989.27178828125 6642.24628828125 4988.44888828125 6642.47188828125 4987.65908828125Z"
+                  ></path>
+                  <defs></defs>
+                </svg>
+              </a>
+            </div>
+            <div
+              class="t396__elem tn-elem menu tn-elem__8152258561730092791587"
+              data-elem-id="1730092791587"
+              data-elem-type="button"
+              data-field-top-value="88"
+              data-field-left-value="908"
+              data-field-height-value="30"
+              data-field-width-value="74"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value="px"
+              data-field-widthunits-value="px"
+              data-field-top-res-960-value="83"
+              data-field-left-res-960-value="438"
+              data-field-top-res-1200-value="79"
+              data-field-left-res-1200-value="573"
+              data-field-height-res-1200-value="30"
+              data-field-width-res-1200-value="74"
+              data-field-top-res-1400-value="88"
+              data-field-left-res-1400-value="708"
+              data-field-top-res-1680-value="90"
+              data-field-left-res-1680-value="872"
+            >
+              <a class="tn-atom" href="https://itis.dev/contacts">Контакты</a>
+            </div>
+            <div
+              class="t396__elem tn-elem tn-elem__8152258561730527981398"
+              data-elem-id="1730527981398"
+              data-elem-type="vector"
+              data-field-top-value="59"
+              data-field-left-value="180"
+              data-field-width-value="298"
+              data-field-axisy-value="top"
+              data-field-axisx-value="left"
+              data-field-container-value="grid"
+              data-field-topunits-value="px"
+              data-field-leftunits-value="px"
+              data-field-heightunits-value=""
+              data-field-widthunits-value="px"
+              data-field-filewidth-value="2169"
+              data-field-fileheight-value="642"
+              data-field-top-res-1200-value="70"
+              data-field-left-res-1200-value="99"
+              data-field-width-res-1200-value="157"
+              data-field-top-res-1400-value="64"
+              data-field-left-res-1400-value="100"
+              data-field-width-res-1400-value="264"
+              data-field-left-res-1680-value="178"
+            >
+              <a class="tn-atom tn-atom__vector" href="index.html">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="5276 5009 2168.93017578125 642"
+                >
+                  <path
+                    fill="#0179FF"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    font-size-adjust="none"
+                    id="tSvg952a72b5b0"
+                    title="Path 7"
+                    d="M 5296 5181 C 5446 5181 5596 5181 5746 5181 C 5746 5331 5746 5481 5746 5631 C 5596 5631 5446 5631 5296 5631C 5296 5481 5296 5331 5296 5181Z"
+                  ></path>
+                  <path
+                    fill="none"
+                    stroke="#0179FF"
+                    fill-opacity="1"
+                    stroke-width="20"
+                    stroke-opacity="1"
+                    font-size-adjust="none"
+                    id="tSvg16d7608e3f5"
+                    title="Path 8"
+                    d="M 5296 5181 C 5446 5181 5596 5181 5746 5181 C 5746 5331 5746 5481 5746 5631 M 5296 5181 C 5296 5331 5296 5481 5296 5631 C 5446 5631 5596 5631 5746 5631 M 5296 5181 C 5351.166666666667 5130.333333333333 5406.333333333333 5079.666666666667 5461.5 5029 C 5594.333333333333 5029 5727.166666666667 5029 5860 5029 C 5860 5177 5860 5325 5860 5473 C 5822 5525.666666666667 5784 5578.333333333333 5746 5631"
+                  ></path>
+                  <path
+                    fill="#0179FF"
+                    stroke="none"
+                    fill-opacity="1"
+                    stroke-width="1"
+                    stroke-opacity="1"
+                    font-size-adjust="none"
+                    id="tSvg2f792cfaae"
+                    title="Path 9"
+                    d="M 6071.2970000000005 5499 C 6071.2970000000005 5384.416666666667 6071.2970000000005 5269.833333333333 6071.2970000000005 5155.25 C 6093.432333333333 5155.25 6115.567666666667 5155.25 6137.7029999999995 5155.25 C 6137.7029999999995 5269.833333333333 6137.7029999999995 5384.416666666667 6137.7029999999995 5499C 6115.567666666667 5499 6093.432333333333 5499 6071.2970000000005 5499Z M 6226.539 5499 C 6226.539 5406.4220000000005 6226.539 5313.844 6226.539 5221.266 C 6212.932333333333 5221.266 6199.325666666667 5221.266 6185.719 5221.266 C 6185.719 5199.260666666667 6185.719 5177.2553333333335 6185.719 5155.25 C 6235.849333333334 5155.25 6285.979666666666 5155.25 6336.11 5155.25 C 6336.11 5177.2553333333335 6336.11 5199.260666666667 6336.11 5221.266 C 6322.503333333333 5221.266 6308.8966666666665 5221.266 6295.29 5221.266 C 6295.29 5313.844 6295.29 5406.4220000000005 6295.29 5499C 6272.373 5499 6249.456 5499 6226.539 5499Z M 6384.12 5499 C 6384.12 5384.416666666667 6384.12 5269.833333333333 6384.12 5155.25 C 6406.256666666666 5155.25 6428.393333333333 5155.25 6450.53 5155.25 C 6450.53 5269.833333333333 6450.53 5384.416666666667 6450.53 5499C 6428.393333333333 5499 6406.256666666666 5499 6384.12 5499Z M 6591.52 5502.125 C 6560.14 5502.125 6537.48 5494.312 6523.55 5478.688 C 6509.74 5463.062 6502.84 5438.193 6502.84 5404.0779999999995 C 6502.84 5392.88 6502.84 5381.682 6502.84 5370.484 C 6525.496666666667 5370.484 6548.153333333334 5370.484 6570.8099999999995 5370.484 C 6570.8099999999995 5384.807 6570.8099999999995 5399.13 6570.8099999999995 5413.4529999999995 C 6570.8099999999995 5421.396 6571.98 5427.646 6574.33 5432.2029999999995 C 6576.8 5436.63 6581.03 5438.844 6587.02 5438.844 C 6593.27 5438.844 6597.57 5437.021 6599.91 5433.375 C 6602.39 5429.729 6603.62 5423.74 6603.62 5415.406 C 6603.62 5404.859 6602.58 5396.07 6600.5 5389.039 C 6598.42 5381.878 6594.77 5375.107 6589.5599999999995 5368.727 C 6584.48 5362.216 6577.39 5354.664 6568.27 5346.07 C 6557.983333333334 5336.3043333333335 6547.696666666667 5326.538666666666 6537.41 5316.773 C 6514.37 5295.029 6502.84 5270.159 6502.84 5242.164 C 6502.84 5212.867 6509.61 5190.536 6523.16 5175.172 C 6536.83 5159.807 6556.55 5152.125 6582.34 5152.125 C 6613.85 5152.125 6636.18 5160.523 6649.33 5177.32 C 6662.61 5194.117 6669.25 5219.638 6669.25 5253.883 C 6645.943333333334 5253.883 6622.636666666666 5253.883 6599.33 5253.883 C 6599.33 5246.0053333333335 6599.33 5238.127666666666 6599.33 5230.25 C 6599.33 5225.562 6597.96 5221.917 6595.23 5219.312 C 6592.62 5216.708 6589.04 5215.406 6584.48 5215.406 C 6579.02 5215.406 6574.98 5216.969 6572.38 5220.094 C 6569.9 5223.089 6568.66 5226.995 6568.66 5231.812 C 6568.66 5236.63 6569.97 5241.839 6572.57 5247.438 C 6575.17 5253.036 6580.32 5259.482 6588 5266.773 C 6601.216666666667 5279.468333333333 6614.433333333333 5292.163666666666 6627.65 5304.859 C 6635.59 5312.411 6642.88 5320.419 6649.52 5328.883 C 6656.16 5337.216 6661.5 5346.982 6665.54 5358.18 C 6669.58 5369.247 6671.59 5382.789 6671.59 5398.805 C 6671.59 5431.096 6665.6 5456.4220000000005 6653.62 5474.781C 6641.78 5493.01 6621.07 5502.125 6591.52 5502.125Z M 6722.15 5498.805 C 6722.15 5479.404 6722.15 5460.003 6722.15 5440.602 C 6745.456666666667 5440.602 6768.763333333333 5440.602 6792.07 5440.602 C 6792.07 5460.003 6792.07 5479.404 6792.07 5498.805C 6768.763333333333 5498.805 6745.456666666667 5498.805 6722.15 5498.805Z M 6850.05 5499 C 6850.05 5384.416666666667 6850.05 5269.833333333333 6850.05 5155.25 C 6881.5599999999995 5155.25 6913.07 5155.25 6944.58 5155.25 C 6969.32 5155.25 6987.9400000000005 5162.151 7000.4400000000005 5175.953 C 7012.9400000000005 5189.625 7019.1900000000005 5209.677 7019.1900000000005 5236.109 C 7019.1900000000005 5289.755 7019.1900000000005 5343.401 7019.1900000000005 5397.0470000000005 C 7019.1900000000005 5429.599 7013.46 5454.729 7002 5472.438 C 6990.67 5490.146 6970.75 5499 6942.23 5499C 6911.503333333333 5499 6880.776666666667 5499 6850.05 5499Z M 6919.1900000000005 5438.258 C 6923.16 5438.258 6927.13 5438.258 6931.1 5438.258 C 6943.73 5438.258 6950.05 5432.138 6950.05 5419.898 C 6950.05 5360.783666666666 6950.05 5301.669333333333 6950.05 5242.555 C 6950.05 5231.096 6948.48 5223.74 6945.36 5220.484 C 6942.36 5217.099 6936.18 5215.406 6926.8 5215.406 C 6924.263333333333 5215.406 6921.7266666666665 5215.406 6919.1900000000005 5215.406C 6919.1900000000005 5289.69 6919.1900000000005 5363.974 6919.1900000000005 5438.258Z M 7079.3099999999995 5499 C 7079.3099999999995 5384.416666666667 7079.3099999999995 5269.833333333333 7079.3099999999995 5155.25 C 7125.143333333333 5155.25 7170.9766666666665 5155.25 7216.8099999999995 5155.25 C 7216.8099999999995 5177.385333333334 7216.8099999999995 5199.520666666666 7216.8099999999995 5221.656 C 7194.283333333333 5221.656 7171.756666666666 5221.656 7149.23 5221.656 C 7149.23 5243.986666666667 7149.23 5266.317333333333 7149.23 5288.648 C 7170.846666666666 5288.648 7192.463333333333 5288.648 7214.08 5288.648 C 7214.08 5310.197666666667 7214.08 5331.747333333334 7214.08 5353.2970000000005 C 7192.463333333333 5353.2970000000005 7170.846666666666 5353.2970000000005 7149.23 5353.2970000000005 C 7149.23 5379.534 7149.23 5405.771 7149.23 5432.008 C 7173.253333333333 5432.008 7197.276666666667 5432.008 7221.3 5432.008 C 7221.3 5454.3386666666665 7221.3 5476.669333333333 7221.3 5499C 7173.97 5499 7126.639999999999 5499 7079.3099999999995 5499Z M 7307.8 5499 C 7293.67 5384.3516666666665 7279.54 5269.703333333333 7265.41 5155.055 C 7287.22 5155.055 7309.030000000001 5155.055 7330.84 5155.055 C 7339.24 5233.049666666667 7347.639999999999 5311.044333333333 7356.04 5389.039 C 7363.526666666667 5311.044333333333 7371.013333333333 5233.049666666667 7378.5 5155.055 C 7400.3099999999995 5155.055 7422.12 5155.055 7443.93 5155.055 C 7429.803333333333 5269.703333333333 7415.676666666666 5384.3516666666665 7401.55 5499C 7370.3 5499 7339.05 5499 7307.8 5499Z"
+                  ></path>
+                  <defs></defs>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- /T396 -->
+      </div>
+      <div
+        id="rec815226323"
+        class="r t-rec t-rec_pt_90 t-rec_pb_105 t-screenmin-1200px"
+        style="
+          padding-top: 90px;
+          padding-bottom: 105px;
+          background-color: #dcf0ff;
+        "
+        data-animationappear="off"
+        data-record-type="127"
+        data-screen-min="1200px"
+        data-bg-color="#dcf0ff"
+      >
+        <!-- T119 -->
+        <div class="t119">
+          <div class="t-container">
+            <div class="t-col t-col_8 t-prefix_2">
+              <div class="t119__preface t-descr" field="text"></div>
+            </div>
+          </div>
+        </div>
+        <style>
+          #rec815226323 .t119__preface {
+            opacity: 0.7;
+          }
+        </style>
+      </div>
+      <div
+        id="rec817379051"
+        class="r t-rec t-rec_pb_0 t-screenmax-1200px"
+        style="padding-bottom: 0px"
+        data-animationappear="off"
+        data-record-type="327"
+        data-screen-max="1200px"
+      >
+        <div id="nav817379051marker"></div>
+        <div
+          id="nav817379051"
+          class="t282"
+          data-menu="yes"
+          data-appearoffset=""
+        >
+          <div
+            class="t282__container t282__big t282__closed t282__positionfixed"
+            style=""
+          >
+            <div
+              class="t282__container__bg"
+              style="background-color: rgba(220, 240, 255, 1)"
+              data-bgcolor-hex="#dcf0ff"
+              data-bgcolor-rgba="rgba(220,240,255,1)"
+              data-navmarker="nav817379051marker"
+              data-appearoffset=""
+              data-bgopacity="1"
+              data-bgcolor-rgba-afterscroll="rgba(220,240,255,0.90)"
+              data-bgopacity2="0.90"
+              data-menushadow=""
+              data-menushadow-css="0px 15px 30px -10px rgba(0,11,48,0.2)"
+            ></div>
+            <div
+              class="t282__container__bg_opened"
+              style="background-color: #ffffff"
+            ></div>
+            <div class="t282__menu__content">
+              <div class="t282__logo__container" style="min-height: 80px">
+                <div class="t282__logo__content">
+                  <a class="t282__logo" href="index.html">
+                    <img
+                      class="t282__logo__img"
+                      src="../static/images/tild6238-3732-4465-b432-633562363030__logo.svg"
+                      style="height: 60px"
+                      imgfield="img"
+                      alt=""
+                    />
+                  </a>
+                </div>
+              </div>
+              <button
+                type="button"
+                class="t-menuburger t-menuburger_first t-menuburger__big"
+                aria-label="Навигационное меню"
+                aria-expanded="false"
+              >
+                <span style="background-color: #0179ff"></span>
+                <span style="background-color: #0179ff"></span>
+                <span style="background-color: #0179ff"></span>
+                <span style="background-color: #0179ff"></span>
+              </button>
+
+              <style>
+                .t-menuburger {
+                  position: relative;
+                  flex-shrink: 0;
+                  width: 28px;
+                  height: 20px;
+                  padding: 0;
+                  border: none;
+                  background-color: transparent;
+                  outline: none;
+                  -webkit-transform: rotate(0deg);
+                  transform: rotate(0deg);
+                  transition: transform 0.5s ease-in-out;
+                  cursor: pointer;
+                  z-index: 999;
+                }
+
+                .t-menuburger span {
+                  display: block;
+                  position: absolute;
+                  width: 100%;
+                  opacity: 1;
+                  left: 0;
+                  -webkit-transform: rotate(0deg);
+                  transform: rotate(0deg);
+                  transition: 0.25s ease-in-out;
+                  height: 3px;
+                  background-color: #000;
+                }
+
+                .t-menuburger span:nth-child(1) {
+                  top: 0px;
+                }
+
+                .t-menuburger span:nth-child(2),
+                .t-menuburger span:nth-child(3) {
+                  top: 8px;
+                }
+
+                .t-menuburger span:nth-child(4) {
+                  top: 16px;
+                }
+
+                .t-menuburger__big {
+                  width: 42px;
+                  height: 32px;
+                }
+
+                .t-menuburger__big span {
+                  height: 5px;
+                }
+
+                .t-menuburger__big span:nth-child(2),
+                .t-menuburger__big span:nth-child(3) {
+                  top: 13px;
+                }
+
+                .t-menuburger__big span:nth-child(4) {
+                  top: 26px;
+                }
+
+                .t-menuburger__small {
+                  width: 22px;
+                  height: 14px;
+                }
+
+                .t-menuburger__small span {
+                  height: 2px;
+                }
+
+                .t-menuburger__small span:nth-child(2),
+                .t-menuburger__small span:nth-child(3) {
+                  top: 6px;
+                }
+
+                .t-menuburger__small span:nth-child(4) {
+                  top: 12px;
+                }
+
+                .t-menuburger-opened span:nth-child(1) {
+                  top: 8px;
+                  width: 0%;
+                  left: 50%;
+                }
+
+                .t-menuburger-opened span:nth-child(2) {
+                  -webkit-transform: rotate(45deg);
+                  transform: rotate(45deg);
+                }
+
+                .t-menuburger-opened span:nth-child(3) {
+                  -webkit-transform: rotate(-45deg);
+                  transform: rotate(-45deg);
+                }
+
+                .t-menuburger-opened span:nth-child(4) {
+                  top: 8px;
+                  width: 0%;
+                  left: 50%;
+                }
+
+                .t-menuburger-opened.t-menuburger__big span:nth-child(1) {
+                  top: 6px;
+                }
+
+                .t-menuburger-opened.t-menuburger__big span:nth-child(4) {
+                  top: 18px;
+                }
+
+                .t-menuburger-opened.t-menuburger__small span:nth-child(1),
+                .t-menuburger-opened.t-menuburger__small span:nth-child(4) {
+                  top: 6px;
+                }
+
+                @media (hover), (min-width: 0\0) {
+                  .t-menuburger_first:hover span:nth-child(1) {
+                    transform: translateY(1px);
+                  }
+
+                  .t-menuburger_first:hover span:nth-child(4) {
+                    transform: translateY(-1px);
+                  }
+
+                  .t-menuburger_first.t-menuburger__big:hover
+                    span:nth-child(1) {
+                    transform: translateY(3px);
+                  }
+
+                  .t-menuburger_first.t-menuburger__big:hover
+                    span:nth-child(4) {
+                    transform: translateY(-3px);
+                  }
+                }
+
+                .t-menuburger_second span:nth-child(2),
+                .t-menuburger_second span:nth-child(3) {
+                  width: 80%;
+                  left: 20%;
+                  right: 0;
+                }
+
+                @media (hover), (min-width: 0\0) {
+                  .t-menuburger_second.t-menuburger-hovered span:nth-child(2),
+                  .t-menuburger_second.t-menuburger-hovered span:nth-child(3) {
+                    animation: t-menuburger-anim 0.3s ease-out normal forwards;
+                  }
+
+                  .t-menuburger_second.t-menuburger-unhovered span:nth-child(2),
+                  .t-menuburger_second.t-menuburger-unhovered
+                    span:nth-child(3) {
+                    animation: t-menuburger-anim2 0.3s ease-out normal forwards;
+                  }
+                }
+
+                .t-menuburger_second.t-menuburger-opened span:nth-child(2),
+                .t-menuburger_second.t-menuburger-opened span:nth-child(3) {
+                  left: 0;
+                  right: 0;
+                  width: 100% !important;
+                }
+
+                .t-menuburger_third span:nth-child(4) {
+                  width: 70%;
+                  left: unset;
+                  right: 0;
+                }
+
+                @media (hover), (min-width: 0\0) {
+                  .t-menuburger_third:not(.t-menuburger-opened):hover
+                    span:nth-child(4) {
+                    width: 100%;
+                  }
+                }
+
+                .t-menuburger_third.t-menuburger-opened span:nth-child(4) {
+                  width: 0 !important;
+                  right: 50%;
+                }
+
+                .t-menuburger_fourth {
+                  height: 12px;
+                }
+
+                .t-menuburger_fourth.t-menuburger__small {
+                  height: 8px;
+                }
+
+                .t-menuburger_fourth.t-menuburger__big {
+                  height: 18px;
+                }
+
+                .t-menuburger_fourth span:nth-child(2),
+                .t-menuburger_fourth span:nth-child(3) {
+                  top: 4px;
+                  opacity: 0;
+                }
+
+                .t-menuburger_fourth span:nth-child(4) {
+                  top: 8px;
+                }
+
+                .t-menuburger_fourth.t-menuburger__small span:nth-child(2),
+                .t-menuburger_fourth.t-menuburger__small span:nth-child(3) {
+                  top: 3px;
+                }
+
+                .t-menuburger_fourth.t-menuburger__small span:nth-child(4) {
+                  top: 6px;
+                }
+
+                .t-menuburger_fourth.t-menuburger__small span:nth-child(2),
+                .t-menuburger_fourth.t-menuburger__small span:nth-child(3) {
+                  top: 3px;
+                }
+
+                .t-menuburger_fourth.t-menuburger__small span:nth-child(4) {
+                  top: 6px;
+                }
+
+                .t-menuburger_fourth.t-menuburger__big span:nth-child(2),
+                .t-menuburger_fourth.t-menuburger__big span:nth-child(3) {
+                  top: 6px;
+                }
+
+                .t-menuburger_fourth.t-menuburger__big span:nth-child(4) {
+                  top: 12px;
+                }
+
+                @media (hover), (min-width: 0\0) {
+                  .t-menuburger_fourth:not(.t-menuburger-opened):hover
+                    span:nth-child(1) {
+                    transform: translateY(1px);
+                  }
+
+                  .t-menuburger_fourth:not(.t-menuburger-opened):hover
+                    span:nth-child(4) {
+                    transform: translateY(-1px);
+                  }
+
+                  .t-menuburger_fourth.t-menuburger__big:not(
+                      .t-menuburger-opened
+                    ):hover
+                    span:nth-child(1) {
+                    transform: translateY(3px);
+                  }
+
+                  .t-menuburger_fourth.t-menuburger__big:not(
+                      .t-menuburger-opened
+                    ):hover
+                    span:nth-child(4) {
+                    transform: translateY(-3px);
+                  }
+                }
+
+                .t-menuburger_fourth.t-menuburger-opened span:nth-child(1),
+                .t-menuburger_fourth.t-menuburger-opened span:nth-child(4) {
+                  top: 4px;
+                }
+
+                .t-menuburger_fourth.t-menuburger-opened span:nth-child(2),
+                .t-menuburger_fourth.t-menuburger-opened span:nth-child(3) {
+                  opacity: 1;
+                }
+
+                @keyframes t-menuburger-anim {
+                  0% {
+                    width: 80%;
+                    left: 20%;
+                    right: 0;
+                  }
+
+                  50% {
+                    width: 100%;
+                    left: 0;
+                    right: 0;
+                  }
+
+                  100% {
+                    width: 80%;
+                    left: 0;
+                    right: 20%;
+                  }
+                }
+
+                @keyframes t-menuburger-anim2 {
+                  0% {
+                    width: 80%;
+                    left: 0;
+                  }
+
+                  50% {
+                    width: 100%;
+                    right: 0;
+                    left: 0;
+                  }
+
+                  100% {
+                    width: 80%;
+                    left: 20%;
+                    right: 0;
+                  }
+                }
+              </style>
+            </div>
+          </div>
+          <div class="t282__menu__container t282__closed">
+            <div class="t282__menu__wrapper" style="background-color: #ffffff">
+              <div class="t282__menu">
+                <nav>
+                  <ul role="list" class="t282__menu__items t-menu__list">
+                    <li class="t282__menu__item">
+                      <a
+                        class="t282__menu__link t-heading t-heading_md t-menu__link-item"
+                        href="index.html"
+                        data-menu-submenu-hook=""
+                      >
+                        Главная
+                      </a>
+                    </li>
+                    <li class="t282__menu__item">
+                      <a
+                        class="t282__menu__link t-heading t-heading_md t-menu__link-item"
+                        href="https://itis.dev/service"
+                        data-menu-submenu-hook=""
+                      >
+                        Услуги
+                      </a>
+                    </li>
+                    <li class="t282__menu__item">
+                      <a
+                        class="t282__menu__link t-heading t-heading_md t-menu__link-item"
+                        href="https://itis.dev/news"
+                        data-menu-submenu-hook=""
+                      >
+                        Новости
+                      </a>
+                    </li>
+                    <li class="t282__menu__item">
+                      <a
+                        class="t282__menu__link t-heading t-heading_md t-menu__link-item"
+                        href="https://itis.dev/contacts"
+                        data-menu-submenu-hook=""
+                      >
+                        Контакты
+                      </a>
+                    </li>
+                    <li class="t282__menu__item">
+                      <a
+                        class="t282__menu__link t-heading t-heading_md t-menu__link-item"
+                        href="index.html#new_client"
+                        data-menu-submenu-hook=""
+                      >
+                        ЗАКАЗАТЬ ЗВОНОК
+                      </a>
+                    </li>
+                  </ul>
+                </nav>
+                <div class="t-sociallinks">
+                  <ul
+                    role="list"
+                    class="t-sociallinks__wrapper"
+                    aria-label="Соц. сети"
+                  >
+                    <li
+                      class="t-sociallinks__item t-sociallinks__item_telegram"
+                    >
+                      <a
+                        href="#"
+                        target="_blank"
+                        rel="nofollow"
+                        aria-label="Telegram"
+                        title="Telegram"
+                        style="width: 30px; height: 30px"
+                        ><svg
+                          class="t-sociallinks__svg"
+                          role="presentation"
+                          width="30px"
+                          height="30px"
+                          viewBox="0 0 100 100"
+                          fill="none"
+                        >
+                          <path
+                            fill-rule="evenodd"
+                            clip-rule="evenodd"
+                            d="M50 100c27.614 0 50-22.386 50-50S77.614 0 50 0 0 22.386 0 50s22.386 50 50 50Zm21.977-68.056c.386-4.38-4.24-2.576-4.24-2.576-3.415 1.414-6.937 2.85-10.497 4.302-11.04 4.503-22.444 9.155-32.159 13.734-5.268 1.932-2.184 3.864-2.184 3.864l8.351 2.577c3.855 1.16 5.91-.129 5.91-.129l17.988-12.238c6.424-4.38 4.882-.773 3.34.773l-13.49 12.882c-2.056 1.804-1.028 3.35-.129 4.123 2.55 2.249 8.82 6.364 11.557 8.16.712.467 1.185.778 1.292.858.642.515 4.111 2.834 6.424 2.319 2.313-.516 2.57-3.479 2.57-3.479l3.083-20.226c.462-3.511.993-6.886 1.417-9.582.4-2.546.705-4.485.767-5.362Z"
+                            fill="#000000"
+                          /></svg></a>
+                    </li>
+                    &nbsp;
+                    <li class="t-sociallinks__item t-sociallinks__item_vk">
+                      <a
+                        href="https://vk.com/egorkreed"
+                        target="_blank"
+                        rel="nofollow"
+                        aria-label="VK"
+                        title="VK"
+                        style="width: 30px; height: 30px"
+                        ><svg
+                          class="t-sociallinks__svg"
+                          role="presentation"
+                          width="30px"
+                          height="30px"
+                          viewBox="0 0 100 100"
+                          fill="none"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <path
+                            fill-rule="evenodd"
+                            clip-rule="evenodd"
+                            d="M50 100c27.614 0 50-22.386 50-50S77.614 0 50 0 0 22.386 0 50s22.386 50 50 50ZM25 34c.406 19.488 10.15 31.2 27.233 31.2h.968V54.05c6.278.625 11.024 5.216 12.93 11.15H75c-2.436-8.87-8.838-13.773-12.836-15.647C66.162 47.242 71.783 41.62 73.126 34h-8.058c-1.749 6.184-6.932 11.805-11.867 12.336V34h-8.057v21.611C40.147 54.362 33.838 48.304 33.556 34H25Z"
+                            fill="#000000"/></svg></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="t282__overlay t282__closed"></div>
+        </div>
+
+        <style>
+          #rec817379051 .t-menu__link-item {
+            position: relative;
+          }
+
+          #rec817379051 .t-menu__link-item.t-active::after {
+            content: "";
+            position: absolute;
+            left: 0;
+            -webkit-transition: all 0.3s ease;
+            transition: all 0.3s ease;
+            opacity: 1;
+            width: 100%;
+            height: 100%;
+            bottom: -1px;
+            border-bottom: 1px solid #0179ff;
+            -webkit-box-shadow: inset 0px -1px 0px 0px #0179ff;
+            -moz-box-shadow: inset 0px -1px 0px 0px #0179ff;
+            box-shadow: inset 0px -1px 0px 0px #0179ff;
+          }
+
+          @supports (overflow: -webkit-marquee) and (justify-content: inherit) {
+            #rec817379051 .t-menu__link-item,
+            #rec817379051 .t-menu__link-item.t-active {
+              opacity: 1 !important;
+            }
+          }
+        </style>
+        <style>
+          #rec817379051 .t282__logo {
+            font-size: 26px;
+            color: #0179ff;
+            font-weight: 700;
+            font-family: "Manrope";
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+          }
+        </style>
+        <style>
+          #rec817379051 .t282__logo__content .t-title {
+            font-size: 26px;
+            color: #0179ff;
+            font-weight: 700;
+            font-family: "Manrope";
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+          }
+
+          #rec817379051 a.t282__menu__link {
+            font-size: 24px;
+            color: #000000;
+            font-weight: 400;
+          }
+
+          #rec817379051 .t282__descr {
+            font-size: 20px;
+            color: #000000;
+          }
+
+          #rec817379051 .t282__lang a {
+            font-size: 20px;
+            color: #000000;
+          }
+        </style>
+        <style>
+          #rec817379051 .t282__container__bg {
+            box-shadow: 0px 15px 30px -10px rgba(0, 11, 48, 0.2);
+          }
+        </style>
+      </div>
+      <div
+        id="rec817381386"
+        class="r t-rec t-rec_pt_75 t-rec_pb_0 t-screenmin-320px t-screenmax-980px"
+        style="
+          padding-top: 75px;
+          padding-bottom: 0px;
+          background-color: #dcf0ff;
+        "
+        data-animationappear="off"
+        data-record-type="127"
+        data-screen-min="320px"
+        data-screen-max="980px"
+        data-bg-color="#dcf0ff"
+      >
+        <!-- T119 -->
+        <div class="t119">
+          <div class="t-container">
+            <div class="t-col t-col_8 t-prefix_2">
+              <div class="t119__preface t-descr" field="text"></div>
+            </div>
+          </div>
+        </div>
+        <style>
+          #rec817381386 .t119__preface {
+            opacity: 0.7;
+          }
+        </style>
+      </div>
+      <div
+        id="rec818684168"
+        class="r t-rec t-rec_pt_90 t-rec_pb_0 t-screenmin-980px t-screenmax-1200px"
+        style="
+          padding-top: 90px;
+          padding-bottom: 0px;
+          background-color: #dcf0ff;
+        "
+        data-animationappear="off"
+        data-record-type="127"
+        data-screen-min="980px"
+        data-screen-max="1200px"
+        data-bg-color="#dcf0ff"
+      >
+        <!-- T119 -->
+        <div class="t119">
+          <div class="t-container">
+            <div class="t-col t-col_8 t-prefix_2">
+              <div class="t119__preface t-descr" field="text"></div>
+            </div>
+          </div>
+        </div>
+        <style>
+          #rec818684168 .t119__preface {
+            opacity: 0.7;
+          }
+        </style>
+      </div>
+      <div
+        id="rec815798225"
+        class="r t-rec"
+        style=""
+        data-animationappear="off"
+        data-record-type="131"
+      >
+        <!-- T123 -->
+        <div class="t123">
+          <div class="t-container_100">
+            <div class="t-width t-width_100">
+              <!-- nominify begin -->
+              <style>
+                .menu * {
+                  width: max-content !important;
+                  display: block !important;
+                  transition: all 0.3s ease-in-out;
+                }
+
+                /* 1 — подчеркивание активного пункта */
+                .menu:hover .tn-atom,
+                .menu.active .tn-atom {
+                  border-bottom: solid 2px #0179ff !important;
+                }
+
+                /* 2 — цвет и прозрачность для активного пункта*/
+                .menu:hover .tn-atom a,
+                .menu.active .tn-atom a {
+                  color: #0179ff !important;
+                  opacity: 0.3;
+                }
+
+                /* 3 — прозрачность неактивных пунктов меню */
+                .menu .tn-atom a {
+                  opacity: 0.3;
+                }
+
+                .menu:hover .tn-atom a,
+                .menu.active .tn-atom a {
+                  color: #0179ff !important;
+                  opacity: 1;
+                }
+
+                .btn-callphone {
+                  transition: all 0.3s ease-in-out;
+                }
+
+                .btn-callphone:hover {
+                  transform: scale(1.1);
+                  transition: all 0.2s ease-in-out;
+                }
+
+                .btn_menu01:hover .tn-atom {
+                  color: #0179ff !important;
+                }
+
+                .t-feed__post-popup {
+                  margin-top: -50px;
+                  background-color: #dcf0ff !important;
+                }
+
+                .t-feed__post-popup__content-wrapper {
+                  background-color: #ffffff !important;
+                  padding: inherit;
+                  padding-left: 15px;
+                  padding-right: 15px;
+                  border-radius: 25px;
+                }
+              </style>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>
+</template>
+
+<script>
+import {
+  t396Init,
+  tMenuburgerInit,
+  t282Functions,
+  setActiveMenuItem,
+} from "@/static/js/index.js";
+
+export default {
+  name: "Header",
+  mounted() {
+    t396Init("815323087");
+    t396Init("815225856");
+    tMenuburgerInit("817379051");
+    t282Functions("817379051");
+    setActiveMenuItem();
+  },
+};
+</script>
