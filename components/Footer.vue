@@ -2614,7 +2614,7 @@
               <div class="tn-atom">
                 <img
                   class="tn-atom__img t-img"
-                  data-original="images/tild3664-6361-4133-b766-326666393937__13184987_5127311_1.svg"
+                  data-original="../static/images/tild3664-6361-4133-b766-326666393937__13184987_5127311_1.svg"
                   alt=""
                   imgfield="tn_img_1729850964976"
                 />
