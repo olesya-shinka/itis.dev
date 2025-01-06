@@ -3448,17 +3448,27 @@
 
 <script>
 import {
-  t396Init,
+  
   tMenuburgerInit,
   t282Functions,
   setActiveMenuItem,
 } from "@/static/js/index.js";
+import { t_onReady, t_onFuncLoad, t396_init } from "../static/js/tilda-scripts";
 
 export default {
   name: "Header",
   mounted() {
-    t396Init("815323087");
-    t396Init("815225856");
+    t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("815323087");
+          });
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("815225856");
+          });
+        });
+ 
     tMenuburgerInit("817379051");
     t282Functions("817379051");
     setActiveMenuItem();

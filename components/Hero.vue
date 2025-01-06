@@ -366,7 +366,7 @@
             <div class="tn-atom">
               <img
                 class="tn-atom__img t-img"
-                data-original="images/tild3134-3261-4562-b130-373236356563__13264392_5182880_1.jpg"
+                src="../static/images/tild3134-3261-4562-b130-373236356563__13264392_5182880_1.jpg"
                 alt=""
                 imgfield="tn_img_1470210033144"
               />
@@ -1424,14 +1424,6 @@
           </div>
         </div>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("814324781");
-          });
-        });
-      </script> -->
-      <!-- /T396 -->
     </div>
     <div
       id="rec816909039"
@@ -1850,13 +1842,6 @@
           </div>
         </div>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("816909039");
-          });
-        });
-      </script> -->
       <!-- /T396 -->
     </div>
     <div id="rec815671857" class="r t-rec" style="" data-record-type="396">
@@ -6225,13 +6210,6 @@
           </div>
         </div>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("815671857");
-          });
-        });
-      </script> -->
       <!-- /T396 -->
     </div>
     <div
@@ -7223,13 +7201,6 @@
           </div>
         </div>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("816469441");
-          });
-        });
-      </script> -->
       <!-- /T396 -->
     </div>
     <div
@@ -7647,13 +7618,6 @@
           </div>
         </div>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("817085556");
-          });
-        });
-      </script> -->
       <!-- /T396 -->
     </div>
     <div
@@ -15960,13 +15924,6 @@
           </div>
         </div>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("815761862");
-          });
-        });
-      </script> -->
       <!-- /T396 -->
     </div>
     <div
@@ -15986,20 +15943,6 @@
           data-cookie-time="1"
         ></a>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          setTimeout(function () {
-            window.addEventListener(
-              "scroll",
-              t_throttle(function () {
-                t_onFuncLoad("t354_checkPosition", function () {
-                  t354_checkPosition("816422738");
-                });
-              })
-            );
-          }, 500);
-        });
-      </script> -->
     </div>
     <div
       id="rec817086155"
@@ -16416,13 +16359,6 @@
           </div>
         </div>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("817086155");
-          });
-        });
-      </script> -->
       <!-- /T396 -->
     </div>
     <div
@@ -17516,13 +17452,6 @@
           </div>
         </div>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t585_init", function () {
-            t585_init("815997273");
-          });
-        });
-      </script> -->
       <style>
         #rec815997273 .t585__text {
           font-size: 20px;
@@ -17547,103 +17476,6 @@
       <div class="t123">
         <div class="t-container_100">
           <div class="t-width t-width_100">
-            <!-- nominify begin -->
-            <!-- <script
-              src="js/jquery-1.10.2.min.js"
-              charset="utf-8"
-              onerror="this.loaderr='y';"
-            ></script> -->
-            <!-- <script>
-              $(document).ready(function () {
-                // Прописываем ID наших блоков
-                var ZeroID = "#rec815754388"; // Zero
-                var AccoRD = "#rec815997273"; // TX16N
-                // Добавляем класс к нашим картинкам
-                $('[href="#mainpic"]').addClass("mainpic");
-                // Переносим аккордеон в ZeroBlock
-                $(AccoRD).appendTo(".accordion");
-                $(".accordion")
-                  .closest(".tn-elem")
-                  .addClass("accordion-wrapper");
-                var ZeroBack =
-                  "" +
-                  ZeroID +
-                  " .t396__artboard , " +
-                  ZeroID +
-                  " .t396__carrier ,  " +
-                  ZeroID +
-                  " .t396__filter";
-                var oldheight = $(AccoRD + " .t585__opened")
-                  .siblings(".t585__content")
-                  .height();
-
-                // При загрузке
-                if ($(AccoRD + " .t585__header").hasClass("t585__opened")) {
-                  cohnheight = $(AccoRD + " .t585__opened")
-                    .siblings(".t585__content")
-                    .height();
-                  setTimeout(function () {
-                    $(".mainpic")
-                      .closest(".tn-elem")
-                      .animate({ height: "+=" + cohnheight }, 300);
-                    $(ZeroBack).animate({ height: "+=" + cohnheight }, 0);
-                  }, 100);
-                }
-
-                // При раскрытии нужного аккордеона - изменяем высоту ZeroBlock и положение картинок
-                $(AccoRD + " .t585__header").click(function () {
-                  var thelem = this;
-                  setTimeout(function () {
-                    cohnheight = 0;
-                    movey = 0;
-                    $(AccoRD + " .t585__opened")
-                      .siblings(".t585__content")
-                      .each(function (index) {
-                        cohnheight = cohnheight + $(this).height();
-                      });
-                    if (cohnheight > oldheight) {
-                      movey = cohnheight - oldheight;
-                      $(".mainpic")
-                        .closest(".tn-elem")
-                        .animate({ height: "+=" + movey }, 150)
-                        .promise()
-                        .done(function () {
-                          $(ZeroBack).animate({ height: "+=" + movey }, 300);
-                        });
-                    } else {
-                      movey = oldheight - cohnheight;
-                      $(".mainpic")
-                        .closest(".tn-elem")
-                        .animate({ height: "-=" + movey }, 150)
-                        .promise()
-                        .done(function () {
-                          $(ZeroBack).animate({ height: "-=" + movey }, 300);
-                        });
-                    }
-                    oldheight = cohnheight;
-                  }, 250);
-                });
-
-                let target = document.querySelector(".accordion-wrapper");
-                let observer = new MutationObserver(function (mutations) {
-                  mutations.forEach(function (mutation) {
-                    let newVal = $(mutation.target).prop(
-                      mutation.attributeName
-                    );
-                    if (mutation.attributeName === "style") {
-                      $(AccoRD + " .t585__header").removeClass("t585__opened");
-                      oldheight = 0;
-                      cohnheight = 0;
-                      $(AccoRD + " .t585__content").hide();
-                      $(ZeroBack).css("height", "");
-                    }
-                  });
-                });
-
-                observer.observe(target, { attributes: true });
-              });
-            </script> -->
-            <!-- nominify end -->
           </div>
         </div>
       </div>
@@ -17665,27 +17497,13 @@
           data-cookie-time="1"
         ></a>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t367_autoInit", function () {
-            t367_autoInit("816421037");
-          });
-        });
-      </script> -->
     </div>
   </div>
 </template>
 
 <script>
-import {
-  t396InitMultiple,
-  t354CheckPosition,
-  t585Init,
-  t367AutoInit,
-  initializeAccordionAndZeroBlock,
-} from "@/static/js/index.js";
-import { t_onReady, t_onFuncLoad, t396_initialScale, t396_init, 
-  t354_checkPosition } from "../static/js/tilda-scripts";
+import { t_onReady, t_onFuncLoad, t396_init, 
+  t354_checkPosition, t585_init, t367_autoInit } from "../static/js/tilda-scripts";
 
 export default {
   name: "Hero",
@@ -17757,32 +17575,6 @@ export default {
             t367_autoInit("816421037");
           });
         });
-        t396_initialScale('rec815997273')
-       
-    // // Инициализация t396
-    // t396InitMultiple([
-    //   "816771176",
-    //   "814324781",
-    //   "816909039",
-    //   "815671857",
-    //   "816469441",
-    //   "817085556",
-    //   "815761862",
-    //   "817086155",
-    //   "815754388",
-    // ]);
-
-    // // Инициализация t354
-    // t354CheckPosition("816422738");
-
-    // // Инициализация t585
-    // t585Init("815997273");
-
-    // // Инициализация t367
-    // t367AutoInit("816421037");
-
-    // // Инициализация аккордеона и ZeroBlock
-    // initializeAccordionAndZeroBlock();
   },
 };
 </script>

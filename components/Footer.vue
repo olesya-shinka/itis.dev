@@ -1635,13 +1635,6 @@
             </div>
           </div>
         </div>
-        <!-- <script>
-          t_onReady(function () {
-            t_onFuncLoad("t396_init", function () {
-              t396_init("815345943");
-            });
-          });
-        </script> -->
       </div>
       <div
         id="rec817107025"
@@ -2940,13 +2933,6 @@
             </div>
           </div>
         </div>
-        <!-- <script>
-          t_onReady(function () {
-            t_onFuncLoad("t396_init", function () {
-              t396_init("817107025");
-            });
-          });
-        </script> -->
         <!-- /T396 -->
       </div>
       <div
@@ -3004,16 +2990,6 @@
             transition-timing-function: ease-in-out;
           }
         </style>
-        <!-- <script>
-          t_onReady(function () {
-            t_onFuncLoad("t1093__init", function () {
-              t1093__init("817107119");
-            });
-            t_onFuncLoad("t1093__initPopup", function () {
-              t1093__initPopup("817107119");
-            });
-          });
-        </script> -->
       </div>
     </footer>
   </div>
