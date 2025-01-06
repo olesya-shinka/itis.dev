@@ -3020,33 +3020,34 @@
 </template>
 
 <script>
+import {
+  t_onReady,
+  t_onFuncLoad,
+  t396_init
+} from "../static/js/tilda-scripts";
+
 export default {
   name: "Footer",
   mounted() {
-    if (typeof t_onReady === "function" && typeof t_onFuncLoad === "function") {
-      t_onReady(() => {
-        t_onFuncLoad("t396_init", () => {
-          t396_init("815345943");
-        });
+    t_onReady(function () {
+      t_onFuncLoad("t396_init", function () {
+        t396_init("815345943");
       });
+    });
 
-      t_onReady(() => {
-        t_onFuncLoad("t396_init", () => {
-          t396_init("817107025");
-        });
+    t_onReady(function () {
+      t_onFuncLoad("t396_init", function () {
+        t396_init("817107025");
       });
-
-      t_onReady(() => {
-        t_onFuncLoad("t1093__init", () => {
-          t1093__init("817107119");
-        });
-        t_onFuncLoad("t1093__initPopup", () => {
-          t1093__initPopup("817107119");
-        });
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t1093__init", function () {
+        t1093__init("817107119");
       });
-    } else {
-      console.warn("Глобальные функции t_onReady или t_onFuncLoad недоступны.");
-    }
+      t_onFuncLoad("t1093__initPopup", function () {
+        t1093__initPopup("817107119");
+      });
+    });
   },
 };
 </script>

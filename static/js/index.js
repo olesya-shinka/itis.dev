@@ -1,5 +1,5 @@
 // Инициализация t396
-export function t396Init(id) {
+function t396Init(id) {
   if (
     process.client &&
     typeof window.t_onReady === "function" &&
@@ -14,7 +14,7 @@ export function t396Init(id) {
 }
 
 // Инициализация t_menuburger
-export function tMenuburgerInit(recid) {
+function tMenuburgerInit(recid) {
   if (
     process.client &&
     typeof window.t_onReady === "function" &&
@@ -43,7 +43,7 @@ export function tMenuburgerInit(recid) {
 }
 
 // Инициализация t282 функций
-export function t282Functions(id) {
+function t282Functions(id) {
   if (
     process.client &&
     typeof window.t_onReady === "function" &&
@@ -75,7 +75,7 @@ export function t282Functions(id) {
 }
 
 // Установка активного элемента меню
-export function setActiveMenuItem() {
+function setActiveMenuItem() {
   if (process.client) {
     const url = document.location.pathname;
     const activeElem = document.querySelector(`[href="${url}"]`);
@@ -86,7 +86,7 @@ export function setActiveMenuItem() {
 }
 
 // Инициализация t396 для нескольких id
-export function t396InitMultiple(ids) {
+function t396InitMultiple(ids) {
   if (
     process.client &&
     typeof window.t_onReady === "function" &&
@@ -103,7 +103,7 @@ export function t396InitMultiple(ids) {
 }
 
 // Инициализация t354 с прокруткой
-export function t354CheckPosition(id) {
+function t354CheckPosition(id) {
   if (
     process.client &&
     typeof window.t_onReady === "function" &&
@@ -125,7 +125,7 @@ export function t354CheckPosition(id) {
 }
 
 // Инициализация t585 (аккордеон)
-export function t585Init(id) {
+function t585Init(id) {
   if (
     process.client &&
     typeof window.t_onReady === "function" &&
@@ -140,7 +140,7 @@ export function t585Init(id) {
 }
 
 // Инициализация t367 (автоматическая настройка)
-export function t367AutoInit(id) {
+function t367AutoInit(id) {
   if (
     process.client &&
     typeof window.t_onReady === "function" &&
@@ -155,7 +155,7 @@ export function t367AutoInit(id) {
 }
 
 // jQuery скрипт для работы с аккордеоном и ZeroBlock
-export function initializeAccordionAndZeroBlock() {
+function initializeAccordionAndZeroBlock() {
   if (process.client) {
     $(document).ready(() => {
       const ZeroID = "#rec815754388"; // Zero
@@ -230,3 +230,12 @@ export function initializeAccordionAndZeroBlock() {
     });
   }
 }
+export {
+  setActiveMenuItem,
+  t396Init,
+  t354CheckPosition,
+  t396InitMultiple,
+  t585Init,
+  t367AutoInit,
+  initializeAccordionAndZeroBlock,tMenuburgerInit,t282Functions
+};

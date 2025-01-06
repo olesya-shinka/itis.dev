@@ -418,14 +418,6 @@
           </div>
         </div>
       </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("816771176");
-          });
-        });
-      </script> -->
-      <!-- /T396 -->
     </div>
     <div
       id="rec814324781"
@@ -16434,354 +16426,6 @@
       <!-- /T396 -->
     </div>
     <div
-      id="rec815754388"
-      class="r t-rec t-rec_pt_0 t-rec_pb_0 uc-faq1"
-      style="padding-top: 0px; padding-bottom: 0px"
-      data-animationappear="off"
-      data-record-type="396"
-    >
-      <!-- T396 -->
-      <style>
-        #rec815754388 .t396__artboard {
-          height: 1080px;
-          background-color: #dcf0ff;
-        }
-
-        #rec815754388 .t396__filter {
-          height: 1080px;
-        }
-
-        #rec815754388 .t396__carrier {
-          height: 1080px;
-          background-position: center center;
-          background-attachment: scroll;
-          background-size: cover;
-          background-repeat: no-repeat;
-        }
-
-        @media screen and (max-width: 1919px) {
-          #rec815754388 .t396__artboard,
-          #rec815754388 .t396__filter,
-          #rec815754388 .t396__carrier {
-          }
-
-          #rec815754388 .t396__filter {
-          }
-
-          #rec815754388 .t396__carrier {
-            background-attachment: scroll;
-          }
-        }
-
-        @media screen and (max-width: 1679px) {
-          #rec815754388 .t396__artboard,
-          #rec815754388 .t396__filter,
-          #rec815754388 .t396__carrier {
-          }
-
-          #rec815754388 .t396__filter {
-          }
-
-          #rec815754388 .t396__carrier {
-            background-attachment: scroll;
-          }
-        }
-
-        @media screen and (max-width: 1399px) {
-          #rec815754388 .t396__artboard,
-          #rec815754388 .t396__filter,
-          #rec815754388 .t396__carrier {
-            height: 1150px;
-          }
-
-          #rec815754388 .t396__filter {
-          }
-
-          #rec815754388 .t396__carrier {
-            background-attachment: scroll;
-          }
-        }
-
-        @media screen and (max-width: 1199px) {
-          #rec815754388 .t396__artboard,
-          #rec815754388 .t396__filter,
-          #rec815754388 .t396__carrier {
-          }
-
-          #rec815754388 .t396__filter {
-          }
-
-          #rec815754388 .t396__carrier {
-            background-attachment: scroll;
-          }
-        }
-
-        @media screen and (max-width: 959px) {
-          #rec815754388 .t396__artboard,
-          #rec815754388 .t396__filter,
-          #rec815754388 .t396__carrier {
-          }
-
-          #rec815754388 .t396__filter {
-          }
-
-          #rec815754388 .t396__carrier {
-            background-attachment: scroll;
-          }
-        }
-
-        @media screen and (max-width: 639px) {
-          #rec815754388 .t396__artboard,
-          #rec815754388 .t396__filter,
-          #rec815754388 .t396__carrier {
-          }
-
-          #rec815754388 .t396__filter {
-          }
-
-          #rec815754388 .t396__carrier {
-            background-attachment: scroll;
-          }
-        }
-
-        @media screen and (max-width: 479px) {
-          #rec815754388 .t396__artboard,
-          #rec815754388 .t396__filter,
-          #rec815754388 .t396__carrier {
-            height: 1310px;
-          }
-
-          #rec815754388 .t396__filter {
-          }
-
-          #rec815754388 .t396__carrier {
-            background-attachment: scroll;
-          }
-        }
-
-        #rec815754388 .tn-elem[data-elem-id="1729747033276"] {
-          z-index: 2;
-          top: 20px;
-          left: calc(50% - 960px + 116px);
-          width: 88%;
-          height: 1042px;
-        }
-
-        #rec815754388 .tn-elem[data-elem-id="1729747033276"] .tn-atom {
-          border-radius: 35px;
-          background-color: #ffffff;
-          background-position: center center;
-          border-color: transparent;
-          border-style: solid;
-        }
-
-        @media screen and (max-width: 1919px) {
-          #rec815754388 .tn-elem[data-elem-id="1729747033276"] {
-            left: calc(50% - 840px + 101px);
-          }
-        }
-
-        @media screen and (max-width: 1679px) {
-          #rec815754388 .tn-elem[data-elem-id="1729747033276"] {
-            left: calc(50% - 700px + 84px);
-            width: 88%;
-          }
-
-          #rec815754388 .tn-elem[data-elem-id="1729747033276"] .tn-atom {
-            background-position: center center;
-          }
-        }
-
-        @media screen and (max-width: 1399px) {
-          #rec815754388 .tn-elem[data-elem-id="1729747033276"] {
-            top: 20px;
-            left: calc(50% - 600px + 60px);
-            width: 90%;
-            height: 1086px;
-          }
-        }
-
-        @media screen and (max-width: 1199px) {
-        }
-
-        @media screen and (max-width: 959px) {
-        }
-
-        @media screen and (max-width: 639px) {
-          #rec815754388 .tn-elem[data-elem-id="1729747033276"] {
-            left: calc(50% - 240px + -36px);
-            width: 115%;
-          }
-        }
-
-        @media screen and (max-width: 479px) {
-          #rec815754388 .tn-elem[data-elem-id="1729747033276"] {
-            top: 19px;
-            left: calc(50% - 160px + -24px);
-            width: 114%;
-            height: 1245px;
-          }
-
-          #rec815754388 .tn-elem[data-elem-id="1729747033276"] .tn-atom {
-            background-position: center center;
-          }
-        }
-
-        #rec815754388 .tn-elem[data-elem-id="1729772798147"] {
-          z-index: 3;
-          top: 76px;
-          left: calc(50% - 960px + 222px);
-          width: 1476px;
-          height: 884px;
-        }
-
-        #rec815754388 .tn-elem[data-elem-id="1729772798147"] .tn-atom {
-          background-position: center center;
-          border-color: transparent;
-          border-style: solid;
-        }
-
-        @media screen and (max-width: 1919px) {
-          #rec815754388 .tn-elem[data-elem-id="1729772798147"] {
-            left: calc(50% - 840px + 102px);
-          }
-        }
-
-        @media screen and (max-width: 1679px) {
-          #rec815754388 .tn-elem[data-elem-id="1729772798147"] {
-            top: 91px;
-            left: calc(50% - 700px + 84px);
-            width: 1232px;
-            height: 883px;
-          }
-        }
-
-        @media screen and (max-width: 1399px) {
-          #rec815754388 .tn-elem[data-elem-id="1729772798147"] {
-            top: 86px;
-            left: calc(50% - 600px + 60px);
-            width: 1000px;
-            height: 884px;
-          }
-        }
-
-        @media screen and (max-width: 1199px) {
-        }
-
-        @media screen and (max-width: 959px) {
-        }
-
-        @media screen and (max-width: 639px) {
-          #rec815754388 .tn-elem[data-elem-id="1729772798147"] {
-            left: calc(50% - 240px + -36px);
-            width: 553px;
-            height: 885px;
-          }
-        }
-
-        @media screen and (max-width: 479px) {
-          #rec815754388 .tn-elem[data-elem-id="1729772798147"] {
-            top: 44px;
-            left: calc(50% - 160px + -24px);
-            width: 368px;
-            height: 1122px;
-          }
-        }
-      </style>
-      <div class="t396">
-        <div
-          class="t396__artboard"
-          data-artboard-recid="815754388"
-          data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
-          data-artboard-height="1080"
-          data-artboard-valign="center"
-          data-artboard-upscale="grid"
-          data-artboard-height-res-320="1310"
-          data-artboard-height-res-1200="1150"
-        >
-          <div class="t396__carrier" data-artboard-recid="815754388"></div>
-          <div class="t396__filter" data-artboard-recid="815754388"></div>
-          <div
-            class="t396__elem tn-elem mainpic tn-elem__8157543881729747033276"
-            data-elem-id="1729747033276"
-            data-elem-type="shape"
-            data-field-top-value="20"
-            data-field-left-value="116"
-            data-field-height-value="1042"
-            data-field-width-value="88"
-            data-field-axisy-value="top"
-            data-field-axisx-value="left"
-            data-field-container-value="grid"
-            data-field-topunits-value="px"
-            data-field-leftunits-value="px"
-            data-field-heightunits-value="px"
-            data-field-widthunits-value="%"
-            data-field-top-res-320-value="19"
-            data-field-left-res-320-value="-24"
-            data-field-height-res-320-value="1245"
-            data-field-width-res-320-value="114"
-            data-field-widthunits-res-320-value="%"
-            data-field-left-res-480-value="-36"
-            data-field-width-res-480-value="115"
-            data-field-top-res-1200-value="20"
-            data-field-left-res-1200-value="60"
-            data-field-height-res-1200-value="1086"
-            data-field-width-res-1200-value="90"
-            data-field-left-res-1400-value="84"
-            data-field-width-res-1400-value="88"
-            data-field-widthunits-res-1400-value="%"
-            data-field-left-res-1680-value="101"
-          >
-            <div class="tn-atom"></div>
-          </div>
-          <div
-            class="t396__elem tn-elem tn-elem__8157543881729772798147"
-            data-elem-id="1729772798147"
-            data-elem-type="html"
-            data-field-top-value="76"
-            data-field-left-value="222"
-            data-field-height-value="884"
-            data-field-width-value="1476"
-            data-field-axisy-value="top"
-            data-field-axisx-value="left"
-            data-field-container-value="grid"
-            data-field-topunits-value="px"
-            data-field-leftunits-value="px"
-            data-field-heightunits-value="px"
-            data-field-widthunits-value="px"
-            data-field-top-res-320-value="44"
-            data-field-left-res-320-value="-24"
-            data-field-height-res-320-value="1122"
-            data-field-width-res-320-value="368"
-            data-field-left-res-480-value="-36"
-            data-field-height-res-480-value="885"
-            data-field-width-res-480-value="553"
-            data-field-top-res-1200-value="86"
-            data-field-left-res-1200-value="60"
-            data-field-height-res-1200-value="884"
-            data-field-width-res-1200-value="1000"
-            data-field-top-res-1400-value="91"
-            data-field-left-res-1400-value="84"
-            data-field-height-res-1400-value="883"
-            data-field-width-res-1400-value="1232"
-            data-field-left-res-1680-value="102"
-          >
-            <div class="tn-atom tn-atom__html">
-              <div class="accordion"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- <script>
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("815754388");
-          });
-        });
-      </script> -->
-      <!-- /T396 -->
-    </div>
-    <div
       id="rec815997273"
       class="r t-rec t-rec_pt_0 t-rec_pb_0 uc-faqs"
       style="padding-top: 0px; padding-bottom: 0px"
@@ -18040,34 +17684,105 @@ import {
   t367AutoInit,
   initializeAccordionAndZeroBlock,
 } from "@/static/js/index.js";
+import { t_onReady, t_onFuncLoad, t396_initialScale, t396_init, 
+  t354_checkPosition } from "../static/js/tilda-scripts";
 
 export default {
   name: "Hero",
   mounted() {
-    // Инициализация t396
-    t396InitMultiple([
-      "816771176",
-      "814324781",
-      "816909039",
-      "815671857",
-      "816469441",
-      "817085556",
-      "815761862",
-      "817086155",
-      "815754388",
-    ]);
+    t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("816771176");
+          });
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("814324781");
+          });
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("816909039");
+          });
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("815671857");
+          });
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("816469441");
+          });
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("817085556");
+          });
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("815761862");
+          });
+        });
+        t_onReady(function () {
+          setTimeout(function () {
+            window.addEventListener(
+              "scroll",
+              t_throttle(function () {
+                t_onFuncLoad("t354_checkPosition", function () {
+                  t354_checkPosition("816422738");
+                });
+              })
+            );
+          }, 500);
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("817086155");
+          });
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t396_init", function () {
+            t396_init("815754388");
+          });
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t585_init", function () {
+            t585_init("815997273");
+          });
+        });
+        t_onReady(function () {
+          t_onFuncLoad("t367_autoInit", function () {
+            t367_autoInit("816421037");
+          });
+        });
+        t396_initialScale('rec815997273')
+       
+    // // Инициализация t396
+    // t396InitMultiple([
+    //   "816771176",
+    //   "814324781",
+    //   "816909039",
+    //   "815671857",
+    //   "816469441",
+    //   "817085556",
+    //   "815761862",
+    //   "817086155",
+    //   "815754388",
+    // ]);
 
-    // Инициализация t354
-    t354CheckPosition("816422738");
+    // // Инициализация t354
+    // t354CheckPosition("816422738");
 
-    // Инициализация t585
-    t585Init("815997273");
+    // // Инициализация t585
+    // t585Init("815997273");
 
-    // Инициализация t367
-    t367AutoInit("816421037");
+    // // Инициализация t367
+    // t367AutoInit("816421037");
 
-    // Инициализация аккордеона и ZeroBlock
-    initializeAccordionAndZeroBlock();
+    // // Инициализация аккордеона и ZeroBlock
+    // initializeAccordionAndZeroBlock();
   },
 };
 </script>

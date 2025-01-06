@@ -60,6 +60,13 @@ export default {
     ],
     script: [
       {
+        src: "js/tilda-scripts.js",
+        type: "text/javascript",
+        defer: true,
+        type: "module",
+      },
+      { src: "js/tilda-zero-1.1.min.export.js", charset: "utf-8", defer: true },
+      {
         src: "https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js",
         defer: true,
         charset: "utf-8",
@@ -70,26 +77,58 @@ export default {
         nomodule: true,
       },
       { src: "js/jquery-1.10.2.min.export.js", charset: "utf-8" },
-      { src: "js/tilda-scripts-3.0.min.export.js", charset: "utf-8", defer: true },
+      {
+        src: "js/tilda-scripts-3.0.min.export.js",
+        charset: "utf-8",
+        defer: true,
+      },
       {
         src: "js/tilda-blocks-page56709929.min.export.js",
         charset: "utf-8",
         defer: true,
       },
       { src: "js/lazyload-1.3.min.export.js", charset: "utf-8", defer: true },
-      { src: "js/tilda-animation-2.0.min.export.js", charset: "utf-8", defer: true },
-      { src: "js/tilda-zero-1.1.min.export.js", charset: "utf-8", defer: true },
-      { src: "js/tilda-forms-1.0.min.export.js", charset: "utf-8", defer: true },
-      { src: "js/tilda-popup-1.0.min.export.js", charset: "utf-8", defer: true },
-      { src: "js/tilda-zero-forms-1.0.min.export.js", charset: "utf-8", defer: true },
+      {
+        src: "js/tilda-animation-2.0.min.export.js",
+        charset: "utf-8",
+        defer: true,
+      },
+
+      {
+        src: "js/tilda-forms-1.0.min.export.js",
+        charset: "utf-8",
+        defer: true,
+      },
+      {
+        src: "js/tilda-popup-1.0.min.export.js",
+        charset: "utf-8",
+        defer: true,
+      },
+      {
+        src: "js/tilda-zero-forms-1.0.min.export.js",
+        charset: "utf-8",
+        defer: true,
+      },
       {
         src: "js/tilda-animation-ext-1.0.min.export.js",
         charset: "utf-8",
         defer: true,
       },
-      { src: "js/tilda-zero-scale-1.0.min.export.js", charset: "utf-8", defer: true },
-      { src: "js/tilda-zero-fixed-1.0.min.export.js", charset: "utf-8", defer: true },
-      { src: "js/tilda-events-1.0.min.export.js", charset: "utf-8", defer: true },
+      {
+        src: "js/tilda-zero-scale-1.0.min.export.js",
+        charset: "utf-8",
+        defer: true,
+      },
+      {
+        src: "js/tilda-zero-fixed-1.0.min.export.js",
+        charset: "utf-8",
+        defer: true,
+      },
+      {
+        src: "js/tilda-events-1.0.min.export.js",
+        charset: "utf-8",
+        defer: true,
+      },
       {
         src: "js/index.js",
         type: "text/javascript",
