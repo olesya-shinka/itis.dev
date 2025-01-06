@@ -372,6 +372,7 @@ function t367_autoInit(recid) {
     }, timeout);
   }
 }
+
 export {
   t396_init,
   t_onReady,
@@ -382,5 +383,5 @@ export {
   t396_getFieldValue,
   t354_checkPosition,
   t585_init,
-  t367_autoInit,
+  t367_autoInit
 };

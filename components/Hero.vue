@@ -17475,8 +17475,7 @@
       <!-- T123 -->
       <div class="t123">
         <div class="t-container_100">
-          <div class="t-width t-width_100">
-          </div>
+          <div class="t-width t-width_100"></div>
         </div>
       </div>
     </div>
@@ -17502,79 +17501,85 @@
 </template>
 
 <script>
-import { t_onReady, t_onFuncLoad, t396_init, 
-  t354_checkPosition, t585_init, t367_autoInit } from "../static/js/tilda-scripts";
+import {
+  t_onReady,
+  t_onFuncLoad,
+  t396_init,
+  t354_checkPosition,
+  t585_init,
+  t367_autoInit,
+} from "../static/js/tilda-scripts";
 
 export default {
   name: "Hero",
   mounted() {
     t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("816771176");
-          });
-        });
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("814324781");
-          });
-        });
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("816909039");
-          });
-        });
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("815671857");
-          });
-        });
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("816469441");
-          });
-        });
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("817085556");
-          });
-        });
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("815761862");
-          });
-        });
-        t_onReady(function () {
-          setTimeout(function () {
-            window.addEventListener(
-              "scroll",
-              t_throttle(function () {
-                t_onFuncLoad("t354_checkPosition", function () {
-                  t354_checkPosition("816422738");
-                });
-              })
-            );
-          }, 500);
-        });
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("817086155");
-          });
-        });
-        t_onReady(function () {
-          t_onFuncLoad("t396_init", function () {
-            t396_init("815754388");
-          });
-        });
-        t_onReady(function () {
-          t_onFuncLoad("t585_init", function () {
-            t585_init("815997273");
-          });
-        });
-        t_onReady(function () {
-          t_onFuncLoad("t367_autoInit", function () {
-            t367_autoInit("816421037");
-          });
-        });
+      t_onFuncLoad("t396_init", function () {
+        t396_init("816771176");
+      });
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t396_init", function () {
+        t396_init("814324781");
+      });
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t396_init", function () {
+        t396_init("816909039");
+      });
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t396_init", function () {
+        t396_init("815671857");
+      });
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t396_init", function () {
+        t396_init("816469441");
+      });
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t396_init", function () {
+        t396_init("817085556");
+      });
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t396_init", function () {
+        t396_init("815761862");
+      });
+    });
+    t_onReady(function () {
+      setTimeout(function () {
+        window.addEventListener(
+          "scroll",
+          t_throttle(function () {
+            t_onFuncLoad("t354_checkPosition", function () {
+              t354_checkPosition("816422738");
+            });
+          })
+        );
+      }, 500);
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t396_init", function () {
+        t396_init("817086155");
+      });
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t396_init", function () {
+        t396_init("815754388");
+      });
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t585_init", function () {
+        t585_init("815997273");
+      });
+    });
+    t_onReady(function () {
+      t_onFuncLoad("t367_autoInit", function () {
+        t367_autoInit("816421037");
+      });
+    });
   },
 };
 </script>
