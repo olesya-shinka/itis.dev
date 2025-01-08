@@ -1,3 +1,10 @@
+function t_onReady(func) {
+  if (document.readyState != "loading") {
+    func();
+  } else {
+    document.addEventListener("DOMContentLoaded", func);
+  }
+}
 function t_lazyload_update() {
   "undefined" != typeof lazyload_cover && lazyload_cover.update(),
     "undefined" != typeof lazyload_img && lazyload_img.update(),

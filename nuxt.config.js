@@ -61,8 +61,7 @@ export default {
     script: [
       {
         src: "js/tilda-scripts.js",
-        type: "text/javascript",
-        // defer: true,
+        module: true,
       },
       { src: "js/tilda-zero-1.1.min.export.js", charset: "utf-8", async: true },
       {
@@ -77,7 +76,12 @@ export default {
       },
       { src: "js/jquery-1.10.2.min.export.js", charset: "utf-8" },
       {
-        src: "js/tilda-scripts-3.0.min.export.js",
+        src: "js/tilda-scripts-3.0.min.js",
+        charset: "utf-8",
+        defer: true,
+      },
+      {
+        src: "js/tilda-stat-1.0.min.export.js",
         charset: "utf-8",
         defer: true,
       },
@@ -135,11 +139,10 @@ export default {
         // hid: "tilda",
       },
     ],
+    plugins: [{ src: "~/plugins/tilda.js", mode: "client" }],
   },
 
   css: cssFiles,
-
-  plugins: [{ src: "~/plugins/tilda.js", mode: "client" }],
 
   components: true,
 

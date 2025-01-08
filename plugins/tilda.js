@@ -1,6 +1,8 @@
 if (process.client) {
+  import("../static/js/tilda-scripts");
   import("../static/js/lazyload-1.3.min.export");
   import("../static/js/jquery-1.10.2.min.export");
+  import('../static/js/tilda-stat-1.0.min.export')
   import("../static/js/tilda-animation-2.0.min.export");
   import("../static/js/tilda-animation-ext-1.0.min.export");
   import("../static/js/tilda-blocks-page56709929.min.export");
