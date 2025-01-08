@@ -1130,7 +1130,7 @@
               data-field-top-res-1680-value="22"
               data-field-left-res-1680-value="1442"
             >
-              <a class="tn-atom tn-atom__vector" href="index.html#new_client">
+              <a class="tn-atom tn-atom__vector" href="#new_client">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="6715.5 4978.5 203 63"
@@ -2543,7 +2543,7 @@
               data-field-top-res-1680-value="71"
               data-field-left-res-1680-value="1362"
             >
-              <a class="tn-atom tn-atom__vector" href="index.html#new_client">
+              <a class="tn-atom tn-atom__vector" href="#new_client">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="6611.00048828125 4968.00048828125 203 63"
@@ -3172,7 +3172,7 @@
                     <li class="t282__menu__item">
                       <a
                         class="t282__menu__link t-heading t-heading_md t-menu__link-item"
-                        href="index.html#new_client"
+                        href="#new_client"
                         data-menu-submenu-hook=""
                       >
                         ЗАКАЗАТЬ ЗВОНОК

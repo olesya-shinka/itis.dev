@@ -15936,7 +15936,7 @@
       <!-- T354 -->
       <div class="t354">
         <a
-          href="index.html#new_client"
+          href="#new_client"
           class="t354__opener"
           data-trigger-position="0"
           data-cookie-name="cookie_priziv_win"
@@ -17489,7 +17489,7 @@
       <!-- T367 -->
       <div class="t367">
         <a
-          href="index.html#new_client"
+          href="#new_client"
           class="t367__opener"
           data-trigger-time="25"
           data-cookie-name="cookie_priziv_call25"

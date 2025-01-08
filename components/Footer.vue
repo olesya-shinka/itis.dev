@@ -1545,7 +1545,7 @@
               <div class="tn-atom">
                 <img
                   class="tn-atom__img t-img"
-                  data-original="../static/images/tild3165-3163-4462-b339-363766376239__logo.svg"
+                  src="../static/images/tild3165-3163-4462-b339-363766376239__logofooter.svg"
                   alt=""
                   imgfield="tn_img_1475148691530"
                 />
@@ -2604,10 +2604,11 @@
               data-field-top-res-1680-value="61"
               data-field-left-res-1680-value="538"
             >
+            <!-- звонок -->
               <div class="tn-atom">
                 <img
                   class="tn-atom__img t-img"
-                  data-original="../static/images/tild3664-6361-4133-b766-326666393937__13184987_5127311_1.svg"
+                  src="../static/images/tild3664-6361-4133-b766-326666393937__13184987_5127311_1.svg"
                   alt=""
                   imgfield="tn_img_1729850964976"
                 />
@@ -2894,7 +2895,7 @@
               data-field-top-res-1680-value="76"
               data-field-left-res-1680-value="1121"
             >
-              <a class="tn-atom tn-atom__vector" href="index.html#closepopup">
+              <a class="tn-atom tn-atom__vector" href="#closepopup">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="5386.29296875 4901.78564453125 41.92138671875 41.521484375"
@@ -2996,11 +2997,7 @@
 </template>
 
 <script>
-import {
-  t_onReady,
-  t_onFuncLoad,
-  t396_init
-} from "../static/js/tilda-scripts";
+import { t_onReady, t_onFuncLoad, t396_init } from "../static/js/tilda-scripts";
 
 export default {
   name: "Footer",
@@ -3020,6 +3017,8 @@ export default {
       t_onFuncLoad("t1093__init", function () {
         t1093__init("817107119");
       });
+    });
+    t_onReady(function () {
       t_onFuncLoad("t1093__initPopup", function () {
         t1093__initPopup("817107119");
       });
