@@ -1545,7 +1545,7 @@
               <div class="tn-atom">
                 <img
                   class="tn-atom__img t-img"
-                  src="../static/images/tild3165-3163-4462-b339-363766376239__logo.svg"
+                  data-original="../static/images/tild3165-3163-4462-b339-363766376239__logo.svg"
                   alt=""
                   imgfield="tn_img_1475148691530"
                 />

@@ -2800,10 +2800,10 @@
             <div class="t282__menu__content">
               <div class="t282__logo__container" style="min-height: 80px">
                 <div class="t282__logo__content">
-                  <a class="t282__logo" href="index.html">
+                  <a class="t282__logo" href="#">
                     <img
                       class="t282__logo__img"
-                      src="../static/images/tild6238-3732-4465-b432-633562363030__logo.svg"
+                      data-original="../static/images/tild6238-3732-4465-b432-633562363030__logo.svg"
                       style="height: 60px"
                       imgfield="img"
                       alt=""
