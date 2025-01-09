@@ -71,7 +71,7 @@
           >
             <div class="tn-atom">
               <img
-                class="tn-atom__img t-img"
+                class="tn-atom__img t-img loaded"
                 src="../static/images/tild3134-3261-4562-b130-373236356563__13264392_5182880_1.jpg"
                 alt=""
                 imgfield="tn_img_1470210033144"
@@ -4522,11 +4522,26 @@ import {
 
 export default {
   name: "Hero",
+  methods: { 
+  addAnimationClass(elementClass) {
+    // Найти элементы с указанным классом
+    const elements = document.querySelectorAll(`.${elementClass}`);
+    // Проверить, найдены ли элементы
+    if (elements.length) {
+      elements.forEach((element) => {
+        element.classList.add("t-animate_started");
+      });
+    } else {
+      console.warn(`Элементы с классом "${elementClass}" не найдены.`);
+    }
+  },
+},
   mounted() {
+    this.addAnimationClass("t396__elem tn-elem tn-elem__8167711761470210033144 t-animate");
     const element = this.$el.querySelector(".tn-atom-move");
     element.addEventListener("mousemove", (event) => {
       const rect = element.getBoundingClientRect();
-      const offsetX = (event.clientX - rect.left) / rect.width - 0.5; 
+      const offsetX = (event.clientX - rect.left) / rect.width - 0.5;
       const offsetY = (event.clientY - rect.top) / rect.height - 0.5;
 
       element.style.transform = `translate3d(${offsetX * 20}px, ${
