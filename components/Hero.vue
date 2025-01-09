@@ -317,14 +317,32 @@
             data-field-left-res-1680-value="455"
             data-field-width-res-1680-value="756"
           >
-            <div class="tn-atom">
-              <img
-                class="tn-atom__img"
-                src="../static/images/tild3134-6238-4938-b162-313733393337__photo.svg"
-                alt=""
-                imgfield="tn_img_1729577411062"
-              />
+            <div class="tn-atom-move">
+              <div
+                class="tn-atom"
+                style="
+                  pointer-events: auto;
+                  display: table;
+                  width: inherit;
+                  height: inherit;
+                  transform: translate3d(0, 0, 0);
+                "
+              >
+                <img
+                  class="tn-atom__img"
+                  src="../static/images/tild3134-6238-4938-b162-313733393337__photo.svg"
+                  alt=""
+                  imgfield="tn_img_1729577411062"
+                />
+              </div>
             </div>
+
+            <style>
+              .tn-atom-move {
+                transition: transform 0.01s ease-out;
+                width: 100%;
+              }
+            </style>
           </div>
           <div
             class="t396__elem tn-elem tn-elem__8143247811729517571785"
@@ -4505,6 +4523,20 @@ import {
 export default {
   name: "Hero",
   mounted() {
+    const element = this.$el.querySelector(".tn-atom-move");
+    element.addEventListener("mousemove", (event) => {
+      const rect = element.getBoundingClientRect();
+      const offsetX = (event.clientX - rect.left) / rect.width - 0.5; 
+      const offsetY = (event.clientY - rect.top) / rect.height - 0.5;
+
+      element.style.transform = `translate3d(${offsetX * 20}px, ${
+        offsetY * 20
+      }px, 0)`;
+    });
+
+    element.addEventListener("mouseleave", () => {
+      element.style.transform = "translate3d(0, 0, 0)";
+    });
     t_onReady(function () {
       t_onFuncLoad("t396_init", function () {
         t396_init("816771176");
