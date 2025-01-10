@@ -57,7 +57,6 @@ export default {
         window,
         "c5d21271fdfee975e91b97f51a0d8f85",
         "script",
-        "js/tilda-stat-1.0.min.js"
       );
     }, 2000);
   },

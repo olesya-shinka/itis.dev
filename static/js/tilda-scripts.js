@@ -428,15 +428,6 @@ function t_menuburger_init(recid) {
     burger.classList.remove("t-menuburger-opened");
   });
 }
-function addAnimationClass(elementClass) {
-  // Найти все элементы с заданным классом
-  const elements = document.querySelectorAll(`.${elementClass}`);
-
-  // Добавить класс t-animate_started к каждому найденному элементу
-  elements.forEach((element) => {
-    element.classList.add("t-animate_started");
-  });
-}
 
 export {
   t396_init,
@@ -450,5 +441,4 @@ export {
   t585_init,
   t367_autoInit,
   t_menuburger_init,
-  addAnimationClass,
 };

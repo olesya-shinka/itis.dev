@@ -59,7 +59,12 @@ export default {
       { rel: "stylesheet", href: "/css/tilda-forms-1.0.min.css" },
     ],
     script: [
-      { src: "js/tilda-fallback-1.0.min", charset: "utf-8", async: true },
+      {
+        src: "js/tilda-fallback-1.0.min",
+        charset: "utf-8",
+        async: true,
+        type: "text/javascript",
+      },
       {
         src: "js/tilda-polyfill-1.0.min.js",
         charset: "utf-8",
@@ -67,10 +72,11 @@ export default {
       },
       {
         src: "js/tilda-scripts.js",
-        module: true,
+        nomodule: true,
       },
       {
         src: "js/index.js",
+        nomodule: true,
         type: "text/javascript",
       },
       { src: "js/jquery-1.10.2.min.js", charset: "utf-8" },
@@ -83,12 +89,14 @@ export default {
         src: "js/tilda-blocks-page56709929.min.js",
         charset: "utf-8",
         async: true,
+        module: true,
       },
       { src: "js/lazyload-1.3.min.export.js", charset: "utf-8", async: true },
       {
         src: "js/tilda-animation-2.0.min.js",
         charset: "utf-8",
         async: true,
+        module: true,
       },
       { src: "js/tilda-zero-1.1.min.js", charset: "utf-8", async: true },
       {
