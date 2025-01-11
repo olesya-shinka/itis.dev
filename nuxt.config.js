@@ -160,5 +160,20 @@ export default {
 
   modules: [],
 
-  build: {},
+  build: {
+    postcss: {
+      plugins: {
+        tailwindcss: {},
+        autoprefixer: {},
+      },
+    },
+  },
+  purgeCSS: {
+    enabled: process.env.NODE_ENV === "production",
+    content: [
+      "./components/Header.vue",
+      "./components/Hero.vue",
+      "./components/Footer.vue",
+    ],
+  },
 };
