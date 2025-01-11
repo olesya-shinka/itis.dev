@@ -52,12 +52,7 @@ export default {
         } else {
           f();
         }
-      })(
-        document,
-        window,
-        "c5d21271fdfee975e91b97f51a0d8f85",
-        "script",
-      );
+      })(document, window, "c5d21271fdfee975e91b97f51a0d8f85", "script");
     }, 2000);
   },
 };

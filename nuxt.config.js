@@ -5,11 +5,10 @@ const cssFiles = fs
   .readdirSync(path.resolve(__dirname, "assets/css"))
   .filter((file) => file.endsWith(".css"))
   .map((file) => `~/assets/css/${file}`);
+
 export default {
-  ssr: false,
-
+  ssr: true,
   target: "static",
-
   head: {
     title: "ItIsDev",
     htmlAttrs: {

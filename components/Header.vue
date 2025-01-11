@@ -10,6 +10,7 @@
       data-tilda-cookie="no"
       data-tilda-lazy="yes"
       data-tilda-root-zone="com"
+      style="background-color: #dcf0ff"
     >
       <div
         id="rec815323087"
