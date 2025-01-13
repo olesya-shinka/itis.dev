@@ -1,13 +1,10 @@
-#rec815345943 .t396__artboard {
+.t396__artboard {
     height: 332px;
 }
-
-#rec815345943 .t396__filter {
+.t396__filter, .t396__carrier {
     height: 332px;
 }
-
-#rec815345943 .t396__carrier {
-    height: 332px;
+.t396__carrier {
     background-position: center center;
     background-attachment: scroll;
     background-size: cover;

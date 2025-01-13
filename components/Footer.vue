@@ -809,5 +809,5 @@ export default {
 };
 </script>
 <style>
-@import "~/assets/css/footer.css";
+@import "~/static/css/footer.css";
 </style>

@@ -1,14 +1,18 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    './pages/index.vue',
-    './components/Header.vue',
-    './components/Hero.vue',
-    './components/Footer.vue',
-    './plugins/tilda.js'
+    "./pages/index.{vue,js,ts}",
+    "./components/Header.{vue,js,ts}",
+    "./components/Hero.{vue,js,ts}",
+    "./components/Footer.{vue,js,ts}",
+    "./plugins/tilda.{js,ts}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ["Manrope", "Arial", "sans-serif"],
+      },
+    },
   },
   plugins: [],
 };

@@ -1096,7 +1096,6 @@
 
 <script>
 import {
-  
   tMenuburgerInit,
   t282Functions,
   setActiveMenuItem,
@@ -1123,5 +1122,5 @@ export default {
 };
 </script>
 <style>
-@import '~/assets/css/header.css';
+@import '~/static/css/header.css';
 </style>

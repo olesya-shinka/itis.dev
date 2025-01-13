@@ -2,9 +2,9 @@ import fs from "fs";
 import path from "path";
 
 const cssFiles = fs
-  .readdirSync(path.resolve(__dirname, "assets/css"))
+  .readdirSync(path.resolve(__dirname, "./static/css"))
   .filter((file) => file.endsWith(".css"))
-  .map((file) => `~/assets/css/${file}`);
+  .map((file) => `~/static/css/${file}`);
 
 export default {
   ssr: true,
