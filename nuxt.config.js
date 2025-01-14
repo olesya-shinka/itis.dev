@@ -1,11 +1,3 @@
-import fs from "fs";
-import path from "path";
-
-const cssFiles = fs
-  .readdirSync(path.resolve(__dirname, "./static/css"))
-  .filter((file) => file.endsWith(".css"))
-  .map((file) => `~/static/css/${file}`);
-
 export default {
   ssr: true,
   target: "static",
@@ -22,11 +14,6 @@ export default {
       { property: "og:title", content: "DEV" },
       { property: "og:description", content: "" },
       { property: "og:type", content: "website" },
-      {
-        property: "og:image",
-        content:
-          "/images/ffb6456b-781b-40e8-9517-ffb5225e8bcd__-__resize__504x__imgfish.jpg",
-      },
       { name: "format-detection", content: "telephone=no" },
       { "http-equiv": "x-dns-prefetch-control", content: "on" },
     ],
@@ -38,24 +25,12 @@ export default {
         href: "/images/favicon.png",
         type: "image/x-icon",
       },
-      { rel: "stylesheet", href: "/css/tilda-grid-3.0.min.css" },
-      {
-        rel: "stylesheet",
-        href: "/css/tilda-blocks-page56709929.min.css@t=1733220870.css",
-      },
+
       { rel: "preconnect", href: "https://fonts.gstatic.com" },
       {
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&subset=latin,cyrillic",
       },
-      { rel: "stylesheet", href: "/css/tilda-animation-2.0.min.css" },
-      {
-        rel: "stylesheet",
-        href: "/css/tilda-popup-1.1.min.css",
-        media: "print",
-        onload: "this.media='all'",
-      },
-      { rel: "stylesheet", href: "/css/tilda-forms-1.0.min.css" },
     ],
     script: [
       {
@@ -152,7 +127,17 @@ export default {
     plugins: [{ src: "~/plugins/tilda.js", mode: "client" }],
   },
 
-  css: cssFiles,
+  css: [
+    { src: "~/assets/css/tailwind.css" },
+    { src: "~/assets/css/tailwindHeader.css" },
+    { src: "~/assets/css/tailwindHero.css" },
+    { src: "~/assets/css/tailwindFooter.css" },
+    { src: "~/assets/css/tailwindBlocksPage.css" },
+    { src: "~/assets/css/tailwindAnimation.css" },
+    { src: "~/assets/css/tailwindForms.css" },
+    { src: "~/assets/css/tailwindGrid.css" },
+    { src: "~/assets/css/tailwindPopup.css" },
+  ],
 
   components: true,
 
@@ -162,12 +147,15 @@ export default {
 
   build: {
     postcss: {
-      plugins: {
-        tailwindcss: {},
-        autoprefixer: {},
+      postcssOptions: {
+        plugins: {
+          tailwindcss: {},
+          autoprefixer: {},
+        },
       },
     },
   },
+
   purgeCSS: {
     enabled: process.env.NODE_ENV === "production",
     content: [

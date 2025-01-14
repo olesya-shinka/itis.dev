@@ -4606,6 +4606,4 @@ export default {
   },
 };
 </script>
-<style>
-@import "~/static/css/hero.css";
-</style>
+

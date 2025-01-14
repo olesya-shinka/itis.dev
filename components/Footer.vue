@@ -808,6 +808,3 @@ export default {
   },
 };
 </script>
-<style>
-@import "~/static/css/footer.css";
-</style>

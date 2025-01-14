@@ -1,3 +1,5 @@
+@tailwind utilities;
+
 .csssize {
     height: 7075px
 }
@@ -72,33 +74,6 @@
         margin: 0 auto;
         border: none
     }
-}
-
-.t-records {
-    -webkit-font_smoothing: antialiased;
-    background-color: none
-}
-
-.t-records a {
-    color: #0179ff;
-    text-decoration: none
-}
-
-.t-records a[href^=tel] {
-    color: inherit;
-    text-decoration: none
-}
-
-.t-records ol {
-    padding-left: 22px;
-    margin-top: 0;
-    margin-bottom: 10px
-}
-
-.t-records ul {
-    padding-left: 20px;
-    margin-top: 0;
-    margin-bottom: 10px
 }
 
 .t-mbfix {
@@ -421,12 +396,6 @@ img:not([src]) {
 
     .t-rec_pb_105 {
         padding-bottom: 90px
-    }
-}
-
-@media screen and (max-width:1200px) {
-    .t-screenmin-1200px {
-        display: none
     }
 }
 

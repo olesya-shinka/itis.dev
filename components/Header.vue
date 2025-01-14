@@ -14,13 +14,12 @@
     >
       <div
         id="rec815323087"
-        class="r t-rec t-screenmin-1200px"
-        style="background-color: #dcf0ff"
+        class="r t-rec hidden lg:block bg-[#dcf0ff]"
         data-record-type="396"
         data-screen-min="1200px"
         data-bg-color="#dcf0ff"
       >
-        <div class="t396">
+        <div class="t396 text-size-adjust-100">
           <div
             class="t396__artboard"
             data-artboard-recid="815323087"
@@ -402,8 +401,7 @@
       </div>
       <div
         id="rec815225856"
-        class="r t-rec t-screenmin-1200px uc-menu"
-        style="background-color: #dcf0ff"
+        class="r t-rec bg-[#dcf0ff] custom-lg:hidden uc-menu"
         data-record-type="396"
         data-screen-min="1200px"
         data-bg-color="#dcf0ff"
@@ -1121,6 +1119,3 @@ export default {
   },
 };
 </script>
-<style>
-@import '~/static/css/header.css';
-</style>

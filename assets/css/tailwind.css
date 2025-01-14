@@ -1,0 +1,24 @@
+@tailwind base 
+@layer base {
+    .t-records {
+        @apply antialiased;
+        background-color: transparent;
+    }
+
+    .t-records a {
+        @apply text-blue-500 no-underline;
+    }
+
+    .t-records a[href^="tel"] {
+        @apply text-inherit no-underline;
+    }
+
+    .t-records ol {
+        @apply pl-[22px] mt-0 mb-2.5;
+    }
+
+    .t-records ul {
+        @apply pl-5 mt-0 mb-2.5;
+    }
+}
+@tailwind utilities
