@@ -128,6 +128,7 @@ export default {
   },
 
   css: [
+    { src: "~/assets/css/main.css" },
     { src: "~/assets/css/tailwind.css" },
     { src: "~/assets/css/tailwindHeader.css" },
     { src: "~/assets/css/tailwindHero.css" },

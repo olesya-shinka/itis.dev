@@ -14,12 +14,12 @@
     >
       <div
         id="rec815323087"
-        class="r t-rec hidden lg:block bg-[#dcf0ff]"
+        class="r t-rec t-screenmin-1200px"
         data-record-type="396"
         data-screen-min="1200px"
         data-bg-color="#dcf0ff"
       >
-        <div class="t396 text-size-adjust-100">
+        <div class="t396">
           <div
             class="t396__artboard"
             data-artboard-recid="815323087"

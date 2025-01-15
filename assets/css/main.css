@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./tailwind.css";
+@import "./tailwindHeader.css";
+@import "./tailwindHero.css";
+@import "./tailwindFooter.css";
+@import "./tailwindBlocksPage.css";
+@import "./tailwindAnimation.css";
+@import "./tailwindForms.css";
+@import "./tailwindGrid.css";
+@import "./tailwindPopup.css";

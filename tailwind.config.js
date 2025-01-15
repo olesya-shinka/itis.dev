@@ -5,7 +5,7 @@ module.exports = {
     "./components/Header.vue",
     "./components/Hero.vue",
     "./components/Footer.vue",
-    "./assets/css/tailwind.css",
+    "./assets/css/main.css",
   ],
   theme: {
     extend: {
@@ -20,6 +20,9 @@ module.exports = {
       },
       screens: {
         "custom-lg": { max: "1200px" },
+        "1200px": "1200px",
+        "1400px": "1400px",
+        "1680px": "1680px",
       },
     },
   },
