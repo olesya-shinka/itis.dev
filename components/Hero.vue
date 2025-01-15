@@ -9,9 +9,9 @@
       data-bg-color="#dcf0ff"
     >
       <!-- T396 -->
-      <div class="t396">
+      <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard"
+          class="t396__artboard position-relative overflow-hidden width100% heightvh"
           data-artboard-recid="816771176"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="500"
@@ -25,10 +25,16 @@
           data-artboard-height-res-1400="400"
           data-artboard-height-res-1680="490"
         >
-          <div class="t396__carrier" data-artboard-recid="816771176"></div>
-          <div class="t396__filter" data-artboard-recid="816771176"></div>
           <div
-            class="t396__elem tn-elem tn-elem__8167711761470210033144 t-animate"
+            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            data-artboard-recid="816771176"
+          ></div>
+          <div
+            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            data-artboard-recid="816771176"
+          ></div>
+          <div
+            class="t396__elem tn-elem t-animate"
             data-elem-id="1470210033144"
             data-elem-type="image"
             data-field-top-value="0"
@@ -78,7 +84,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8167711761729573994962 t-animate"
+            class="t396__elem tn-elem t-animate"
             data-elem-id="1729573994962"
             data-elem-type="text"
             data-field-top-value="179"
@@ -134,9 +140,9 @@
     >
       <!-- T396 -->
 
-      <div class="t396">
+      <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard"
+          class="t396__artboard position-relative overflow-hidden width100% heightvh"
           data-artboard-recid="814324781"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="890"
@@ -150,10 +156,16 @@
           data-artboard-height-res-1400="890"
           data-artboard-height-res-1680="890"
         >
-          <div class="t396__carrier" data-artboard-recid="814324781"></div>
-          <div class="t396__filter" data-artboard-recid="814324781"></div>
           <div
-            class="t396__elem tn-elem tn-elem__8143247811729512648113"
+            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            data-artboard-recid="814324781"
+          ></div>
+          <div
+            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            data-artboard-recid="814324781"
+          ></div>
+          <div
+            class="t396__elem tn-elem"
             data-elem-id="1729512648113"
             data-elem-type="shape"
             data-field-top-value="24"
@@ -196,7 +208,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8143247811470233923389"
+            class="t396__elem tn-elem"
             data-elem-id="1470233923389"
             data-elem-type="text"
             data-field-top-value="331"
@@ -234,7 +246,7 @@
             <div class="tn-atom" field="tn_text_1470233923389"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8143247811470210011265"
+            class="t396__elem tn-elem"
             data-elem-id="1470210011265"
             data-elem-type="text"
             data-field-top-value="698"
@@ -277,7 +289,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8143247811729577411062"
+            class="t396__elem tn-elem"
             data-elem-id="1729577411062"
             data-elem-type="image"
             data-field-top-value="97"
@@ -344,7 +356,7 @@
             </style>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8143247811729517571785"
+            class="t396__elem tn-elem"
             data-elem-id="1729517571785"
             data-elem-type="text"
             data-field-top-value="639"
@@ -402,9 +414,9 @@
     >
       <!-- T396 -->
 
-      <div class="t396">
+      <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard"
+          class="t396__artboard position-relative overflow-hidden width100% heightvh"
           data-artboard-recid="816909039"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="500"
@@ -418,10 +430,16 @@
           data-artboard-height-res-1400="400"
           data-artboard-height-res-1680="450"
         >
-          <div class="t396__carrier" data-artboard-recid="816909039"></div>
-          <div class="t396__filter" data-artboard-recid="816909039"></div>
           <div
-            class="t396__elem tn-elem tn-elem__8169090391470210033144 t-animate"
+            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            data-artboard-recid="816909039"
+          ></div>
+          <div
+            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            data-artboard-recid="816909039"
+          ></div>
+          <div
+            class="t396__elem tn-elem t-animate"
             data-elem-id="1470210033144"
             data-elem-type="image"
             data-field-top-value="0"
@@ -469,7 +487,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8169090391729573994962 t-animate"
+            class="t396__elem tn-elem t-animate"
             data-elem-id="1729573994962"
             data-elem-type="text"
             data-field-top-value="210"
@@ -519,9 +537,9 @@
     <div id="rec815671857" class="r t-rec" style="" data-record-type="396">
       <!-- T396 -->
 
-      <div class="t396">
+      <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard"
+          class="t396__artboard position-relative overflow-hidden width100% heightvh"
           data-artboard-recid="815671857"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="898"
@@ -534,10 +552,16 @@
           data-artboard-height-res-1200="898"
           data-artboard-height-res-1400="898"
         >
-          <div class="t396__carrier" data-artboard-recid="815671857"></div>
-          <div class="t396__filter" data-artboard-recid="815671857"></div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571729712155165"
+            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            data-artboard-recid="815671857"
+          ></div>
+          <div
+            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            data-artboard-recid="815671857"
+          ></div>
+          <div
+            class="t396__elem tn-elem"
             data-elem-id="1729712155165"
             data-elem-type="shape"
             data-field-top-value="24"
@@ -578,7 +602,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571478011401431"
+            class="t396__elem tn-elem"
             data-elem-id="1478011401431"
             data-elem-type="text"
             data-field-top-value="93"
@@ -621,7 +645,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571470210011265"
+            class="t396__elem tn-elem"
             data-elem-id="1470210011265"
             data-elem-type="text"
             data-field-top-value="478"
@@ -660,7 +684,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571474451816576"
+            class="t396__elem tn-elem"
             data-elem-id="1474451816576"
             data-elem-type="text"
             data-field-top-value="478"
@@ -699,7 +723,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571474453340892"
+            class="t396__elem tn-elem"
             data-elem-id="1474453340892"
             data-elem-type="text"
             data-field-top-value="478"
@@ -738,7 +762,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571474457702916"
+            class="t396__elem tn-elem"
             data-elem-id="1474457702916"
             data-elem-type="text"
             data-field-top-value="430"
@@ -774,7 +798,7 @@
             <div class="tn-atom" field="tn_text_1474457702916">Скорость</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571474457880885"
+            class="t396__elem tn-elem"
             data-elem-id="1474457880885"
             data-elem-type="text"
             data-field-top-value="430"
@@ -810,7 +834,7 @@
             <div class="tn-atom" field="tn_text_1474457880885">Экономия</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571474457891812"
+            class="t396__elem tn-elem"
             data-elem-id="1474457891812"
             data-elem-type="text"
             data-field-top-value="430"
@@ -848,7 +872,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571474466320823"
+            class="t396__elem tn-elem"
             data-elem-id="1474466320823"
             data-elem-type="image"
             data-field-top-value="352"
@@ -890,7 +914,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571474466951488"
+            class="t396__elem tn-elem"
             data-elem-id="1474466951488"
             data-elem-type="image"
             data-field-top-value="352"
@@ -932,7 +956,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571474466969815"
+            class="t396__elem tn-elem"
             data-elem-id="1474466969815"
             data-elem-type="image"
             data-field-top-value="352"
@@ -974,7 +998,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571478011503109"
+            class="t396__elem tn-elem"
             data-elem-id="1478011503109"
             data-elem-type="text"
             data-field-top-value="745"
@@ -1013,7 +1037,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571478011503119"
+            class="t396__elem tn-elem 8156718571478011503119"
             data-elem-id="1478011503119"
             data-elem-type="text"
             data-field-top-value="745"
@@ -1052,7 +1076,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571478011503125"
+            class="t396__elem tn-elem"
             data-elem-id="1478011503125"
             data-elem-type="text"
             data-field-top-value="745"
@@ -1091,7 +1115,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571478011503134"
+            class="t396__elem tn-elem"
             data-elem-id="1478011503134"
             data-elem-type="text"
             data-field-top-value="696"
@@ -1127,7 +1151,7 @@
             <div class="tn-atom" field="tn_text_1478011503134">Доступность</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571478011503142"
+            class="t396__elem tn-elem"
             data-elem-id="1478011503142"
             data-elem-type="text"
             data-field-top-value="696"
@@ -1163,7 +1187,7 @@
             <div class="tn-atom" field="tn_text_1478011503142">Простота</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571478011503148"
+            class="t396__elem tn-elem"
             data-elem-id="1478011503148"
             data-elem-type="text"
             data-field-top-value="696"
@@ -1201,7 +1225,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571478011503154"
+            class="t396__elem tn-elem"
             data-elem-id="1478011503154"
             data-elem-type="image"
             data-field-top-value="620"
@@ -1243,7 +1267,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571478011503169"
+            class="t396__elem tn-elem"
             data-elem-id="1478011503169"
             data-elem-type="image"
             data-field-top-value="620"
@@ -1285,7 +1309,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8156718571478011503180"
+            class="t396__elem tn-elem"
             data-elem-id="1478011503180"
             data-elem-type="image"
             data-field-top-value="620"
@@ -1339,9 +1363,9 @@
     >
       <!-- T396 -->
 
-      <div class="t396">
+      <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard"
+          class="t396__artboard position-relative overflow-hidden width100% heightvh"
           data-artboard-recid="816469441"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="700"
@@ -1352,10 +1376,16 @@
           data-artboard-height-res-960="970"
           data-artboard-height-res-1200="700"
         >
-          <div class="t396__carrier" data-artboard-recid="816469441"></div>
-          <div class="t396__filter" data-artboard-recid="816469441"></div>
           <div
-            class="t396__elem tn-elem tn-elem__8164694411729855701569"
+            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            data-artboard-recid="816469441"
+          ></div>
+          <div
+            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            data-artboard-recid="816469441"
+          ></div>
+          <div
+            class="t396__elem tn-elem"
             data-elem-id="1729855701569"
             data-elem-type="shape"
             data-field-top-value="0"
@@ -1392,7 +1422,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8164694411729855809697"
+            class="t396__elem tn-elem"
             data-elem-id="1729855809697"
             data-elem-type="shape"
             data-field-top-value="75"
@@ -1432,7 +1462,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8164694411729855737131"
+            class="t396__elem tn-elem"
             data-elem-id="1729855737131"
             data-elem-type="form"
             data-field-top-value="248"
@@ -1512,8 +1542,7 @@
             data-field-buttonfontsize-res-960-value="18"
           >
             <div class="tn-atom tn-atom__form"></div>
-            <!--googleoff: all-->
-            <!--noindex-->
+
             <div
               data-nosnippet="true"
               class="tn-atom__inputs-wrapp"
@@ -1523,11 +1552,9 @@
 [{"lid":"1729855737131","ls":"10","loff":"","li_type":"nm","li_name":"user_name","li_title":"\u0412\u0430\u0448\u0435 \u0438\u043c\u044f","li_req":"y","li_nm":"user_name"},{"lid":"1729855737132","ls":"20","loff":"","li_type":"ph","li_name":"user_phone","li_title":"\u0412\u0430\u0448 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430","li_req":"y","li_masktype":"a","li_maskcountry":"RU","li_nm":"user_phone"}]</textarea
               >
             </div>
-            <!--/noindex-->
-            <!--googleon: all-->
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8164694411729856169867"
+            class="t396__elem tn-elem"
             data-elem-id="1729856169867"
             data-elem-type="text"
             data-field-top-value="261"
@@ -1561,7 +1588,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8164694411729856209013"
+            class="t396__elem tn-elem"
             data-elem-id="1729856209013"
             data-elem-type="text"
             data-field-top-value="314"
@@ -1612,9 +1639,9 @@
     >
       <!-- T396 -->
 
-      <div class="t396">
+      <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard"
+          class="t396__artboard position-relative overflow-hidden width100% heightvh"
           data-artboard-recid="817085556"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="500"
@@ -1628,10 +1655,16 @@
           data-artboard-height-res-1400="400"
           data-artboard-height-res-1680="450"
         >
-          <div class="t396__carrier" data-artboard-recid="817085556"></div>
-          <div class="t396__filter" data-artboard-recid="817085556"></div>
           <div
-            class="t396__elem tn-elem tn-elem__8170855561470210033144 t-animate"
+            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            data-artboard-recid="817085556"
+          ></div>
+          <div
+            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            data-artboard-recid="817085556"
+          ></div>
+          <div
+            class="t396__elem tn-elem t-animate"
             data-elem-id="1470210033144"
             data-elem-type="image"
             data-field-top-value="0"
@@ -1679,7 +1712,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8170855561729573994962 t-animate"
+            class="t396__elem tn-elem t-animate"
             data-elem-id="1729573994962"
             data-elem-type="text"
             data-field-top-value="210"
@@ -1735,9 +1768,9 @@
     >
       <!-- T396 -->
 
-      <div class="t396">
+      <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard"
+          class="t396__artboard position-relative overflow-hidden width100% heightvh"
           data-artboard-recid="815761862"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="2021"
@@ -1750,10 +1783,16 @@
           data-artboard-height-res-1200="1991"
           data-artboard-height-res-1400="1911"
         >
-          <div class="t396__carrier" data-artboard-recid="815761862"></div>
-          <div class="t396__filter" data-artboard-recid="815761862"></div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749832910"
+            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            data-artboard-recid="815761862"
+          ></div>
+          <div
+            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            data-artboard-recid="815761862"
+          ></div>
+          <div
+            class="t396__elem tn-elem"
             data-elem-id="1729749832910"
             data-elem-type="shape"
             data-field-top-value="35"
@@ -1785,7 +1824,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621474627468992"
+            class="t396__elem tn-elem"
             data-elem-id="1474627468992"
             data-elem-type="shape"
             data-field-top-value="178"
@@ -1822,7 +1861,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621474627416586"
+            class="t396__elem tn-elem"
             data-elem-id="1474627416586"
             data-elem-type="shape"
             data-field-top-value="170"
@@ -1857,7 +1896,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621480499191307"
+            class="t396__elem tn-elem"
             data-elem-id="1480499191307"
             data-elem-type="text"
             data-field-top-value="180"
@@ -1888,7 +1927,7 @@
             <div class="tn-atom" field="tn_text_1480499191307">1</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621474628173182"
+            class="t396__elem tn-elem"
             data-elem-id="1474628173182"
             data-elem-type="shape"
             data-field-top-value="346"
@@ -1923,7 +1962,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621480499355677"
+            class="t396__elem tn-elem"
             data-elem-id="1480499355677"
             data-elem-type="text"
             data-field-top-value="356"
@@ -1954,7 +1993,7 @@
             <div class="tn-atom" field="tn_text_1480499355677">2</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621474627361375"
+            class="t396__elem tn-elem"
             data-elem-id="1474627361375"
             data-elem-type="text"
             data-field-top-value="390"
@@ -1994,7 +2033,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621470210011265"
+            class="t396__elem tn-elem"
             data-elem-id="1470210011265"
             data-elem-type="text"
             data-field-top-value="356"
@@ -2031,7 +2070,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621474628174920"
+            class="t396__elem tn-elem"
             data-elem-id="1474628174920"
             data-elem-type="shape"
             data-field-top-value="567"
@@ -2066,7 +2105,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621480499364298"
+            class="t396__elem tn-elem"
             data-elem-id="1480499364298"
             data-elem-type="text"
             data-field-top-value="577"
@@ -2097,7 +2136,7 @@
             <div class="tn-atom" field="tn_text_1480499364298">3</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729748883693"
+            class="t396__elem tn-elem"
             data-elem-id="1729748883693"
             data-elem-type="shape"
             data-field-top-value="757"
@@ -2132,7 +2171,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729748883701"
+            class="t396__elem tn-elem"
             data-elem-id="1729748883701"
             data-elem-type="text"
             data-field-top-value="767"
@@ -2163,7 +2202,7 @@
             <div class="tn-atom" field="tn_text_1729748883701">4</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749007994"
+            class="t396__elem tn-elem"
             data-elem-id="1729749007994"
             data-elem-type="shape"
             data-field-top-value="891"
@@ -2198,7 +2237,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749008004"
+            class="t396__elem tn-elem"
             data-elem-id="1729749008004"
             data-elem-type="text"
             data-field-top-value="901"
@@ -2229,7 +2268,7 @@
             <div class="tn-atom" field="tn_text_1729749008004">5</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749091346"
+            class="t396__elem tn-elem"
             data-elem-id="1729749091346"
             data-elem-type="shape"
             data-field-top-value="1045"
@@ -2264,7 +2303,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749091353"
+            class="t396__elem tn-elem"
             data-elem-id="1729749091353"
             data-elem-type="text"
             data-field-top-value="1055"
@@ -2295,7 +2334,7 @@
             <div class="tn-atom" field="tn_text_1729749091353">6</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749197889"
+            class="t396__elem tn-elem"
             data-elem-id="1729749197889"
             data-elem-type="shape"
             data-field-top-value="1188"
@@ -2330,7 +2369,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749197895"
+            class="t396__elem tn-elem"
             data-elem-id="1729749197895"
             data-elem-type="text"
             data-field-top-value="1198"
@@ -2361,7 +2400,7 @@
             <div class="tn-atom" field="tn_text_1729749197895">7</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749247949"
+            class="t396__elem tn-elem"
             data-elem-id="1729749247949"
             data-elem-type="shape"
             data-field-top-value="1359"
@@ -2396,7 +2435,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749247959"
+            class="t396__elem tn-elem"
             data-elem-id="1729749247959"
             data-elem-type="text"
             data-field-top-value="1369"
@@ -2427,7 +2466,7 @@
             <div class="tn-atom" field="tn_text_1729749247959">8</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749338706"
+            class="t396__elem tn-elem"
             data-elem-id="1729749338706"
             data-elem-type="shape"
             data-field-top-value="1510"
@@ -2462,7 +2501,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749338715"
+            class="t396__elem tn-elem"
             data-elem-id="1729749338715"
             data-elem-type="text"
             data-field-top-value="1520"
@@ -2493,7 +2532,7 @@
             <div class="tn-atom" field="tn_text_1729749338715">9</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621474627943918"
+            class="t396__elem tn-elem"
             data-elem-id="1474627943918"
             data-elem-type="text"
             data-field-top-value="177"
@@ -2530,7 +2569,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621474627941995"
+            class="t396__elem tn-elem"
             data-elem-id="1474627941995"
             data-elem-type="text"
             data-field-top-value="211"
@@ -2568,7 +2607,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621474628077848"
+            class="t396__elem tn-elem"
             data-elem-id="1474628077848"
             data-elem-type="text"
             data-field-top-value="561"
@@ -2605,7 +2644,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621474628075709"
+            class="t396__elem tn-elem"
             data-elem-id="1474628075709"
             data-elem-type="text"
             data-field-top-value="645"
@@ -2643,7 +2682,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729748958825"
+            class="t396__elem tn-elem"
             data-elem-id="1729748958825"
             data-elem-type="text"
             data-field-top-value="765"
@@ -2680,7 +2719,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729753149587"
+            class="t396__elem tn-elem"
             data-elem-id="1729753149587"
             data-elem-type="text"
             data-field-top-value="799"
@@ -2718,7 +2757,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749051701"
+            class="t396__elem tn-elem"
             data-elem-id="1729749051701"
             data-elem-type="text"
             data-field-top-value="898"
@@ -2753,7 +2792,7 @@
             <div class="tn-atom" field="tn_text_1729749051701">Разработка</div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729753218183"
+            class="t396__elem tn-elem"
             data-elem-id="1729753218183"
             data-elem-type="text"
             data-field-top-value="932"
@@ -2791,7 +2830,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749120810"
+            class="t396__elem tn-elem"
             data-elem-id="1729749120810"
             data-elem-type="text"
             data-field-top-value="1050"
@@ -2828,7 +2867,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729753252700"
+            class="t396__elem tn-elem"
             data-elem-id="1729753252700"
             data-elem-type="text"
             data-field-top-value="1084"
@@ -2867,7 +2906,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749229241"
+            class="t396__elem tn-elem"
             data-elem-id="1729749229241"
             data-elem-type="text"
             data-field-top-value="1185"
@@ -2904,7 +2943,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729753284667"
+            class="t396__elem tn-elem"
             data-elem-id="1729753284667"
             data-elem-type="text"
             data-field-top-value="1253"
@@ -2942,7 +2981,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749311578"
+            class="t396__elem tn-elem"
             data-elem-id="1729749311578"
             data-elem-type="text"
             data-field-top-value="1366"
@@ -2979,7 +3018,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729753299414"
+            class="t396__elem tn-elem"
             data-elem-id="1729753299414"
             data-elem-type="text"
             data-field-top-value="1400"
@@ -3018,7 +3057,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749442691"
+            class="t396__elem tn-elem"
             data-elem-id="1729749442691"
             data-elem-type="text"
             data-field-top-value="1518"
@@ -3055,7 +3094,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729753321321"
+            class="t396__elem tn-elem"
             data-elem-id="1729753321321"
             data-elem-type="text"
             data-field-top-value="1552"
@@ -3095,7 +3134,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749528896"
+            class="t396__elem tn-elem"
             data-elem-id="1729749528896"
             data-elem-type="text"
             data-field-top-value="1691"
@@ -3132,7 +3171,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729753437511"
+            class="t396__elem tn-elem"
             data-elem-id="1729753437511"
             data-elem-type="text"
             data-field-top-value="1759"
@@ -3171,7 +3210,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749483761"
+            class="t396__elem tn-elem"
             data-elem-id="1729749483761"
             data-elem-type="shape"
             data-field-top-value="1695"
@@ -3206,7 +3245,7 @@
             <div class="tn-atom"></div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8157618621729749483767"
+            class="t396__elem tn-elem"
             data-elem-id="1729749483767"
             data-elem-type="text"
             data-field-top-value="1705"
@@ -3268,9 +3307,9 @@
     >
       <!-- T396 -->
 
-      <div class="t396">
+      <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard"
+          class="t396__artboard position-relative overflow-hidden width100% heightvh"
           data-artboard-recid="817086155"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="500"
@@ -3284,10 +3323,16 @@
           data-artboard-height-res-1400="400"
           data-artboard-height-res-1680="450"
         >
-          <div class="t396__carrier" data-artboard-recid="817086155"></div>
-          <div class="t396__filter" data-artboard-recid="817086155"></div>
           <div
-            class="t396__elem tn-elem tn-elem__8170861551470210033144 t-animate"
+            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            data-artboard-recid="817086155"
+          ></div>
+          <div
+            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            data-artboard-recid="817086155"
+          ></div>
+          <div
+            class="t396__elem tn-elem t-animate"
             data-elem-id="1470210033144"
             data-elem-type="image"
             data-field-top-value="0"
@@ -3335,7 +3380,7 @@
             </div>
           </div>
           <div
-            class="t396__elem tn-elem tn-elem__8170861551729573994962 t-animate"
+            class="t396__elem tn-elem t-animate"
             data-elem-id="1729573994962"
             data-elem-type="text"
             data-field-top-value="210"
@@ -4606,4 +4651,3 @@ export default {
   },
 };
 </script>
-

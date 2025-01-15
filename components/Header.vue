@@ -19,9 +19,9 @@
         data-screen-min="1200px"
         data-bg-color="#dcf0ff"
       >
-        <div class="t396">
+        <div class="t396 text-size-adjust-100">
           <div
-            class="t396__artboard"
+            class="t396__artboard position-relative overflow-hidden width100% heightvh"
             data-artboard-recid="815323087"
             data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
             data-artboard-height="105"
@@ -36,10 +36,10 @@
             data-artboard-height-res-640="254"
             data-artboard-height-res-1200="135"
           >
-            <div class="t396__carrier" data-artboard-recid="815323087"></div>
-            <div class="t396__filter" data-artboard-recid="815323087"></div>
+            <div class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh" data-artboard-recid="815323087"></div>
+            <div class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh" data-artboard-recid="815323087"></div>
             <div
-              class="t396__elem tn-elem tn-elem__8153230871682335500868"
+              class="t396__elem tn-elem"
               data-elem-id="1682335500868"
               data-elem-type="shape"
               data-field-top-value="-43"
@@ -78,7 +78,7 @@
               <div class="tn-atom"></div>
             </div>
             <div
-              class="t396__elem tn-elem menu tn-elem__8153230871729504294018"
+              class="t396__elem tn-elem menu"
               data-elem-id="1729504294018"
               data-elem-type="button"
               data-field-top-value="37"
@@ -104,7 +104,7 @@
               <a class="tn-atom" href="index.html">Главная</a>
             </div>
             <div
-              class="t396__elem tn-elem menu tn-elem__8153230871729603500304"
+              class="t396__elem tn-elem menu"
               data-elem-id="1729603500304"
               data-elem-type="button"
               data-field-top-value="37"
@@ -130,7 +130,7 @@
               <a class="tn-atom" href="https://itis.dev/service">Услуги</a>
             </div>
             <div
-              class="t396__elem tn-elem menu tn-elem__8153230871729678394528"
+              class="t396__elem tn-elem menu"
               data-elem-id="1729678394528"
               data-elem-type="button"
               data-field-top-value="37"
@@ -156,7 +156,7 @@
               <a class="tn-atom" href="https://itis.dev/news">Новости</a>
             </div>
             <div
-              class="t396__elem tn-elem tn-elem__8153230871729839690340"
+              class="t396__elem tn-elem "
               data-elem-id="1729839690340"
               data-elem-type="text"
               data-field-top-value="17"
@@ -184,7 +184,7 @@
               </div>
             </div>
             <div
-              class="t396__elem tn-elem tn-elem__8153230871729839726876"
+              class="t396__elem tn-elem"
               data-elem-id="1729839726876"
               data-elem-type="text"
               data-field-top-value="51"
@@ -212,7 +212,7 @@
               </div>
             </div>
             <div
-              class="t396__elem tn-elem menu tn-elem__8153230871730093066084"
+              class="t396__elem tn-elem menu "
               data-elem-id="1730093066084"
               data-elem-type="button"
               data-field-top-value="38"
@@ -238,7 +238,7 @@
               <a class="tn-atom" href="https://itis.dev/contacts">Контакты</a>
             </div>
             <div
-              class="t396__elem tn-elem btn-callphone tn-elem__8153230871730093116707"
+              class="t396__elem tn-elem btn-callphone"
               data-elem-id="1730093116707"
               data-elem-type="vector"
               data-field-top-value="22"
@@ -334,7 +334,7 @@
               </a>
             </div>
             <div
-              class="t396__elem tn-elem tn-elem__8153230871730529501866"
+              class="t396__elem tn-elem "
               data-elem-id="1730529501866"
               data-elem-type="vector"
               data-field-top-value="10"
@@ -406,9 +406,9 @@
         data-screen-min="1200px"
         data-bg-color="#dcf0ff"
       >
-        <div class="t396">
+        <div class="t396 text-size-adjust-100">
           <div
-            class="t396__artboard"
+            class="t396__artboard position-relative overflow-hidden width100% heightvh"
             data-artboard-recid="815225856"
             data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
             data-artboard-height="205"
@@ -421,11 +421,11 @@
             data-artboard-height-res-1200="185"
           >
             <div class="t396__carrier-wrapper">
-              <div class="t396__carrier" data-artboard-recid="815225856"></div>
+              <div class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh" data-artboard-recid="815225856"></div>
             </div>
-            <div class="t396__filter" data-artboard-recid="815225856"></div>
+            <div class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh" data-artboard-recid="815225856"></div>
             <div
-              class="t396__elem tn-elem tn-elem__8152258561682335500868"
+              class="t396__elem display-table border-box position-absolute tn-elem"
               data-elem-id="1682335500868"
               data-elem-type="shape"
               data-field-top-value="24"
@@ -464,7 +464,7 @@
               <div class="tn-atom"></div>
             </div>
             <div
-              class="t396__elem tn-elem menu tn-elem__8152258561729504294018"
+              class="t396__elem tn-elem menu "
               data-elem-id="1729504294018"
               data-elem-type="button"
               data-field-top-value="88"
@@ -492,7 +492,7 @@
               <a class="tn-atom" href="index.html">Главная</a>
             </div>
             <div
-              class="t396__elem tn-elem menu tn-elem__8152258561729667635145"
+              class="t396__elem tn-elem menu "
               data-elem-id="1729667635145"
               data-elem-type="button"
               data-field-top-value="88"
@@ -520,7 +520,7 @@
               <a class="tn-atom" href="https://itis.dev/service">Услуги</a>
             </div>
             <div
-              class="t396__elem tn-elem menu tn-elem__8152258561729667646836"
+              class="t396__elem tn-elem menu "
               data-elem-id="1729667646836"
               data-elem-type="button"
               data-field-top-value="88"
@@ -548,7 +548,7 @@
               <a class="tn-atom" href="https://itis.dev/news">Новости</a>
             </div>
             <div
-              class="t396__elem tn-elem tn-elem__8152258561729839220590"
+              class="t396__elem tn-elem "
               data-elem-id="1729839220590"
               data-elem-type="text"
               data-field-top-value="63"
@@ -579,7 +579,7 @@
               </div>
             </div>
             <div
-              class="t396__elem tn-elem tn-elem__8152258561729839442032"
+              class="t396__elem tn-elem "
               data-elem-id="1729839442032"
               data-elem-type="text"
               data-field-top-value="101"
@@ -610,7 +610,7 @@
               </div>
             </div>
             <div
-              class="t396__elem tn-elem btn-callphone tn-elem__8152258561729865288091"
+              class="t396__elem tn-elem btn-callphone "
               data-elem-id="1729865288091"
               data-elem-type="vector"
               data-field-top-value="70"
@@ -728,7 +728,7 @@
               </a>
             </div>
             <div
-              class="t396__elem tn-elem menu tn-elem__8152258561730092791587"
+              class="t396__elem tn-elem menu "
               data-elem-id="1730092791587"
               data-elem-type="button"
               data-field-top-value="88"
@@ -756,7 +756,7 @@
               <a class="tn-atom" href="https://itis.dev/contacts">Контакты</a>
             </div>
             <div
-              class="t396__elem tn-elem tn-elem__8152258561730527981398"
+              class="t396__elem tn-elem "
               data-elem-id="1730527981398"
               data-elem-type="vector"
               data-field-top-value="59"

@@ -40,6 +40,9 @@ module.exports = {
         ".visibility-hidden": {
           visibility: "hidden",
         },
+        ".overflow-visible": {
+          overflow: "visible",
+        },
         ".visibility-visible": {
           visibility: "visible",
         },
@@ -61,8 +64,35 @@ module.exports = {
         ".z-index-10000": {
           zIndex: "10000",
         },
+        ".z-index-0": {
+          zIndex: "0",
+        },
+        ".z-index-1": {
+          zIndex: "1",
+        },
         ".translate-z-0": {
           transform: "translateZ(0)",
+        },
+        ".width100%": {
+          width: "100%",
+        },
+        ".heightvh": {
+          height: "100vh",
+        },
+        ".top0": {
+          top: "0",
+        },
+        ".left0": {
+          left: "0",
+        },
+        ".-moz-transform-unset": {
+          "-moz-transform": "unset",
+        },
+        ".transform-translateZ0": {
+          transform: "translateZ(0)",
+        },
+        ".border-box": {
+          boxSizing: "border-box",
         },
       });
     },
