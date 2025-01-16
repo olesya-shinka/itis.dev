@@ -18,6 +18,13 @@ module.exports = {
       zIndex: {
         989: "989",
       },
+      zIndex: {
+        2: "2",
+      },
+      zIndex: {
+        3: "3",
+      },
+   
       textIndent: {
         "-22": "-22px",
       },
@@ -34,6 +41,13 @@ module.exports = {
         lg: { max: "1200px" }, // max-width: 1200px
         sm: { max: "640px" }, // max-width: 640px
         ss: { max: "480px" }, // max-width: 480px
+        "max-1919": { max: "1919px" }, // max-width: 1919px
+        "max-1679": { max: "1679px" }, // max-width: 1679px
+        "max-1399": { max: "1399px" }, // max-width: 1399px
+        "max-1199": { max: "1199px" }, // max-width: 1199px
+        "max-959": { max: "959px" }, // max-width: 959px
+        "max-639": { max: "639px" }, // max-width: 639px
+        "max-479": { max: "479px" }, // max-width: 479px
         "max-980": { max: "980px" }, // max-width: 980px
         "max-640": { max: "640px" }, // max-width: 640px
         "max-480": { max: "480px" }, // max-width: 480px
@@ -47,7 +61,7 @@ module.exports = {
         "max-640": { max: "640px" },
       },
       lineHeight: {
-        "28": "28px",
+        28: "28px",
       },
     },
   },
