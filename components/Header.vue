@@ -21,7 +21,7 @@
       >
         <div class="t396 text-size-adjust-100">
           <div
-            class="t396__artboard position-relative overflow-hidden width100% heightvh"
+            class="t396__artboard"
             data-artboard-recid="815323087"
             data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
             data-artboard-height="105"
@@ -36,8 +36,8 @@
             data-artboard-height-res-640="254"
             data-artboard-height-res-1200="135"
           >
-            <div class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh" data-artboard-recid="815323087"></div>
-            <div class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh" data-artboard-recid="815323087"></div>
+            <div class="t396__carrier" data-artboard-recid="815323087"></div>
+            <div class="t396__filter" data-artboard-recid="815323087"></div>
             <div
               class="t396__elem tn-elem"
               data-elem-id="1682335500868"
@@ -401,14 +401,14 @@
       </div>
       <div
         id="rec815225856"
-        class="r t-rec bg-[#dcf0ff] custom-lg:hidden uc-menu"
+        class="r t-rec bg-[#dcf0ff] lg:hidden uc-menu"
         data-record-type="396"
         data-screen-min="1200px"
         data-bg-color="#dcf0ff"
       >
         <div class="t396 text-size-adjust-100">
           <div
-            class="t396__artboard position-relative overflow-hidden width100% heightvh"
+            class="t396__artboard"
             data-artboard-recid="815225856"
             data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
             data-artboard-height="205"
@@ -421,9 +421,9 @@
             data-artboard-height-res-1200="185"
           >
             <div class="t396__carrier-wrapper">
-              <div class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh" data-artboard-recid="815225856"></div>
+              <div class="t396__carrier" data-artboard-recid="815225856"></div>
             </div>
-            <div class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh" data-artboard-recid="815225856"></div>
+            <div class="t396__filter" data-artboard-recid="815225856"></div>
             <div
               class="t396__elem display-table border-box position-absolute tn-elem"
               data-elem-id="1682335500868"

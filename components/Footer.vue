@@ -22,7 +22,7 @@
         <!-- T396 -->
         <div class="t396 text-size-adjust-100">
           <div
-            class="t396__artboard position-relative overflow-hidden width100% heightvh"
+            class="t396__artboard"
             data-artboard-recid="815345943"
             data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
             data-artboard-height="332"
@@ -34,8 +34,8 @@
             data-artboard-height-res-960="299"
             data-artboard-height-res-1200="332"
           >
-            <div class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh" data-artboard-recid="815345943"></div>
-            <div class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh" data-artboard-recid="815345943"></div>
+            <div class="t396__carrier" data-artboard-recid="815345943"></div>
+            <div class="t396__filter" data-artboard-recid="815345943"></div>
             <div
               class="t396__elem tn-elem t-animate"
               data-elem-id="1729491601910"
@@ -332,7 +332,7 @@
       >
         <div class="t396 text-size-adjust-100">
           <div
-            class="t396__artboard position-relative overflow-hidden width100% heightvh"
+            class="t396__artboard"
             data-artboard-recid="817107025"
             data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
             data-artboard-height="900"
@@ -343,8 +343,8 @@
             data-artboard-height-res-1400="680"
             data-artboard-height-res-1680="800"
           >
-            <div class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh" data-artboard-recid="817107025"></div>
-            <div class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh" data-artboard-recid="817107025"></div>
+            <div class="t396__carrier" data-artboard-recid="817107025"></div>
+            <div class="t396__filter" data-artboard-recid="817107025"></div>
             <div
               class="t396__elem tn-elem"
               data-elem-id="1729851023437"

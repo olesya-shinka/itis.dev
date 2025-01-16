@@ -11,7 +11,7 @@
       <!-- T396 -->
       <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard position-relative overflow-hidden width100% heightvh"
+          class="t396__artboard"
           data-artboard-recid="816771176"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="500"
@@ -26,11 +26,11 @@
           data-artboard-height-res-1680="490"
         >
           <div
-            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            class="t396__carrier"
             data-artboard-recid="816771176"
           ></div>
           <div
-            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            class="t396__filter"
             data-artboard-recid="816771176"
           ></div>
           <div
@@ -142,7 +142,7 @@
 
       <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard position-relative overflow-hidden width100% heightvh"
+          class="t396__artboard"
           data-artboard-recid="814324781"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="890"
@@ -157,11 +157,11 @@
           data-artboard-height-res-1680="890"
         >
           <div
-            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            class="t396__carrier"
             data-artboard-recid="814324781"
           ></div>
           <div
-            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            class="t396__filter"
             data-artboard-recid="814324781"
           ></div>
           <div
@@ -416,7 +416,7 @@
 
       <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard position-relative overflow-hidden width100% heightvh"
+          class="t396__artboard"
           data-artboard-recid="816909039"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="500"
@@ -431,11 +431,11 @@
           data-artboard-height-res-1680="450"
         >
           <div
-            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            class="t396__carrier"
             data-artboard-recid="816909039"
           ></div>
           <div
-            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            class="t396__filter"
             data-artboard-recid="816909039"
           ></div>
           <div
@@ -539,7 +539,7 @@
 
       <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard position-relative overflow-hidden width100% heightvh"
+          class="t396__artboard"
           data-artboard-recid="815671857"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="898"
@@ -553,11 +553,11 @@
           data-artboard-height-res-1400="898"
         >
           <div
-            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            class="t396__carrier"
             data-artboard-recid="815671857"
           ></div>
           <div
-            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            class="t396__filter"
             data-artboard-recid="815671857"
           ></div>
           <div
@@ -1365,7 +1365,7 @@
 
       <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard position-relative overflow-hidden width100% heightvh"
+          class="t396__artboard"
           data-artboard-recid="816469441"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="700"
@@ -1377,11 +1377,11 @@
           data-artboard-height-res-1200="700"
         >
           <div
-            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            class="t396__carrier"
             data-artboard-recid="816469441"
           ></div>
           <div
-            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            class="t396__filter"
             data-artboard-recid="816469441"
           ></div>
           <div
@@ -1641,7 +1641,7 @@
 
       <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard position-relative overflow-hidden width100% heightvh"
+          class="t396__artboard"
           data-artboard-recid="817085556"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="500"
@@ -1656,11 +1656,11 @@
           data-artboard-height-res-1680="450"
         >
           <div
-            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            class="t396__carrier"
             data-artboard-recid="817085556"
           ></div>
           <div
-            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            class="t396__filter"
             data-artboard-recid="817085556"
           ></div>
           <div
@@ -1770,7 +1770,7 @@
 
       <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard position-relative overflow-hidden width100% heightvh"
+          class="t396__artboard"
           data-artboard-recid="815761862"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="2021"
@@ -1784,11 +1784,11 @@
           data-artboard-height-res-1400="1911"
         >
           <div
-            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            class="t396__carrier"
             data-artboard-recid="815761862"
           ></div>
           <div
-            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            class="t396__filter"
             data-artboard-recid="815761862"
           ></div>
           <div
@@ -3309,7 +3309,7 @@
 
       <div class="t396 text-size-adjust-100">
         <div
-          class="t396__artboard position-relative overflow-hidden width100% heightvh"
+          class="t396__artboard"
           data-artboard-recid="817086155"
           data-artboard-screens="320,480,640,960,1200,1400,1680,1920"
           data-artboard-height="500"
@@ -3324,11 +3324,11 @@
           data-artboard-height-res-1680="450"
         >
           <div
-            class="t396__carrier position-absolute -moz-transform-unset left0 z-index-0 top0 width100% heightvh"
+            class="t396__carrier"
             data-artboard-recid="817086155"
           ></div>
           <div
-            class="t396__filter position-absolute z-index-1 top0 left0 transform-translateZ0 width100% heightvh"
+            class="t396__filter"
             data-artboard-recid="817086155"
           ></div>
           <div

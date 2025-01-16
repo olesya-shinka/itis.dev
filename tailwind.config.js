@@ -9,6 +9,18 @@ module.exports = {
   ],
   theme: {
     extend: {
+      zIndex: {
+        990: "990",
+      },
+      zIndex: {
+        15: "15",
+      },
+      zIndex: {
+        989: "989",
+      },
+      textIndent: {
+        "-22": "-22px",
+      },
       textSizeAdjust: {
         100: "100%",
       },
@@ -19,10 +31,23 @@ module.exports = {
         sans: ["Manrope", "Arial", "sans-serif"],
       },
       screens: {
-        "custom-lg": { max: "1200px" },
-        "1200px": "1200px",
-        "1400px": "1400px",
-        "1680px": "1680px",
+        lg: { max: "1200px" }, // max-width: 1200px
+        sm: { max: "640px" }, // max-width: 640px
+        ss: { max: "480px" }, // max-width: 480px
+        "max-980": { max: "980px" }, // max-width: 980px
+        "max-640": { max: "640px" }, // max-width: 640px
+        "max-480": { max: "480px" }, // max-width: 480px
+        "max-320": { max: "320px" }, // max-width: 320px
+        "min-321": { min: "321px" }, // min-width: 321px
+        "min-481": { min: "481px" }, // min-width: 481px
+        "min-641": { min: "641px" }, // min-width: 641px
+        "min-981": { min: "981px" }, // min-width: 981px
+        "min-1201": { min: "1201px" }, // min-width: 1201px
+        "max-960": { max: "960px" },
+        "max-640": { max: "640px" },
+      },
+      lineHeight: {
+        "28": "28px",
       },
     },
   },
