@@ -24,6 +24,12 @@ module.exports = {
       zIndex: {
         3: "3",
       },
+      zIndex: {
+        6: "6",
+      },
+      zIndex: {
+        7: "7",
+      },
       textIndent: {
         "-22": "-22px",
       },
