@@ -42,6 +42,7 @@
   #allrecords .t-checkbox,
   #allrecords .t-img-select {
     outline: none;
+    color: black;
   }
 
   #allrecords a:focus-visible,
@@ -319,14 +320,14 @@
       line-height: 1.45;
     }
     .t-name_xl {
-      font-size: 20px;
+      font-size: 24px;
     }
     .t-heading_md {
       font-size: 24px;
     }
   }
   /* max-width: 480px */
-  @screen ss {
+  @screen max-480 {
     .t-rec_pt_0 {
       padding-top: 0;
     }
@@ -344,7 +345,7 @@
     }
   }
   /* max-width: 1200px */
-  @screen lg {
+  @screen max-1200 {
     .t-screenmin-1200px {
       display: none;
     }
@@ -618,7 +619,7 @@
     @apply mt-5;
   }
 
-  @screen lg {
+  @screen max-1200 {
     .t282__menu__content {
       @apply px-5;
     }
@@ -890,6 +891,8 @@
   #allrecords .t-uptitle a,
   #allrecords .tn-atom[field] a {
     transition: color 0.3s;
+    color: #0179ff;
+    text-decoration: none;
   }
 
   #allrecords .t-text a:hover,
@@ -944,7 +947,7 @@
   .t396__artboard {
     position: relative;
     width: 100%;
-    height: 100vh;
+    height: 42vh;
     overflow: hidden;
   }
 

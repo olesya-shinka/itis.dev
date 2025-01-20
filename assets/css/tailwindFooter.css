@@ -20,7 +20,6 @@
 }
 
 @layer components {
-
   .t396__artboard {
     @apply h-[332px];
   }
@@ -158,7 +157,7 @@
   }
 
   #rec815345943 .tn-elem[data-elem-id="1475147461250"] .tn-atom {
-    @apply text-[#525252] text-[14px] font-sans leading-[2] font-light bg-center border-transparent border-solid;
+    @apply text-[#525252] text-[14px] font-[Arial] leading-[2] font-[400] bg-center border-transparent border-solid;
   }
 
   @screen max-1919 {
@@ -250,7 +249,7 @@
   }
 
   #rec815345943 .tn-elem[data-elem-id="1475147675390"] .tn-atom {
-    @apply text-[#525252] text-[16px] font-sans leading-[1.55] font-bold tracking-[1px] bg-center border-transparent border-solid;
+    @apply text-[#525252] text-[16px] font-[Arial] leading-[1.55] font-[700] tracking-[1px] bg-center border-transparent border-solid;
   }
 
   @screen max-1679 {
@@ -306,7 +305,7 @@
   }
 
   #rec815345943 .tn-elem[data-elem-id="1475147678114"] .tn-atom {
-    @apply text-[#000000] text-[14px] font-sans leading-[2] font-normal bg-center border-transparent border-solid;
+    @apply text-[#000000] text-[14px] font-[Arial] font-[400] leading-[2] bg-center border-transparent border-solid;
   }
 
   @screen max-1679 {

@@ -15,7 +15,7 @@
   }
 
   sup {
-    @apply text-sm leading-none align-super;
+    @apply text-[32px] leading-none align-super;
   }
 
   sub {

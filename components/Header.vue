@@ -728,7 +728,7 @@
               </a>
             </div>
             <div
-              class="t396__elem tn-elem menu "
+              class="t396__elem tn-elem menu"
               data-elem-id="1730092791587"
               data-elem-type="button"
               data-field-top-value="88"

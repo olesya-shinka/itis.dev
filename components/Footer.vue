@@ -19,7 +19,6 @@
         data-record-type="396"
         data-bg-color="#dcf0ff"
       >
-        <!-- T396 -->
         <div class="t396 text-size-adjust-100">
           <div
             class="t396__artboard"
