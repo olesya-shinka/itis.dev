@@ -912,7 +912,7 @@
             </div>
           </div>
           <div class="t282__menu__container t282__closed">
-            <div class="t282__menu__wrapper" style="background-color: #ffffff">
+            <div class="t282__menu__wrapper">
               <div class="t282__menu">
                 <nav>
                   <ul role="list" class="t282__menu__items t-menu__list">

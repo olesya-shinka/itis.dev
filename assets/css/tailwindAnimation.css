@@ -12,7 +12,7 @@
     opacity: 0;
   }
 
-  @media screen and (min-width: 980px) {
+  @screen max-980 {
     .t-animate[data-animate-style="fadein"],
     .t-animate[data-animate-style="fadeindown"],
     .t-animate[data-animate-style="fadeinleft"],

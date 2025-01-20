@@ -283,8 +283,7 @@
     padding-bottom: 105px;
   }
 
-  /* max-width: 1200px */
-  @screen lg {
+  @screen max-1200 {
     .t-text_xs {
       font-size: 14px;
     }
@@ -306,7 +305,7 @@
   }
 
   /* max-width: 640px */
-  @screen sm {
+  @screen max-640 {
     .t-text_xs {
       font-size: 12px;
       line-height: 1.45;

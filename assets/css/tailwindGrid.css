@@ -142,7 +142,7 @@
     @apply w-[100vw];
   }
 
-  @media screen and (max-width: 1200px) {
+  @screen max-1200 {
     .t-container {
       @apply max-w-[960px] p-0;
     }
@@ -201,7 +201,7 @@
     .t-width_100 { @apply w-full; }
   }
 
-  @media screen and (max-width: 960px) {
+  @screen max-960 {
     .t-container {
       @apply max-w-[640px];
     }

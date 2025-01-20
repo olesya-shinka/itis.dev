@@ -6265,7 +6265,7 @@
     border-color: #ffffff;
   }
 
-  @screens max-1919 {
+  @screen max-1919 {
     #rec815761862 .tn-elem[data-elem-id="1729749247959"] {
       left: calc(50% - 840px + 812px);
     }
@@ -6275,7 +6275,7 @@
     }
   }
 
-  @screens max-1679 {
+  @screen max-1679 {
     #rec815761862 .tn-elem[data-elem-id="1729749247959"] {
       top: 1314px;
       left: calc(50% - 700px + 672px);
@@ -6287,7 +6287,7 @@
     }
   }
 
-  @screens max-1399 {
+  @screen max-1399 {
     #rec815761862 .tn-elem[data-elem-id="1729749247959"] {
       top: 1354px;
       left: calc(50% - 600px + 572px);
@@ -6306,7 +6306,7 @@
     }
   }
 
-  @screens max-1199 {
+  @screen max-1199 {
     #rec815761862 .tn-elem[data-elem-id="1729749247959"] {
       top: 1270px;
       left: calc(50% - 480px + 456px);
@@ -6318,7 +6318,7 @@
     }
   }
 
-  @screens max-959 {
+  @screen max-959 {
     #rec815761862 .tn-elem[data-elem-id="1729749247959"] {
       top: 629px;
       left: calc(50% - 320px + 296px);
@@ -6330,7 +6330,7 @@
     }
   }
 
-  @screens max-639 {
+  @screen max-639 {
     #rec815761862 .tn-elem[data-elem-id="1729749247959"] {
       top: 1001px;
       left: calc(50% - 240px + 20px);
@@ -6344,7 +6344,7 @@
     }
   }
 
-  @screens max-479 {
+  @screen max-479 {
     #rec815761862 .tn-elem[data-elem-id="1729749247959"] {
       top: 1166px;
       left: calc(50% - 160px + 14px);

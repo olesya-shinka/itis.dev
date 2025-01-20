@@ -34,12 +34,14 @@ module.exports = {
         sans: ["Manrope", "Arial", "sans-serif"],
       },
       screens: {
+        "hover-hover": { raw: "(hover: hover), (min-width: 0\\0)" },
         "max-1919": { max: "1919px" }, // max-width: 1919px
         "max-1679": { max: "1679px" }, // max-width: 1679px
         "max-1399": { max: "1399px" }, // max-width: 1399px
         "max-1200": { max: "1200px" }, // max-width: 1200px
         "max-1199": { max: "1199px" }, // max-width: 1199px
         "max-959": { max: "959px" }, // max-width: 959px
+        "max-960": { max: "960px" },
         "max-639": { max: "639px" }, // max-width: 639px
         "max-479": { max: "479px" },
         "max-480": { max: "480px" }, // max-width: 479px
